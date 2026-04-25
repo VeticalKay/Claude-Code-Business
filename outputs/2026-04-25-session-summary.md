@@ -1,103 +1,40 @@
-# Session Summary — 25. April 2026
+# Session Summary — 2026-04-25
 
-## Was besprochen & erledigt wurde
+## Was wurde besprochen
 
-### TikTok Karussell-Posts — Ausbildung (Hauptthema)
+- Idee: Strukturierter Heimtrainingsplan für Schülerinnen ohne Pole/Aerial Hoop
+- 25 Videos im Google Drive analysiert und kategorisiert
+- Kategorien: Warm Up, Handgelenk, Schulter, Brust/Mobilisation, Core/Bauch, Push Ups
+- Push Up Progression: Nr.1 Eng + Nr.2 Weit = Beginner; Nr.3 Fäuste = Intermediate; Nr.4 Wechsel = Progression; Stripper = Fortgeschritten
+- Core-Videos alle gleichwertig, alle Levels, beliebig variierbar
 
-Drei vollständige 6-Slide TikTok Karussells (1080×1350px) für das Thema **Ausbildung / VerticalKay Education** wurden erstellt und finalisiert:
+## Was wurde erledigt
 
----
+### 8 Trainingspläne (~20 min) als PDF erstellt
+- Plan 01 Klassisch, 02 Tiefenstabilität, 03 Mobilität & Kraft, 04 Lateralstärke
+- Plan 05 Schulter Power, 06 Core Intensiv, 07 Fortgeschritten, 08 Voller Mix
+- Jede Einheit: Warm Up (5 min) → Handgelenk → Schulter → Brust → Core → Push Up
+- 3 × 8 Wiederholungen, klickbare Google Drive Video-Links in jedem Plan
 
-#### Karussell 1 — Wave_Schwarz (`DAHH28KCzGg`)
-**Vorlage:** Schwarzer Hintergrund + Magenta Wave-Grafik  
-**Inhalt:** VerticalKay Methode — 4 pädagogische Säulen  
-**Säule:** Methodik / Säule 1
+### Design: Dark Luxury (nach Brand-DNA Referenz TikTok-Karussell)
+- Schwarzer Hintergrund, Didot + Georgia Schriften
+- Fliessende Magenta-Welle im Header (Bézierkurven)
+- Dunkle Übungskarten mit Magenta-Akzentstreifen
+- Script: scripts/create_trainingspläne.py — alle PDFs in einem Lauf neu generierbar
 
-| Slide | Subtitle (kursiv) | Haupttext |
-|-------|-------------------|-----------|
-| 1 | *Was trennt gute Trainer von großartigen?* | Die VerticalKay Methode. |
-| 2 | *01 — Anatomie & Ästhetik* | Figuren im Körper verstehen — nicht nur kopieren. |
-| 3 | *02 — Progression* | Schritt für Schritt. Bis die Figur dein Körper wird. |
-| 4 | *03 — Körpergefühl* | Erst spüren. Dann zeigen. |
-| 5 | *04 — Empathie* | Räume halten. Nicht nur Figuren zeigen. |
-| 6 | *Bereit für mehr?* | Unsere Ausbildung beginnt, wo du gerade stehst. |
-
-**Anpassungen:**
-- Thin Subtitle-Texte auf allen 6 Slides kursiv gesetzt
-- Typografie von Katarina auf Slide 1 & 2 überarbeitet → Layout auf Slides 3–6 übertragen (Positionen + Textformat mit Zeilenumbrüchen)
-- Wave-Grafik bleibt auf allen Slides (Fotoaustausch rückgängig gemacht)
-
----
-
-#### Karussell 2 — Bild_Person (`DAHH3g4c7xY`)
-**Vorlage:** Fotos mit Magenta Filmstreifen-Rahmen  
-**Inhalt:** FAQ / Einwände vor der Ausbildung  
-**Säule:** Säule 4
-
-| Slide | Text |
-|-------|------|
-| 1 | »Ich bin noch nicht gut genug für eine Ausbildung.« |
-| 2 | 01 / Gute Trainer werden nicht geboren. Sie werden geformt. |
-| 3 | 02 / Du brauchst keine Perfektion. Nur Neugier & Haltung. |
-| 4 | 03 / Unsere Ausbildung beginnt dort, wo du gerade stehst. |
-| 5 | 04 / Figuren, Technik, Empathie — alles lernst du bei uns. |
-| 6 | Frag uns. Kein Druck. Nur ein Gespräch. |
-
-**Anpassungen:** Versehentlich angewendetes Kursiv wieder entfernt (normal)
-
----
-
-#### Karussell 3 — Typografie (`DAHH22hH1iw`)
-**Vorlage:** Schwarz-Magenta Gradient, Luxury-Typografie  
-**Inhalt:** Business-Wissen / No-Gos als Ausbildnerin  
-**Säule:** Säule 3
-
-| Slide | Inhalt |
-|-------|--------|
-| 1 | Titelbild — Was du als Ausbildnerin wissen musst |
-| 2–4 | Business-Insights: Preise, Verträge, Positionierung |
-| 5 | **Schnupperkurse gratis anbieten ist ein No-Go** |
-| 6 | CTA: Kommentiere AUSBILDUNG |
-
-**Anpassungen:** Schriftgröße 52px + bold, Logo oben links, CTA nur auf letzter Slide
-
----
-
-### Canva Ordnerstruktur
-
-- Alle 3 Karussells im Ordner **Test** (`FAHH3rMGvDs`)
-- Test-Ordner als Unterordner in **TikTok Karussells — Vertical Kay Education** (`FAHH1xAUk2w`) verschoben
-- Foto-Ordner-Struktur geklärt: `Fotos für Hintergründe` hat Unterordner nach Kategorien (Pole Dance mit 33 Fotos, Aerial Hoop, Chair Dance, Stretching, Sensual Heel, Floor Work)
-
----
+### Logo-Situation
+- Altes Logo (pink, Text-only) nicht verwendet
+- Neues Logo (schwarzes Quadrat + VK-Monogramm) liegt erst nächste Woche als PNG vor
+- Aktuell: elegante Text-Approximation im Header
 
 ## Offene Punkte / Nächste Schritte
 
-- [ ] **Weitere Karussells erstellen** — andere Säulen (Säule 2, 5 etc.) mit denselben 3 Vorlagen
-- [ ] **Karussell 2 (Bild_Person)** — Fotos ggf. noch austauschen, wenn gewünscht
-- [ ] **Karussells posten** — aus dem Test-Ordner in „Fertig Posten" verschieben wenn bereit
-- [ ] **Weitere Content-Säulen** für TikTok ausarbeiten
-- [ ] **Posting-Zeitplan** festlegen für die 3 fertigen Karussells
+1. **Logo einbauen** — PNG nächste Woche in Google Drive Logo-Ordner hochladen → sofort in alle 8 PDFs eingebaut
+2. **Design-Feedback** — Dark-Design noch nicht final bewertet, morgen besprechen und ggf. anpassen
+3. **Plan B (30 min)** — erstellt aber noch nicht gezeigt/besprochen
+4. **Weitere Pläne 9–12** — restliche Videos (Brustbein in Plank, Schulter/Core Plank, Wand-Push) noch nicht eingebaut
 
----
-
-## Inhaltliche Korrektur — VerticalKay Methode
-
-**Falsch:** „Räume halten. Nicht nur Figuren zeigen."
-**Richtig:** Figuren werden gezeigt — aber aus der Verkörperung heraus. Erst spüren, verstehen, eins werden — dann zeigen. Immer positiv formulieren, nie negativ.
-
-**Korrekte Formulierungen:**
-- „Räume halten. Figuren von innen heraus zeigen."
-- „Räume halten. Figuren verkörpern — und dann zeigen."
-- „Räume halten. Figuren werden, bevor du sie zeigst."
-
-→ Gilt für alle Content-Formate: Karussells, Captions, Website, Ausbildungsskripte.
-
----
-
-## Technische Notizen (Canva API)
-
-- Foto-Transparenz Regel beachten: 40–50% Opacity auf schwarzem Hintergrund
-- Schatten auf Text: nicht per API möglich → manuell in Canva unter Texteffekte → Schatten
-- Neue Seiten zu bestehenden Designs hinzufügen: nicht per API möglich → manuell duplizieren, dann API befüllen
-- Wave-Grafik Asset-ID: `MAHH2zoFlgM`
+## Technische Referenz
+- Video-Ordner Google Drive: 1gcjDexOhUwADFpmZvgKfM01gsNqx3Owz
+- Logo-Ordner Google Drive: 1I0EhIhRK_XMLdRt7zsYIebT1NyaAjM-X
+- Script zum Neu-Generieren: python3 scripts/create_trainingspläne.py
