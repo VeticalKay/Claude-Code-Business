@@ -81,6 +81,20 @@ Drei vollständige 6-Slide TikTok Karussells (1080×1350px) für das Thema **Aus
 
 ---
 
+## Inhaltliche Korrektur — VerticalKay Methode
+
+**Falsch:** „Räume halten. Nicht nur Figuren zeigen."
+**Richtig:** Figuren werden gezeigt — aber aus der Verkörperung heraus. Erst spüren, verstehen, eins werden — dann zeigen. Immer positiv formulieren, nie negativ.
+
+**Korrekte Formulierungen:**
+- „Räume halten. Figuren von innen heraus zeigen."
+- „Räume halten. Figuren verkörpern — und dann zeigen."
+- „Räume halten. Figuren werden, bevor du sie zeigst."
+
+→ Gilt für alle Content-Formate: Karussells, Captions, Website, Ausbildungsskripte.
+
+---
+
 ## Technische Notizen (Canva API)
 
 - Foto-Transparenz Regel beachten: 40–50% Opacity auf schwarzem Hintergrund
