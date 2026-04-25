@@ -30,6 +30,12 @@
 - Direkte operative Konsequenz: Umsatzverlust und schlechte Ressourcennutzung
 - Lösungsansatz: Klarere Absagefristen, automatisierte Wartelisten oder Drop-in-Buchungssystem
 
+**In Arbeit (seit 25.04.26):**
+- Prüfungskalender-Projekt gestartet: Google Sheets Tabelle analysiert, System-Konzept steht
+- Empfehlung: WordPress Plugin Amelia + Google Drive Link als Custom Field
+- Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
+- 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
+
 ---
 
 ## Datenquellen
