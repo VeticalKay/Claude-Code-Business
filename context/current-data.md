@@ -31,9 +31,11 @@
 - Lösungsansatz: Klarere Absagefristen, automatisierte Wartelisten oder Drop-in-Buchungssystem
 
 **In Arbeit (seit 25.04.26):**
-- Prüfungskalender-Projekt gestartet: Google Sheets Tabelle analysiert, System-Konzept steht
-- Empfehlung: WordPress Plugin Amelia + Google Drive Link als Custom Field
-- Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
+- Prüfungskalender-Projekt: Konzept finalisiert, vollständiger Setup-Plan steht (27.04.26)
+- Tool-Entscheidung getroffen: **Amelia Lite** (kostenloses WordPress Plugin)
+- Setup-Plan: Service Prüfungstermin (120 Min, Kapazität 1), Manual Approval, Custom Fields (Prüfungsart + Drive Link), Einbindung per Shortcode
+- Google Drive Link: Teilnehmer reichen ihn per E-Mail nach (katarina@tolkmit.de)
+- Nächster Schritt: Plugin installieren, Seite `/prüfungstermine` anlegen, Texte formulieren
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
 ---
