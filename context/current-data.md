@@ -31,12 +31,14 @@
 - Lösungsansatz: Klarere Absagefristen, automatisierte Wartelisten oder Drop-in-Buchungssystem
 
 **In Arbeit (seit 25.04.26):**
-- Prüfungskalender-Projekt: Konzept finalisiert, vollständiger Setup-Plan steht (27.04.26)
-- Tool-Entscheidung getroffen: **Amelia Lite** (kostenloses WordPress Plugin)
-- Setup-Plan: Service Prüfungstermin (120 Min, Kapazität 1), Manual Approval, Custom Fields (Prüfungsart + Drive Link), Einbindung per Shortcode
-- Google Drive Link: Teilnehmer reichen ihn per E-Mail nach (katarina@tolkmit.de)
-- Nächster Schritt: Plugin installieren, Seite `/prüfungstermine` anlegen, Texte formulieren
-- 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
+- Prüfungskalender: Amelia Lite vollständig eingerichtet (28.04.26)
+  - Service, manuelle Bestätigung, Arbeitszeiten, Besondere Tage alle konfiguriert
+  - 8 freie Prüfungstermine eingetragen (Juli–Dezember 2026)
+  - ⚠️ 26.10.2026 Zeit prüfen: sollte 12:00–14:00 sein
+- Nächster Schritt: Amelia Widget auf Prüfungs-Seite in Elementor platzieren
+- **Geplant für Wochenende:** Upgrade auf Amelia Standard (~45€/Jahr) für Custom Fields
+- Nach Upgrade: Prüfungsart + Google Drive Link als Custom Fields einrichten
+- Custom Fields (Prüfungsart, Drive Link) = nur Bezahlversion — aktuell Notizfeld als Workaround
 
 ---
 
