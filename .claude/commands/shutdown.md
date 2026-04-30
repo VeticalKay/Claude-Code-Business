@@ -5,7 +5,12 @@ Fasse die aktuelle Session zusammen, speichere alle Änderungen und pushe alles 
    - Was wurde erledigt
    - Offene Punkte / nächste Schritte
 
-2. Prüfe ob `context/current-data.md` aktualisiert werden muss (neue Erkenntnisse, geänderte Prioritäten).
+2. Aktualisiere `outputs/todo.md`:
+   - Aufgaben, die diese Session erledigt wurden → in den Abschnitt `✅ Erledigt` verschieben (mit heutigem Datum)
+   - Neue offene Punkte / nächste Schritte aus dieser Session → in den passenden Abschnitt unter `📋 Offen` eintragen
+   - Letzte Zeile aktualisieren: `_Zuletzt aktualisiert: TT.MM.JJJJ_`
+
+3. Prüfe ob `context/current-data.md` aktualisiert werden muss (neue Erkenntnisse, geänderte Prioritäten).
 
 3. Führe folgende Git-Befehle aus:
    - `git add context/ outputs/` — nur relevante Ordner stagen
