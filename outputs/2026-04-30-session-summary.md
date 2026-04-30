@@ -1,65 +1,66 @@
 # Session-Zusammenfassung — 30. April 2026
 
-## Was wurde erledigt
+---
 
-### Tally Feedback-Formular — "Feedback Trainingsplan 01"
+## Session A: Tally / Google Forms Feedback-Formular
 
-Katarina testet Trainingsplan 01 bei ihren Schülerinnen und wollte ein digitales Feedback-Formular, das per WhatsApp-Link geteilt werden kann.
+### Was wurde erledigt
 
 **Tally API — Technische Lösung gefunden:**
 
 Nach längerer Debugging-Session wurde die korrekte Block-Struktur für Multiple-Choice-Fragen in der Tally API ermittelt:
+- `isFirst` und `isLast` müssen im **Payload** der MC-Option stehen
+- Formular "Feedback Trainingsplan 01" wurde erstellt (Tally Form ID: Bz8KGK)
 
-- `isFirst` und `isLast` müssen im **Payload** der MC-Option stehen (nicht auf Block-Ebene)
-- Erste Option: `payload.isFirst=true, isLast=false`
-- Letzte Option: `payload.isFirst=false, isLast=true`
-- Block-Level `isFirst=false` für alle MC-Optionen
+**Entscheidung: Wechsel zu Google Forms**
 
-**Formular erstellt:**
+Tally verlangt Bezahlung für Design-Anpassungen. Katarina entscheidet sich für **Google Forms** — kostenlos, mobil-freundlich. Alle 12 Fragen als Liste aufbereitet zum manuellen Eintragen.
 
-| Feld | Wert |
-|------|------|
-| Name | Feedback Trainingsplan 01 – VerticalKay |
-| Tally Form ID | Bz8KGK |
-| Öffentlicher Link | https://tally.so/r/Bz8KGK |
-| Status | PUBLISHED |
+---
 
-**12 Fragen:**
-1. Gesamtbewertung (1–5, Multiple Choice)
-2. Trainingsdauer (MC)
-3. Zeitbudget passend? (MC)
-4. Häufigkeit pro Woche (MC)
-5. Länge der Einheiten (MC)
-6. Kurzversion gewünscht? (MC)
-7. Übungen klar verständlich? (MC)
-8. Flow & Aufbau (MC)
-9. Anzahl der Übungen (MC)
-10. Was hat dir gut gefallen? (Freitext)
-11. Was würdest du dir anders wünschen? (Freitext)
-12. Weiterempfehlung? (MC)
+## Session B: Instagram Stories automatisiert in Canva
 
-### Entscheidung: Wechsel zu Google Forms
+### Was wurde besprochen
 
-Tally verlangt Bezahlung für Design-Anpassungen (Farben, Logo). Katarina entscheidet sich für **Google Forms** statt Tally — kostenlos, mobil-freundlich, automatische Antwort-Sammlung per Google Tabelle.
+- Automatisierte Erstellung von Instagram Stories in Canva via MCP
+- Content-Serie: "Der Fehler: Freunde einzustellen" (Business-Story-Format)
+- Optimierung von Slide-Texten und Story-Arc
 
-Alle 12 Fragen wurden als fertige Liste aufbereitet zum manuellen Eintragen in Google Forms.
+### Was wurde erledigt
+
+**15-Slide Business Story (Vollversion)**
+- Design: `VK_Business_Freunde_einstellen_Story` (DAHIUg18XsA)
+- 15 Slides mit vollständigem Story-Content befüllt
+- Weißes VerticalKay Education Logo auf allen Slides (top: 35, left: 40)
+- Design gespeichert ✅
+
+**4-Slide SHORT Version (finale Version)**
+- Design: `DAHIW3aPvLs` (Template von Katarina mit 4 sauberen Slides)
+- S1: "Der Fehler, der mich im Business am meisten gekostet hat: Freunde einzustellen."
+- S2: "Ich sage das heute ganz klar: Dein Business ist kein Freundeskreis."
+- S3: "Freunde schützen sich gegenseitig. Im Business kostet dich das Tempo, Klarheit und Autorität."
+- S4: "Was wirklich ultra-produktiv für dein Wachstum ist: Menschen, die deine Vision tragen – nicht deine Geschichte kennen."
+- Design gespeichert ✅
+
+**Workflow-Erkenntnis**
+Bestes Setup für zukünftige Stories: Katarina erstellt eine Vorlage mit X leeren Slides (Design + Logo) und schickt den Link → Claude tauscht nur die Texte aus.
 
 ---
 
 ## Offene Punkte / Nächste Schritte
 
-### Kurzfristig
-- **Google Forms Formular anlegen**: Katarina trägt die 12 Fragen manuell ein (ca. 10 Min.) → Link per WhatsApp an Schülerinnen
-- **Tally-Formular löschen** (optional, da nicht genutzt): Im Tally-Account unter forms.tally.so
+- [ ] Google Forms Formular mit 12 Fragen anlegen (manuell, ca. 10 Min.)
+- [ ] Beide Canva Story-Designs manuell in Ordner "Instagramm Stories" verschieben
+- [ ] Hintergrund-Verlaufsfarbe auf `#cd8bbb` anpassen (manuell in Canva)
+- [ ] Nächste Content-Serie: Vorlage (4 Slides) + Texte → Claude befüllt
 
-### Mittelfristig
-- **Logo-Integration**: VK-Monogramm in alle 8 Canva-Trainingspläne einfügen (neues PNG liegt im Canva Brand Kit)
-- **Plans 09–12**: Weitere Trainingspläne noch nicht erstellt
-- **Website**: Prüfungskalender + WhatsApp-Button dringend
+---
 
-### Langfristig
-- Buchprojekte (Affären-Buch, Feminity vs. Feminism)
-- /shutdown + GitHub Setup vollständig einrichten
+## Technische Notizen (Canva)
+
+- MCP: Seiten können via API nicht gelöscht werden → Template-Ansatz ist die Lösung
+- Brand Kit ID: `kADeZ6CrZVQ` | Weißes Logo Asset ID: `MAHIVcTcMQ4`
+- Ordner "Instagramm Stories" (FAHIUlVwc_M) war via API nicht erreichbar
 
 ---
 
