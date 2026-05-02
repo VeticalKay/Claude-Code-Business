@@ -14,6 +14,9 @@
 - [ ] Website: WhatsApp-Button einbauen
 
 ### Mittel / Demnächst
+- [ ] Trainingsplan 09 & 10: restliche Videos filmen & auf Google Drive hochladen
+- [ ] Canva-Designs für Plan 09 & 10 bauen (nach Videodreh)
+- [ ] Alfima Kurs-Texte & Verkaufsseite schreiben (wenn alle Videos fertig)
 - [ ] Ausbildungsplattform: Nächsten Skript-Abschnitt fertigstellen
 - [ ] TikTok Karussell 4 erstellen (laut Content-Strategie)
 - [ ] Affären-Buch: Kapitel 7 weiterschreiben
@@ -41,4 +44,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 01.05.2026_
+_Zuletzt aktualisiert: 01.05.2026 (Abend)_
