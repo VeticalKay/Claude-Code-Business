@@ -32,6 +32,8 @@
 
 ## ✅ Erledigt
 
+- [x] Zoom Meeting Links Mai–Dezember 2026 erstellt (8 Links, Mo–Fr 15:00–21:00) (03.05.2026)
+- [x] Zoom API App eingerichtet (Vertical_Kay_Online_Studio, Server-to-Server OAuth) (03.05.2026)
 - [x] Reel-Script + Sprechscript für Logo Relaunch erstellt (01.05.2026)
 - [x] Google Forms Feedback-Formular für Trainingsplan 01 erstellt & veröffentlicht (01.05.2026)
 - [x] Canva Stories automatisiert befüllt: 15-Slide Vollversion + 4-Slide SHORT Version "Freunde einzustellen" (30.04.2026)
@@ -44,4 +46,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 01.05.2026 (Abend)_
+_Zuletzt aktualisiert: 03.05.2026_
