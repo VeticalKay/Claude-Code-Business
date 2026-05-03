@@ -8,6 +8,8 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **Eversports**: Zoom-Links einfügen + Kurse komplett anlegen (morgen mit Claude, Login + Kursliste vorbereiten)
+- [ ] **Zoom-Links**: Uhrzeiten manuell in Zoom korrigieren (15:00–21:00 Wiener Zeit)
 - [ ] **Reel Logo Relaunch fertigstellen**: Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
 - [ ] Prüfungskalender: Warteliste vervollständigen (vollständige Liste nachliefern)
 - [ ] WordPress Plugin Amelia recherchieren & evaluieren für Prüfungstermine
