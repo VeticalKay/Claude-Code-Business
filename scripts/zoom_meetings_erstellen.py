@@ -33,7 +33,9 @@ def first_weekday(date_str):
     d = datetime.strptime(date_str, "%Y-%m-%d")
     while d.weekday() >= 5:  # Samstag=5, Sonntag=6
         d += timedelta(days=1)
-    return d.strftime("%Y-%m-%dT15:00:00")
+    # Sommerzeit (CEST) April–Oktober = UTC+2, Winterzeit (CET) Nov–März = UTC+1
+    offset = "+02:00" if 4 <= d.month <= 10 else "+01:00"
+    return d.strftime("%Y-%m-%dT15:00:00") + offset
 
 
 def create_meeting(token, meeting):
