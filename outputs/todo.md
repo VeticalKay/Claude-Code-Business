@@ -8,9 +8,7 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
-- [ ] **Buchhaltung: iCloud-Pfad im Skript fixieren** — Screenshot des richtigen Ordners zu Beginn zeigen
-- [ ] **Buchhaltung: Duplikate bereinigen** — iCloud + Google Drive noch nicht 100% sauber
-- [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten Ordnernamen für Tolkmit & Verticalkay finden
+- [ ] **PythonAnywhere einrichten** — Skript + Credentials hochladen, Scheduled Task einrichten (15-20 Min)
 - [ ] **Eversports**: Zoom-Links einfügen + Kurse komplett anlegen (morgen mit Claude, Login + Kursliste vorbereiten)
 - [ ] **Zoom-Links**: Uhrzeiten manuell in Zoom korrigieren (15:00–21:00 Wiener Zeit)
 - [ ] **Reel Logo Relaunch fertigstellen**: Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
@@ -19,6 +17,7 @@
 - [ ] Website: WhatsApp-Button einbauen
 
 ### Mittel / Demnächst
+- [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
 - [ ] Trainingsplan 09 & 10: restliche Videos filmen & auf Google Drive hochladen
 - [ ] Canva-Designs für Plan 09 & 10 bauen (nach Videodreh)
 - [ ] Alfima Kurs-Texte & Verkaufsseite schreiben (wenn alle Videos fertig)
@@ -37,6 +36,12 @@
 
 ## ✅ Erledigt
 
+- [x] Buchhaltung: Google Drive API eingerichtet (OAuth2, Upload funktioniert) (06.05.2026)
+- [x] Buchhaltung: Passwörter sicher in .env ausgelagert (06.05.2026)
+- [x] Buchhaltung: iCloud + Google Drive Duplikate bereinigt (41 PDFs, sauber) (06.05.2026)
+- [x] Buchhaltung: iCloud-Pfad bestätigt korrekt (06.05.2026)
+- [x] Buchhaltung: iCloud-Pfad im Skript fixieren (06.05.2026)
+- [x] Buchhaltung: Duplikate bereinigen — iCloud + Google Drive sauber (06.05.2026)
 - [x] Zoom Meeting Links Mai–Dezember 2026 erstellt (8 Links, Mo–Fr 15:00–21:00) (03.05.2026)
 - [x] Zoom API App eingerichtet (Vertical_Kay_Online_Studio, Server-to-Server OAuth) (03.05.2026)
 - [x] Reel-Script + Sprechscript für Logo Relaunch erstellt (01.05.2026)
@@ -51,4 +56,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 03.05.2026_
+_Zuletzt aktualisiert: 06.05.2026_
