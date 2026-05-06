@@ -36,6 +36,13 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**In Arbeit (seit 06.05.26):**
+- Ausbildungsskript Level 1.0 Basic Statictechnik (Canva DAHDc3k9Loo, 412 Seiten)
+- Backup erstellt (DAHIm_UmdwA)
+- Video-Audit abgeschlossen: 45 Links vorhanden, 14 fehlen
+- TOC-Analyse abgeschlossen: Änderungsliste erstellt, manuelles Update steht aus
+- Noch offen: Logo, Fotos, Beschreibungen, 14 fehlende Videos
+
 ---
 
 ## Datenquellen

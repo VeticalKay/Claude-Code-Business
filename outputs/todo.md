@@ -18,10 +18,14 @@
 
 ### Mittel / Demnächst
 - [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
+- [ ] **Skript Level 1.0 Static – TOC aktualisieren**: Änderungsliste verwenden (outputs/2026-05-06-toc-aenderungsliste-level1-static.md), Haupt-TOC + Kapitel-Divider-Seiten (~10 Stellen)
+- [ ] **Skript Level 1.0 Static – Logo tauschen**: neues Logo als PNG bereitstellen → Claude kann tauschen
+- [ ] **Skript Level 1.0 Static – Fotos einfügen**: fehlende Fotos als Dateien bereitstellen
+- [ ] **Skript Level 1.0 Static – Beschreibungen anpassen**: Notizen im Skript → Texte aus anderem Kurs übernehmen
+- [ ] **14 fehlende Videos aufnehmen**: Liste in outputs/2026-05-04-skript-level1-static-videolinks.md → nach Upload Links in Canva eintragen
 - [ ] Trainingsplan 09 & 10: restliche Videos filmen & auf Google Drive hochladen
 - [ ] Canva-Designs für Plan 09 & 10 bauen (nach Videodreh)
 - [ ] Alfima Kurs-Texte & Verkaufsseite schreiben (wenn alle Videos fertig)
-- [ ] Ausbildungsplattform: Nächsten Skript-Abschnitt fertigstellen
 - [ ] TikTok Karussell 4 erstellen (laut Content-Strategie)
 - [ ] Affären-Buch: Kapitel 7 weiterschreiben
 
@@ -38,15 +42,15 @@
 
 - [x] Buchhaltung: Google Drive API eingerichtet (OAuth2, Upload funktioniert) (06.05.2026)
 - [x] Buchhaltung: Passwörter sicher in .env ausgelagert (06.05.2026)
-- [x] Buchhaltung: iCloud + Google Drive Duplikate bereinigt (41 PDFs, sauber) (06.05.2026)
+- [x] Buchhaltung: iCloud + Google Drive Duplikate bereinigt (06.05.2026)
 - [x] Buchhaltung: iCloud-Pfad bestätigt korrekt (06.05.2026)
-- [x] Buchhaltung: iCloud-Pfad im Skript fixieren (06.05.2026)
-- [x] Buchhaltung: Duplikate bereinigen — iCloud + Google Drive sauber (06.05.2026)
+- [x] Skript Level 1.0 Static: Video-Audit abgeschlossen (45 Links, 14 fehlen) (06.05.2026)
+- [x] Skript Level 1.0 Static: TOC-Änderungsliste erstellt (06.05.2026)
 - [x] Zoom Meeting Links Mai–Dezember 2026 erstellt (8 Links, Mo–Fr 15:00–21:00) (03.05.2026)
 - [x] Zoom API App eingerichtet (Vertical_Kay_Online_Studio, Server-to-Server OAuth) (03.05.2026)
 - [x] Reel-Script + Sprechscript für Logo Relaunch erstellt (01.05.2026)
 - [x] Google Forms Feedback-Formular für Trainingsplan 01 erstellt & veröffentlicht (01.05.2026)
-- [x] Canva Stories automatisiert befüllt: 15-Slide Vollversion + 4-Slide SHORT Version "Freunde einzustellen" (30.04.2026)
+- [x] Canva Stories automatisiert befüllt: 15-Slide Vollversion + 4-Slide SHORT Version (30.04.2026)
 - [x] Workflow etabliert: Template-Ansatz für zukünftige Story-Serien (30.04.2026)
 - [x] TikTok Karussell 1, 2 & 3 erstellt und finalisiert (26.04.2026)
 - [x] Canva Trainingspläne: Core & Hüftbeuger Umbenennung auf allen 8 Plänen (26.04.2026)
