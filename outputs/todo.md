@@ -8,6 +8,9 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **Buchhaltung: iCloud-Pfad im Skript fixieren** — Screenshot des richtigen Ordners zu Beginn zeigen
+- [ ] **Buchhaltung: Duplikate bereinigen** — iCloud + Google Drive noch nicht 100% sauber
+- [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten Ordnernamen für Tolkmit & Verticalkay finden
 - [ ] **Eversports**: Zoom-Links einfügen + Kurse komplett anlegen (morgen mit Claude, Login + Kursliste vorbereiten)
 - [ ] **Zoom-Links**: Uhrzeiten manuell in Zoom korrigieren (15:00–21:00 Wiener Zeit)
 - [ ] **Reel Logo Relaunch fertigstellen**: Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
