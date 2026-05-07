@@ -8,7 +8,7 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
-- [ ] **PythonAnywhere einrichten** — Skript + Credentials hochladen, Scheduled Task einrichten (15-20 Min)
+- [ ] **PythonAnywhere einrichten** — Anfang Juni (Finanzen neu strukturieren)
 - [ ] **Eversports**: Zoom-Links einfügen + Kurse komplett anlegen (morgen mit Claude, Login + Kursliste vorbereiten)
 - [ ] **Zoom-Links**: Uhrzeiten manuell in Zoom korrigieren (15:00–21:00 Wiener Zeit)
 - [ ] **Reel Logo Relaunch fertigstellen**: Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
@@ -40,6 +40,9 @@
 
 ## ✅ Erledigt
 
+- [x] Buchhaltung: Zahlungserinnerungen per E-Mail eingebaut (Saskia Otto, Bianca Sperling, Website Spezialisten) (07.05.2026)
+- [x] Buchhaltung: Unterordner PayPal/Apple/Adobe für .txt Erinnerungen (iCloud + Google Drive) (07.05.2026)
+- [x] Buchhaltung: 45 bestehende .txt Dateien in korrekte Unterordner verschoben (07.05.2026)
 - [x] Buchhaltung: Google Drive API eingerichtet (OAuth2, Upload funktioniert) (06.05.2026)
 - [x] Buchhaltung: Passwörter sicher in .env ausgelagert (06.05.2026)
 - [x] Buchhaltung: iCloud + Google Drive Duplikate bereinigt (06.05.2026)
@@ -60,4 +63,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 06.05.2026_
+_Zuletzt aktualisiert: 07.05.2026_
