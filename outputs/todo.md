@@ -8,7 +8,8 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
-- [ ] **Prüfungen kontrollieren** — zuerst Manya Teil 2, dann Jaleen Teil 2, dann Stück für Stück alle anderen
+- [ ] **Somava Teil 2 Feedback** — sobald PDF in Drive-Ordner erscheint, Feedback erstellen (31/33P für Teil 1 bereits erledigt)
+- [ ] **Prüfungen kontrollieren** — Manya Teil 2, Jaleen Teil 2
 - [ ] **Reel Logo Relaunch fertigstellen** — Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
 - [ ] **Prüfungskalender: Warteliste vervollständigen** — vollständige Liste nachliefern
 - [ ] **WordPress Plugin Amelia** — recherchieren & evaluieren für Prüfungstermine
@@ -51,6 +52,12 @@
 
 ## ✅ Erledigt
 
+- [x] Feedback Theorie Lea Frey: Teil 1 (28/33P) + Teil 2 (16/20P) mit Einleitungstext erstellt (10.05.2026)
+- [x] Feedback Theorie Anna Gugl: Teil 1 (26/33P) + Teil 2 (15/20P) erstellt (10.05.2026)
+- [x] Feedback Theorie Somava: Teil 1 (31/33P) erstellt (10.05.2026)
+- [x] Feedback Theorie Beate: Vollständige Prüfung (41,5/53P, 20 Aufgaben) erstellt (10.05.2026)
+- [x] Feedback-Standard V5 etabliert: persönlicher Einleitungstext für alle Schülerinnen (10.05.2026)
+- [x] Automatische Routine "Poledance Prüfungs-Feedback" Di+Fr 09:00 Wien eingerichtet (10.05.2026)
 - [x] **Studio-Website-Strategie komplett ausgearbeitet** — 12 Briefing-Dokumente in `outputs/website-studio-v2/` + Drive (Sitemap, Seitenstruktur, SEO, FAQs, Eversports, Designer-Briefing, Konkurrenz, Was-uns-anders-macht-Texte, SWOT, Stilkonsistenz, 2 Detail-Briefings) (10.05.2026)
 - [x] **Konkurrenz-Analyse Salzburg** durchgeführt (Fit & Fly, Dance Your Colours, Infinity Polesports) — Position "Verkörperung" als Alleinstellung identifiziert (10.05.2026)
 - [x] **SWOT-Analyse Vertical Kay** — 10 Stärken, 10 Schwächen, 12 Chancen, 10 Bedrohungen + 13 Strategien (10.05.2026)
