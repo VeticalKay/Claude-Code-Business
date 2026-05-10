@@ -36,7 +36,15 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
-**Neu abgeschlossen (10.05.26):**
+**Neu abgeschlossen (10.05.26 — Abend):**
+- Theorie-Feedbacks für 4 Schülerinnen erstellt (V5-Template mit persönlichem Einleitungstext, alle in "Feedbacks bearbeitet" Ordner):
+  - Lea Frey: Teil 1 (28/33P) + Teil 2 (16/20P)
+  - Anna Gugl: Teil 1 (26/33P) + Teil 2 (15/20P)
+  - Somava Willenbrock: Teil 1 (31/33P) — Teil 2 noch ausstehend
+  - Beate: Vollständige Prüfung (41,5/53P, 20 Aufgaben in einem Dokument)
+- Automatische Feedback-Routine "Poledance Prüfungs-Feedback Automatisch" eingerichtet: Di+Fr 09:00 Wien (ID: trig_01P4QfsjPTwnT5XFi1QgpAiU)
+
+**Neu abgeschlossen (10.05.26 — Morgen/Mittag):**
 - E-Mail Sortierung eingerichtet: beide Postfächer (tolkmit + verticalkay), 7.552 Mails sortiert
 - Ordnerstruktur angelegt: Rechnungen/Newsletter/Persönlich/Behörden (tolkmit) + Studio/Kunden/Ausbildungen/Events (verticalkay)
 - Cron Job: täglich 07:30 Uhr, email_sorter.py
