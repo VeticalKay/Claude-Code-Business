@@ -16,7 +16,8 @@
 - [ ] **PythonAnywhere einrichten** — Anfang Juni (Finanzen neu strukturieren)
 
 ### Mittel / Demnächst
-- [ ] Buchhaltung: AR Gesendet-Ordner — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
+- [ ] **E-Mail Sortierregeln nachschärfen** — 624 Tolkmit + 369 Verticalkay Mails ohne Match in INBOX, Regeln erweitern
+- [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
 - [ ] **Skript Level 1.0 Static – TOC aktualisieren** — Änderungsliste verwenden (outputs/2026-05-06-toc-aenderungsliste-level1-static.md), Haupt-TOC + Kapitel-Divider-Seiten (~10 Stellen)
 - [ ] **Skript Level 1.0 Static – Logo tauschen** — neues Logo als PNG bereitstellen → Claude kann tauschen
 - [ ] **Skript Level 1.0 Static – Fotos einfügen** — fehlende Fotos als Dateien bereitstellen
@@ -39,6 +40,8 @@
 
 ## ✅ Erledigt
 
+- [x] E-Mail Postfach-Automatisierung: Ordnerstruktur + 7.552 Mails sortiert (tolkmit + verticalkay) (10.05.2026)
+- [x] E-Mail Cron Job eingerichtet: täglich 07:30 Uhr (10.05.2026)
 - [x] Eversports: Zoom-Links eingetragen — Invert Intensive + Masterclass Online (07.05.2026)
 - [x] Buchhaltung: Zahlungserinnerungen per E-Mail eingebaut (Saskia Otto, Bianca Sperling, Website Spezialisten) (07.05.2026)
 - [x] Buchhaltung: Unterordner PayPal/Apple/Adobe für .txt Erinnerungen (iCloud + Google Drive) (07.05.2026)
@@ -64,4 +67,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 08.05.2026_
+_Zuletzt aktualisiert: 10.05.2026_

@@ -36,6 +36,11 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (10.05.26):**
+- E-Mail Sortierung eingerichtet: beide Postfächer (tolkmit + verticalkay), 7.552 Mails sortiert
+- Ordnerstruktur angelegt: Rechnungen/Newsletter/Persönlich/Behörden (tolkmit) + Studio/Kunden/Ausbildungen/Events (verticalkay)
+- Cron Job: täglich 07:30 Uhr, email_sorter.py
+
 **In Arbeit (seit 06.05.26):**
 - Ausbildungsskript Level 1.0 Basic Statictechnik (Canva DAHDc3k9Loo, 412 Seiten)
 - Backup erstellt (DAHIm_UmdwA)
