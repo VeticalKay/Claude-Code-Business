@@ -14,6 +14,17 @@
 - [ ] **WordPress Plugin Amelia** — recherchieren & evaluieren für Prüfungstermine
 - [ ] **Website: WhatsApp-Button einbauen**
 - [ ] **PythonAnywhere einrichten** — Anfang Juni (Finanzen neu strukturieren)
+- [ ] **Studio-Website: Designer-E-Mail schreiben & abschicken** — Vorlage in `outputs/website-studio-v2/06-designer-briefing.md`, Drive-Link mitschicken
+- [ ] **Studio-Website: Eversports Studio-ID raussuchen** — Eversports Backend → Einstellungen
+- [ ] **Studio-Website: Telefon, E-Mail, Geo-Koordinaten** ergänzen (Google Maps für Geo)
+
+### Nächste Woche — Studio-Website Materialien
+- [ ] **5–10 Studio-Fotos** raussuchen (eigene Foto-Bibliothek, hohe Auflösung)
+- [ ] **3 Schülerinnen anschreiben** für echte Testimonials — Frage: "Was hat sich für dich verändert seit du bei uns trainierst?"
+- [ ] **Canva-Brand-Kit Zugriff** für Designer freigeben (optional)
+
+### Wochenende 16.-17.05.2026
+- [ ] **Education-Konkurrenz analysieren** — Be In Flow, Somos Poledance, CAVE25 Vienna, Yoga & Pole Art by Selina, Polebatics Education (laut Brand DNA, für Vertical Kay Education Website-Vorbereitung)
 
 ### Mittel / Demnächst
 - [ ] **E-Mail Sortierregeln nachschärfen** — 624 Tolkmit + 369 Verticalkay Mails ohne Match in INBOX, Regeln erweitern
@@ -40,6 +51,12 @@
 
 ## ✅ Erledigt
 
+- [x] **Studio-Website-Strategie komplett ausgearbeitet** — 12 Briefing-Dokumente in `outputs/website-studio-v2/` + Drive (Sitemap, Seitenstruktur, SEO, FAQs, Eversports, Designer-Briefing, Konkurrenz, Was-uns-anders-macht-Texte, SWOT, Stilkonsistenz, 2 Detail-Briefings) (10.05.2026)
+- [x] **Konkurrenz-Analyse Salzburg** durchgeführt (Fit & Fly, Dance Your Colours, Infinity Polesports) — Position "Verkörperung" als Alleinstellung identifiziert (10.05.2026)
+- [x] **SWOT-Analyse Vertical Kay** — 10 Stärken, 10 Schwächen, 12 Chancen, 10 Bedrohungen + 13 Strategien (10.05.2026)
+- [x] **Education-Website analysiert** (verticalkay-education.com) — Stilkonsistenz-Doku erstellt, Verbesserungs-Roadmap für später (10.05.2026)
+- [x] **Brand-Schriften aus Canva integriert** — Cormorant Garamond (Headlines/Zitate) + Montserrat (Kopfzeile/Body/Buttons/Footer) (10.05.2026)
+- [x] **Drive-Designer-Übergabe-Ordner strukturiert** — alle 12 Dateien hochgeladen, alte Notizen ins `_Archiv` verschoben (10.05.2026)
 - [x] E-Mail Postfach-Automatisierung: Ordnerstruktur + 7.552 Mails sortiert (tolkmit + verticalkay) (10.05.2026)
 - [x] E-Mail Cron Job eingerichtet: täglich 07:30 Uhr (10.05.2026)
 - [x] Eversports: Zoom-Links eingetragen — Invert Intensive + Masterclass Online (07.05.2026)
@@ -67,4 +84,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 10.05.2026_
+_Zuletzt aktualisiert: 10.05.2026 (Abend)_
