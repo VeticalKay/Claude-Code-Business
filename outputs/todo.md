@@ -8,21 +8,20 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **Prüfungen kontrollieren** — zuerst Manya Teil 2, dann Jaleen Teil 2, dann Stück für Stück alle anderen
+- [ ] **Reel Logo Relaunch fertigstellen** — Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
+- [ ] **Prüfungskalender: Warteliste vervollständigen** — vollständige Liste nachliefern
+- [ ] **WordPress Plugin Amelia** — recherchieren & evaluieren für Prüfungstermine
+- [ ] **Website: WhatsApp-Button einbauen**
 - [ ] **PythonAnywhere einrichten** — Anfang Juni (Finanzen neu strukturieren)
-- [ ] **Eversports**: Zoom-Links einfügen + Kurse komplett anlegen (morgen mit Claude, Login + Kursliste vorbereiten)
-- [ ] **Zoom-Links**: Uhrzeiten manuell in Zoom korrigieren (15:00–21:00 Wiener Zeit)
-- [ ] **Reel Logo Relaunch fertigstellen**: Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
-- [ ] Prüfungskalender: Warteliste vervollständigen (vollständige Liste nachliefern)
-- [ ] WordPress Plugin Amelia recherchieren & evaluieren für Prüfungstermine
-- [ ] Website: WhatsApp-Button einbauen
 
 ### Mittel / Demnächst
-- [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
-- [ ] **Skript Level 1.0 Static – TOC aktualisieren**: Änderungsliste verwenden (outputs/2026-05-06-toc-aenderungsliste-level1-static.md), Haupt-TOC + Kapitel-Divider-Seiten (~10 Stellen)
-- [ ] **Skript Level 1.0 Static – Logo tauschen**: neues Logo als PNG bereitstellen → Claude kann tauschen
-- [ ] **Skript Level 1.0 Static – Fotos einfügen**: fehlende Fotos als Dateien bereitstellen
-- [ ] **Skript Level 1.0 Static – Beschreibungen anpassen**: Notizen im Skript → Texte aus anderem Kurs übernehmen
-- [ ] **14 fehlende Videos aufnehmen**: Liste in outputs/2026-05-04-skript-level1-static-videolinks.md → nach Upload Links in Canva eintragen
+- [ ] Buchhaltung: AR Gesendet-Ordner — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
+- [ ] **Skript Level 1.0 Static – TOC aktualisieren** — Änderungsliste verwenden (outputs/2026-05-06-toc-aenderungsliste-level1-static.md), Haupt-TOC + Kapitel-Divider-Seiten (~10 Stellen)
+- [ ] **Skript Level 1.0 Static – Logo tauschen** — neues Logo als PNG bereitstellen → Claude kann tauschen
+- [ ] **Skript Level 1.0 Static – Fotos einfügen** — fehlende Fotos als Dateien bereitstellen
+- [ ] **Skript Level 1.0 Static – Beschreibungen anpassen** — Notizen im Skript → Texte aus anderem Kurs übernehmen
+- [ ] **14 fehlende Videos aufnehmen** — Liste in outputs/2026-05-04-skript-level1-static-videolinks.md → nach Upload Links in Canva eintragen
 - [ ] Trainingsplan 09 & 10: restliche Videos filmen & auf Google Drive hochladen
 - [ ] Canva-Designs für Plan 09 & 10 bauen (nach Videodreh)
 - [ ] Alfima Kurs-Texte & Verkaufsseite schreiben (wenn alle Videos fertig)
@@ -40,15 +39,17 @@
 
 ## ✅ Erledigt
 
+- [x] Eversports: Zoom-Links eingetragen — Invert Intensive + Masterclass Online (07.05.2026)
 - [x] Buchhaltung: Zahlungserinnerungen per E-Mail eingebaut (Saskia Otto, Bianca Sperling, Website Spezialisten) (07.05.2026)
 - [x] Buchhaltung: Unterordner PayPal/Apple/Adobe für .txt Erinnerungen (iCloud + Google Drive) (07.05.2026)
 - [x] Buchhaltung: 45 bestehende .txt Dateien in korrekte Unterordner verschoben (07.05.2026)
+- [x] Skript Level 1.0 Static: Video-Audit abgeschlossen (45 Links, 14 fehlen) (06.05.2026)
+- [x] Skript Level 1.0 Static: TOC-Änderungsliste erstellt (06.05.2026)
+- [x] Zoom-Links: Uhrzeiten manuell in Zoom korrigiert (15:00–21:00 Wiener Zeit) (06.05.2026)
 - [x] Buchhaltung: Google Drive API eingerichtet (OAuth2, Upload funktioniert) (06.05.2026)
 - [x] Buchhaltung: Passwörter sicher in .env ausgelagert (06.05.2026)
 - [x] Buchhaltung: iCloud + Google Drive Duplikate bereinigt (06.05.2026)
 - [x] Buchhaltung: iCloud-Pfad bestätigt korrekt (06.05.2026)
-- [x] Skript Level 1.0 Static: Video-Audit abgeschlossen (45 Links, 14 fehlen) (06.05.2026)
-- [x] Skript Level 1.0 Static: TOC-Änderungsliste erstellt (06.05.2026)
 - [x] Zoom Meeting Links Mai–Dezember 2026 erstellt (8 Links, Mo–Fr 15:00–21:00) (03.05.2026)
 - [x] Zoom API App eingerichtet (Vertical_Kay_Online_Studio, Server-to-Server OAuth) (03.05.2026)
 - [x] Reel-Script + Sprechscript für Logo Relaunch erstellt (01.05.2026)
@@ -63,4 +64,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 07.05.2026_
+_Zuletzt aktualisiert: 08.05.2026_
