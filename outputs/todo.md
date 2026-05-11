@@ -8,6 +8,7 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
 - [ ] **Somava Teil 2 Feedback** — sobald PDF in Drive-Ordner erscheint, Feedback erstellen (31/33P für Teil 1 bereits erledigt)
 - [ ] **Andrea Teil 2 Feedback** — sobald PDF in Ordner `1hI3nWF_WyujzqsLSJYJboXAZ_VjuodW7` erscheint (Teil 1: 32/33P bereits erledigt)
 - [ ] **Video-Feedback Madina** — Warm-Up & Choreo Level 1–3 (Video: `12cLgngKmuH4RdpjyJtlRocdjhf8JhTqy`) → Katarina gibt Beobachtungsnotizen
@@ -55,6 +56,7 @@
 
 ## ✅ Erledigt
 
+- [x] **Aerial Hoop Basic Trainer — Online-Kurs Planung (Alfima)** (11.05.2026): Theorie + Praxis-PDF analysiert, Praxis-Skript per Subagent strukturiert (59 Figuren extrahiert in `outputs/aerial-hoop-basic-trainer/_skript-praxis-extrakt.md`), Master-Plan mit 13 Modulen / ~95 Lektionen / 33 Schritten in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Beispiel-Lektion 4.2 Step in Mount als Format-Vorlage in `outputs/aerial-hoop-basic-trainer/lektionen/M4-L02_step-in-mount-standard.md`. Drei Format-Varianten (490/590/750 €) festgelegt. Lücke aufgedeckt: ~20 Figuren ohne Cueing im Praxis-Skript (Modul 9 als Erweiterung markiert).
 - [x] Feedback Theorie Manya: Teil 2 erledigt (10.05.2026)
 - [x] Feedback Theorie Jaleen: beide Teile in einer Prüfung — erledigt (11.05.2026)
 - [x] Feedback Theorie Lea Frey: Teil 1 (28/33P) + Teil 2 (16/20P) mit Einleitungstext erstellt (10.05.2026)
@@ -99,4 +101,8 @@
 
 ---
 
+<<<<<<< HEAD
 _Zuletzt aktualisiert: 11.05.2026 (Abend)_
+=======
+_Zuletzt aktualisiert: 11.05.2026 (Session Aerial Hoop Trainer Alfima-Planung)_
+>>>>>>> 8650a7e (Session 11.05.2026: Aerial Hoop Basic Trainer — Online-Kurs Planung Alfima)

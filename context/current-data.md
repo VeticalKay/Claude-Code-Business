@@ -37,6 +37,13 @@
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
 **Neu abgeschlossen (11.05.26):**
+- **Aerial Hoop Basic Trainer Online-Kurs Planung gestartet** (Alfima.io)
+- Quellmaterial-Analyse: Theorie-PDF (24 S.) + Praxis-PDF (80 S., per Subagent strukturiert) + 38 Drive-Videoordner
+- Master-Plan: 13 Module, ~95 Lektionen einzeln aufgelistet, 33 Implementierungs-Schritte → `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`
+- Beispiel-Lektion als Format-Vorlage: Step in Mount Standard (Modul 4.2) → `outputs/aerial-hoop-basic-trainer/lektionen/M4-L02_step-in-mount-standard.md`
+- Drei Format-Varianten in Alfima: Selbstlerner 490 € / Online Hybrid 590 € / Präsenz 750 €
+- Lücke aufgedeckt: ~20 Figuren im TOC ohne Cueing-Text — Modul 9 als optionale Erweiterung markiert
+- Level 1/2-Entscheidung: Katarina geht Canva-Skript bis SO 17.05. durch — Claude kann dann via MCP automatisch trennen
 - Feedback Praxis Andrea Teil 1 (32/33P) — in "Feedbacks bearbeitet" abgelegt
 - Feedback Praxis Anita (37/53P, Teil 1+2 kombiniert) — fertiggestellt mit korrektem Label
 - **Feedback-Label Standard**: "Bitte noch beachten, betonen und verinnerlichen:" (statt nur "Beachten:") — gilt für alle zukünftigen Feedbacks
