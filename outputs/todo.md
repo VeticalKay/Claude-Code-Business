@@ -22,9 +22,9 @@
 - [ ] **WordPress Plugin Amelia** — recherchieren & evaluieren für Prüfungstermine
 - [ ] **Website: WhatsApp-Button einbauen**
 - [ ] **PythonAnywhere einrichten** — Anfang Juni (Finanzen neu strukturieren)
-- [ ] **Studio-Website: Designer-E-Mail schreiben & abschicken** — Vorlage in `outputs/website-studio-v2/06-designer-briefing.md`, Drive-Link mitschicken
+- [ ] **Studio-Website: Designer-E-Mail oder WhatsApp abschicken** — finale Vorlage in `outputs/website-studio-v2/23-designer-uebergabe-final.md` (mit Amelia-Hinweis für Education-Folgeprojekt)
 - [ ] **Studio-Website: Eversports Studio-ID raussuchen** — Eversports Backend → Einstellungen
-- [ ] **Studio-Website: Telefon, E-Mail, Geo-Koordinaten** ergänzen (Google Maps für Geo)
+- [ ] **Studio-Website: Social-Media-Links sammeln** — Instagram, TikTok, YouTube (für Footer + Kontakt-Seite)
 
 ### Instagram-Strategie — Phase 2-4 (nach Phase 1)
 - [ ] **Phase 2: Content-System etablieren** — 60/20/20-Rhythmus, 3 Content-Säulen, 8 Posts vorproduzieren
@@ -32,12 +32,38 @@
 - [ ] **Phase 4: Tracking-Setup** — wöchentliches Ritual (Saves, Shares, Profil-Klicks, DMs)
 
 ### Nächste Woche — Studio-Website Materialien
-- [ ] **5–10 Studio-Fotos** raussuchen (eigene Foto-Bibliothek, hohe Auflösung)
+- [ ] **5–10 Studio-Fotos** raussuchen (eigene Foto-Bibliothek, hohe Auflösung, Brand-Stil)
+- [ ] **2–3 Portrait-Fotos von Katarina** raussuchen (für Über uns + Hero)
 - [ ] **3 Schülerinnen anschreiben** für echte Testimonials — Frage: "Was hat sich für dich verändert seit du bei uns trainierst?"
 - [ ] **Canva-Brand-Kit Zugriff** für Designer freigeben (optional)
 
+### Studio-Website: Texte validieren (Brand-Voice prüfen)
+- [ ] **Datei 16 (Über uns)** — Daten/Jahre, Magersucht-Passage, Bücher-Sektion prüfen
+- [ ] **Datei 17 (Mitgliedschaft & Preise)** — alle Preise aktuell? TRIBBLE/Wellpass/Privatunterricht-Pakete?
+- [ ] **Datei 20 (FAQ)** — "Mitgliedschaft pausieren"-Regelung, Workshop-Preise prüfen
+- [ ] **Datei 21 (Kontakt)** — Öffnungszeiten "nach Kursplan" passt?
+
 ### Wochenende 16.-17.05.2026
 - [ ] **Education-Konkurrenz analysieren** — Be In Flow, Somos Poledance, CAVE25 Vienna, Yoga & Pole Art by Selina, Polebatics Education (laut Brand DNA, für Vertical Kay Education Website-Vorbereitung)
+
+### Studio-Website Phase B (sobald Eversports-Texte da)
+- [ ] **Eversports-Text Aerial Hoop** sammeln ⭐ Zweite SEO-Säule
+- [ ] **Eversports-Texte Level 4 + 5** (Intermediate)
+- [ ] **Eversports-Texte Level 6 + 7** (Advanced)
+- [ ] **Eversports-Text Masterclass**
+- [ ] **Eversports-Texte: Sensual Heels, Chair Dance, Stretching**
+- [ ] **Eversports-Texte: Workshops Übersicht** (Chairdance, Lapdance, Handstand, Female Body Flow)
+- [ ] **JGA-Detailseite**
+
+### Studio-Website: Vor Launch
+- [ ] **Impressum** vorbereiten (oder Anwalt)
+- [ ] **Datenschutzerklärung** (Anwalt empfohlen)
+- [ ] **AGB** (Anwalt empfohlen)
+
+### Education-Folgeprojekt (nach Studio-Launch)
+- [ ] **Education-Website überarbeiten** (verticalkay-education.com)
+- [ ] **WordPress Plugin Amelia** für Prüfungstermine einbauen
+- [ ] **Stilistische Konsistenz** mit neuem Brand-Standard
 
 ### Mittel / Demnächst
 - [ ] **E-Mail Sortierregeln nachschärfen** — 624 Tolkmit + 369 Verticalkay Mails ohne Match in INBOX, Regeln erweitern
@@ -64,6 +90,14 @@
 
 ## ✅ Erledigt
 
+- [x] **Studio-Website Phase A komplett ausgearbeitet** — 7 Kernseiten in Brand-Voice (Über uns, Mitgliedschaft, Stundenplan, Privatunterricht, FAQ vollständig 33 Fragen, Kontakt, Poledance Anfänger Salzburg SEO-Hauptseite) (11.05.2026)
+- [x] **00-START-HIER.md erstellt** — kompakte Einstiegsseite für Designer (11.05.2026)
+- [x] **23-designer-uebergabe-final.md erstellt** — aktueller Stand + E-Mail/WhatsApp-Vorlagen mit Amelia-Hinweis (11.05.2026)
+- [x] **Drive in 3 Ordnern professionell strukturiert** — 1-Start Hier / 2-Strategie-Brand-SEO / 3-Texte-für-Seiten + Logo Studio + Archiv (11.05.2026)
+- [x] **Foundations-Texte überarbeitet** — Hub-Logik: Übersichtsseite + 4 Level-Unterseiten (Level 1.0, 1.1, 2, 3) (11.05.2026)
+- [x] **Geo-Koordinaten Studio**: 47.841315 / 13.039991 ins LocalBusiness Schema integriert (11.05.2026)
+- [x] **Telefon + E-Mail finalisiert**: +43 676 396 0803 / office@verticalkay.de (11.05.2026)
+- [x] **Brand-Voice "performativ" eliminiert** — durchgehend ersetzt durch brand-konforme Formulierungen (11.05.2026)
 - [x] **Aerial Hoop Basic Trainer — Online-Kurs Planung (Alfima)** (11.05.2026): Theorie + Praxis-PDF analysiert, Praxis-Skript per Subagent strukturiert (59 Figuren extrahiert in `outputs/aerial-hoop-basic-trainer/_skript-praxis-extrakt.md`), Master-Plan mit 13 Modulen / ~95 Lektionen / 33 Schritten in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Beispiel-Lektion 4.2 Step in Mount als Format-Vorlage in `outputs/aerial-hoop-basic-trainer/lektionen/M4-L02_step-in-mount-standard.md`. Drei Format-Varianten (490/590/750 €) festgelegt. Lücke aufgedeckt: ~20 Figuren ohne Cueing im Praxis-Skript (Modul 9 als Erweiterung markiert).
 - [x] **Instagram-Wettbewerbsanalyse** durchgeführt (5 vom User + 9 zusätzliche Pole-Accounts) — 5 Kern-Insights, 15 bilingual Hook-Formeln, vollständige Verbesserungs-Liste in `outputs/instagram-analyse-2026-05-11.md` (11.05.2026)
 - [x] **Instagram Foundation Phase 1 ausgearbeitet** — 3 Bio-Varianten + Highlights-Funnel + 3 Pinned-Post-Strukturen + Hashtag-Set + Checkliste in `outputs/phase1-foundation-2026-05-11.md` (11.05.2026)
@@ -114,4 +148,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 11.05.2026 (Abend, Instagram-Session)_
+_Zuletzt aktualisiert: 11.05.2026 (Abend — Phase A komplett + Instagram + Aerial Hoop)_

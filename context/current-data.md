@@ -45,7 +45,18 @@
 - Methoden-Anker etabliert: "Embody pole — don't perform it" als Differenzierungs-Statement
 - Standort Salzburg in Memory aufgenommen
 
-**Neu abgeschlossen (11.05.26):**
+**Neu abgeschlossen (11.05.26 — Abend, Studio-Website Phase A):**
+- **Studio-Website Phase A komplett ausgearbeitet** — 7 Kernseiten in Brand-Voice:
+  - Über uns (Datei 16), Mitgliedschaft & Preise (17), Stundenplan (18), Privatunterricht (19), FAQ vollständig 33 Fragen (20), Kontakt (21), Poledance Anfänger Salzburg SEO-Hauptseite (22)
+- 00-START-HIER + 23-designer-uebergabe-final erstellt (Designer-Onboarding)
+- Drive professionell in 3 Ordnern strukturiert (1-Start Hier / 2-Strategie-Brand-SEO / 3-Texte-für-Seiten) + Logo Studio + Archiv
+- Foundations Hub-Logik: Übersichtsseite + 4 Level-Unterseiten (1.0, 1.1, 2, 3)
+- Geo-Koordinaten 47.841315 / 13.039991 ins LocalBusiness Schema integriert
+- Telefon +43 676 396 0803 + E-Mail office@verticalkay.de finalisiert
+- Brand-Voice-Polish: "performativ" durchgehend ersetzt
+- **Studio-Website jetzt bereit zur Designer-Übergabe** (24 Dokumente)
+
+**Neu abgeschlossen (11.05.26 — Tag, Aerial Hoop Basic Trainer):**
 - **Aerial Hoop Basic Trainer Online-Kurs Planung gestartet** (Alfima.io)
 - Quellmaterial-Analyse: Theorie-PDF (24 S.) + Praxis-PDF (80 S., per Subagent strukturiert) + 38 Drive-Videoordner
 - Master-Plan: 13 Module, ~95 Lektionen einzeln aufgelistet, 33 Implementierungs-Schritte → `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`
@@ -53,6 +64,8 @@
 - Drei Format-Varianten in Alfima: Selbstlerner 490 € / Online Hybrid 590 € / Präsenz 750 €
 - Lücke aufgedeckt: ~20 Figuren im TOC ohne Cueing-Text — Modul 9 als optionale Erweiterung markiert
 - Level 1/2-Entscheidung: Katarina geht Canva-Skript bis SO 17.05. durch — Claude kann dann via MCP automatisch trennen
+
+**Neu abgeschlossen (11.05.26 — Morgen, Feedbacks):**
 - Feedback Praxis Andrea Teil 1 (32/33P) — in "Feedbacks bearbeitet" abgelegt
 - Feedback Praxis Anita (37/53P, Teil 1+2 kombiniert) — fertiggestellt mit korrektem Label
 - **Feedback-Label Standard**: "Bitte noch beachten, betonen und verinnerlichen:" (statt nur "Beachten:") — gilt für alle zukünftigen Feedbacks

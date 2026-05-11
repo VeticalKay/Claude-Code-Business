@@ -37,7 +37,7 @@
 Sicher. Bewusst. Aus deinem Körper heraus.
 
 🌸 **Sinnlichkeit**
-Verkörpert, nicht performativ. Würdevoll, nicht inszeniert.
+Aus dir heraus, nicht für andere. Würdevoll, ruhig, nicht inszeniert.
 
 🌸 **Stärke**
 Echt. Geerdet. Aus dir selbst.
@@ -83,7 +83,7 @@ Echt. Geerdet. Aus dir selbst.
 >
 > Lange habe ich Yoga und Meditation gemacht. Beides hat geholfen. Beides hat nicht gereicht.
 >
-> Als ich Pole entdeckte, war das der erste körperliche Durchbruch. Hier durfte ich sinnlich sein — ohne dass es Performance war. Hier durfte ich kraftvoll sein — ohne dass ich hart werden musste. Hier durfte ich weiblich sein — ohne mich erklären zu müssen.
+> Als ich Pole entdeckte, war das der erste körperliche Durchbruch. Hier durfte ich sinnlich sein — nicht für andere, sondern für mich — ohne zu performen. Hier durfte ich kraftvoll sein — ohne dass ich hart werden musste. Hier durfte ich weiblich sein — ohne mich erklären zu müssen.
 
 \
 **Mini-Headline:**
