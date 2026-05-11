@@ -36,6 +36,15 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (11.05.26 — Abend, Instagram-Session):**
+- **Instagram-Strategie komplett ausgearbeitet** (@vertical_kay_pole, 1.311 Follower, 345 Posts)
+- Wettbewerbsanalyse mit 14 Pole-Accounts durchgeführt (5 vom User + 9 zusätzlich)
+- 4-Phasen-Plan etabliert: Foundation → Content-System → Sales-Funnel → Messen
+- Phase 1 Foundation strategisch fertig (Bio + Highlights + Pinned Posts), Ausführung morgen
+- Bio-Title-Entscheidung: "Pole Mentor" statt "Pole Coach" (edler, premium-tauglich)
+- Methoden-Anker etabliert: "Embody pole — don't perform it" als Differenzierungs-Statement
+- Standort Salzburg in Memory aufgenommen
+
 **Neu abgeschlossen (11.05.26):**
 - **Aerial Hoop Basic Trainer Online-Kurs Planung gestartet** (Alfima.io)
 - Quellmaterial-Analyse: Theorie-PDF (24 S.) + Praxis-PDF (80 S., per Subagent strukturiert) + 38 Drive-Videoordner
