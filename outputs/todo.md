@@ -9,7 +9,10 @@
 
 ### Hoch / Diese Woche
 - [ ] **Somava Teil 2 Feedback** — sobald PDF in Drive-Ordner erscheint, Feedback erstellen (31/33P für Teil 1 bereits erledigt)
-- [ ] **Prüfungen kontrollieren** — Manya Teil 2, Jaleen Teil 2
+- [ ] **Andrea Teil 2 Feedback** — sobald PDF in Ordner `1hI3nWF_WyujzqsLSJYJboXAZ_VjuodW7` erscheint (Teil 1: 32/33P bereits erledigt)
+- [ ] **Video-Feedback Madina** — Warm-Up & Choreo Level 1–3 (Video: `12cLgngKmuH4RdpjyJtlRocdjhf8JhTqy`) → Katarina gibt Beobachtungsnotizen
+- [ ] **Video-Feedback Gianna** — Static Choreo & Warm-Up (Video: `1sfkXc42voRX6b0Cd9GJQvdX-plcABwJm`) → Katarina gibt Beobachtungsnotizen
+- [ ] **Google Drive aufräumen** — alte Anita-Versionen löschen (IDs in session-summary 11.05.2026)
 - [ ] **Reel Logo Relaunch fertigstellen** — Logos als PNG auf Handy, Voice-Over einsprechen, Hintergrund-Video bereit
 - [ ] **Prüfungskalender: Warteliste vervollständigen** — vollständige Liste nachliefern
 - [ ] **WordPress Plugin Amelia** — recherchieren & evaluieren für Prüfungstermine
@@ -52,8 +55,13 @@
 
 ## ✅ Erledigt
 
+- [x] Feedback Theorie Manya: Teil 2 erledigt (10.05.2026)
+- [x] Feedback Theorie Jaleen: beide Teile in einer Prüfung — erledigt (11.05.2026)
 - [x] Feedback Theorie Lea Frey: Teil 1 (28/33P) + Teil 2 (16/20P) mit Einleitungstext erstellt (10.05.2026)
 - [x] Feedback Theorie Anna Gugl: Teil 1 (26/33P) + Teil 2 (15/20P) erstellt (10.05.2026)
+- [x] **Feedback Praxis Andrea Teil 1** (32/33P) — in "Feedbacks bearbeitet" abgelegt (11.05.2026)
+- [x] **Feedback Praxis Anita** (37/53P, Teil 1+2 kombiniert) — mit korrektem Label "Bitte noch beachten, betonen und verinnerlichen:" fertiggestellt (11.05.2026)
+- [x] **Feedback-Label Standard etabliert** — "Bitte noch beachten, betonen und verinnerlichen:" statt nur "Beachten:" (11.05.2026)
 - [x] Feedback Theorie Somava: Teil 1 (31/33P) erstellt (10.05.2026)
 - [x] Feedback Theorie Beate: Vollständige Prüfung (41,5/53P, 20 Aufgaben) erstellt (10.05.2026)
 - [x] Feedback-Standard V5 etabliert: persönlicher Einleitungstext für alle Schülerinnen (10.05.2026)
@@ -91,4 +99,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 10.05.2026 (Abend)_
+_Zuletzt aktualisiert: 11.05.2026 (Abend)_

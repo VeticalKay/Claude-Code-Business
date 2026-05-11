@@ -89,6 +89,66 @@
 
 ---
 
+### 3a. Poledance Foundations Übersicht — `/kurse/poledance-foundations` ⭐ Hub-Seite
+
+| Element | Wert |
+|---|---|
+| **H1** | Poledance Foundations Salzburg — Level 1.0 bis 3 |
+| **Title** | Poledance Foundations Salzburg \| Anfänger Kurse — Vertical Kay |
+| **Meta Description** | Poledance Foundations in Salzburg: Levels 1.0, 1.1, 2 & 3 für Anfängerinnen. Sichere Technik, individuelles Tempo, kleine Gruppen. Schnupperkurs ab 15 €. |
+| **Primary Keyword** | Poledance Foundations Salzburg |
+| **Secondary Keywords** | Pole Dance Level · Poledance lernen Salzburg · Poledance Anfänger Kurse |
+
+---
+
+### 3b. Level 1.0 — `/kurse/poledance-foundations/level-1-0`
+
+| Element | Wert |
+|---|---|
+| **H1** | Poledance Level 1.0 Salzburg — Dein Anfang ohne Vorkenntnisse |
+| **Title** | Poledance Anfänger Level 1.0 Salzburg \| Vertical Kay |
+| **Meta Description** | Poledance Level 1.0 in Salzburg: Du lernst die Pole kennen, das Greifen, das Fundament. Ohne Vorkenntnisse. Dauer: 6-8 Monate. Schnupperkurs ab 15 €. |
+| **Primary Keyword** | Poledance Anfänger Salzburg |
+| **Secondary Keywords** | Pre Basic Pole · Poledance ohne Vorkenntnisse · Pole Dance Einstieg Salzburg |
+
+---
+
+### 3c. Level 1.1 — `/kurse/poledance-foundations/level-1-1`
+
+| Element | Wert |
+|---|---|
+| **H1** | Poledance Level 1.1 Salzburg — Fundamental Vertiefung |
+| **Title** | Poledance Level 1.1 Salzburg \| Vertical Kay Studio |
+| **Meta Description** | Poledance Level 1.1 in Salzburg: Du vertiefst dein Fundament und lernst den Basic Invert Open Leg. Vorkenntnisse: 8-10 Wochen Pole. Dauer: 6-8 Monate. |
+| **Primary Keyword** | Poledance Level 1.1 Salzburg |
+| **Secondary Keywords** | Basic Invert Open Leg · Pole Dance Vertiefung · Pole Fundament |
+
+---
+
+### 3d. Level 2 — `/kurse/poledance-foundations/level-2`
+
+| Element | Wert |
+|---|---|
+| **H1** | Poledance Level 2 Salzburg — Du gehst kopfüber |
+| **Title** | Poledance Level 2 Salzburg \| Inverts & Kopfüber — Vertical Kay |
+| **Meta Description** | Poledance Level 2 in Salzburg: Inverts, 2x Klettern, Handstand Butterfly, Cross Knee Release. Sicheres Kopfüber-Gehen. Dauer: ca. 8 Monate. |
+| **Primary Keyword** | Poledance Level 2 Salzburg |
+| **Secondary Keywords** | Pole Inverts lernen · Pole Kopfüber · Handstand Butterfly · Reverse Mount |
+
+---
+
+### 3e. Level 3 — `/kurse/poledance-foundations/level-3`
+
+| Element | Wert |
+|---|---|
+| **H1** | Poledance Level 3 Salzburg — Up — Up on Air |
+| **Title** | Poledance Level 3 Salzburg \| On Air & Butterfly — Vertical Kay |
+| **Meta Description** | Poledance Level 3 in Salzburg: Inverts on Air, Leg Hangs, Butterfly, Superman Slide. Längere Air-Kombinationen. Dauer: ca. 8 Monate. |
+| **Primary Keyword** | Poledance Level 3 Salzburg |
+| **Secondary Keywords** | Pole on Air · Butterfly Pole · Leg Hang Pole · Pole Intermediate Vorbereitung |
+
+---
+
 ### 4. Aerial Hoop Salzburg — `/kurse/aerial-hoop-salzburg`
 
 | Element | Wert |
@@ -217,8 +277,8 @@
   "name": "Vertical Kay Studio",
   "description": "Poledance, Aerial Hoop & feminine Bewegung in Bergheim bei Salzburg.",
   "image": "https://verticalkaystudio.com/og-image.jpg",
-  "telephone": "+43XXXXXXXXX",
-  "email": "studio@verticalkay.com",
+  "telephone": "+436763960803",
+  "email": "office@verticalkay.de",
   "url": "https://verticalkaystudio.com",
   "address": {
     "@type": "PostalAddress",

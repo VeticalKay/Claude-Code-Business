@@ -28,8 +28,8 @@ Dies ist die neue Studio-Website für **Vertical Kay Studio** — Pole Dance, Ae
 > Handelszentrum 16
 > 5101 Bergheim bei Salzburg
 > Österreich
-> [Telefon — bitte ergänzen]
-> [E-Mail — bitte ergänzen]
+> Telefon: +43 676 396 0803
+> E-Mail: office@verticalkay.de
 
 ---
 

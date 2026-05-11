@@ -36,6 +36,12 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (11.05.26):**
+- Feedback Praxis Andrea Teil 1 (32/33P) — in "Feedbacks bearbeitet" abgelegt
+- Feedback Praxis Anita (37/53P, Teil 1+2 kombiniert) — fertiggestellt mit korrektem Label
+- **Feedback-Label Standard**: "Bitte noch beachten, betonen und verinnerlichen:" (statt nur "Beachten:") — gilt für alle zukünftigen Feedbacks
+- Video-Feedback System geklärt: Claude braucht Beobachtungsnotizen von Katarina (kann Videos nicht abspielen). Warm Up = 3P, Choreo = 6P/Level
+
 **Neu abgeschlossen (10.05.26 — Abend):**
 - Theorie-Feedbacks für 4 Schülerinnen erstellt (V5-Template mit persönlichem Einleitungstext, alle in "Feedbacks bearbeitet" Ordner):
   - Lea Frey: Teil 1 (28/33P) + Teil 2 (16/20P)
