@@ -102,18 +102,18 @@ TOLKMIT_FOLDERS = [
 VERTICALKAY_FOLDERS = [
     imap_folder(f) for f in [
         "Studio",
-        "Studio/Kursplanung und Buchungen",
-        "Studio/Drop-in und Warteliste",
+        "Studio/Kursplanung",
+        "Studio/Drop-in",
         "Kunden",
-        "Kunden/Aktive Schuelerinnen",
-        "Kunden/Anfragen und Neukunden",
+        "Kunden/Aktive",
+        "Kunden/Anfragen",
         "Ausbildungen",
-        "Ausbildungen/Anmeldungen und Buchungen",
-        "Ausbildungen/Pruefungen und Feedback",
+        "Ausbildungen/Anmeldungen",
+        "Ausbildungen/Pruefungen",
         "Ausbildungen/Absolventen",
         "Events",
-        "Events/JGA und Abschiede",
-        "Events/Gruppenevents und Feiern",
+        "Events/JGA",
+        "Events/Gruppenevents",
     ]
 ]
 
@@ -136,6 +136,8 @@ INVOICE_SENDER_MAP = {k: imap_folder(v) for k, v in {
     "anthropic": "Rechnungen/Anthropic",
     "lagermax": "Rechnungen/Lagermax",
     "lagermax-edi": "Rechnungen/Lagermax",
+    "americanexpress": "Rechnungen/Sonstige",
+    "american express": "Rechnungen/Sonstige",
 }.items()}
 
 INVOICE_SUBJECT_KEYWORDS = [
@@ -153,6 +155,9 @@ PERSONAL_SENDER_MAP = {k: imap_folder(v) for k, v in {
     "dan rosen": "Persoenlich/Dan Rosen",
     "danrosen": "Persoenlich/Dan Rosen",
     "dan@": "Persoenlich/Dan Rosen",
+    "poledancewithdan": "Persoenlich/Dan Rosen",
+    "danielrosen-pole": "Persoenlich/Dan Rosen",
+    "lore@tolkmit.de": "Persoenlich/Julia Trost",
     "greator": "Persoenlich/Greator",
     "manychat": "Persoenlich/Manychat",
     "email.manychat.com": "Persoenlich/Manychat",
@@ -173,6 +178,14 @@ STEUERBERATER_SENDERS = ["judithschimmerl@gmx.at"]
 
 # WKO Absender-Domains
 WKO_SENDERS = ["wko.at", "@wko.", "wkooe.at", "wirtschaftskammer", "fidw@", "frau in der wirtschaft", "frauinderwirtschaft", "epu@wko"]
+
+# Behörden-Absender (direkt)
+AUTHORITY_SENDERS = [
+    "verbund.at", "info.verbund.at", "noreply@verbund", "salzburg-ag.at",
+    "ooev.at", "vb-ooe.at", "volksbank", "bank99.at",
+    "finanzamt", "sozialversicherung", "svs.at", "magistrat",
+    "arbeiterkammer", "ak.at",
+]
 
 AUTHORITY_KEYWORDS = [
     "finanzamt", "sozialversicherung", "svs", "steuer", "behörde",
@@ -234,7 +247,7 @@ NEWSLETTER_CATEGORIES = [
         "manifestation", "abundance", "erfolg", "selbstliebe",
     ]),
     (imap_folder("Newsletter/Fitness"), [
-        # bekannte Pole/Fitness Absender (Polewear-Marken → Mode, nicht hier)
+        # bekannte Pole/Fitness Absender
         "indipoledance", "indi pole", "flowmovement", "flow movement",
         "bodybyfrantraining", "body by fran", "engineered-life", "body engineers",
         "yogainternational", "yoga international", "yogaeasy",
@@ -248,6 +261,13 @@ NEWSLETTER_CATEGORIES = [
         "wellness", "gesundheit", "health", "polerina", "polejunkie",
         "shining moments", "off the pole", "kineto", "organicfit",
         "pelvic", "longevity", "shapeshifter", "aloyoga", "alo ",
+        "the-spin-off", "newsflash@the-spin-off", "pdaonline.com.au",
+        "elizabethbfit", "gravityarts.ch", "aerialsilk",
+        "bodybyfrantraining", "pilatesflows", "sisers-stretching",
+        "kiranoiredanceschool", "pdfamsterdam", "hirefrederick",
+        "thepolept", "polefreaks", "myorganicapps",
+        "liebscher-bracht", "beck-balance", "teambasework",
+        "medical-health-academy",
     ]),
     (imap_folder("Newsletter/Mode"), [
         # bekannte Marken/Absender
@@ -259,6 +279,8 @@ NEWSLETTER_CATEGORIES = [
         "fabrichouse", "fabric house", "corseterie",
         "radpolewear", "rad polewear", "polejunkie", "aloyoga", "alo yoga",
         "hellaheels", "hella heels", "clubhellaheels",
+        "patriziapepe.com", "patrizia pepe",
+        "polesportshop", "highonheelsonline", "high on heels",
         # Keywords
         "fashion", "mode", "style", "outfit", "kollektion", "collection",
         "kleid", "boutique", "luxus", "accessoire", "couture", "designer",
@@ -271,8 +293,11 @@ NEWSLETTER_CATEGORIES = [
         "leadscripts", "patreon", "eventbrite", "calendly",
         "baulig", "andreasbaulig", "hoerhan", "pjmueller", "pjm investment",
         "shopify", "wix", "squarespace", "convertkit", "mailchimp",
-        "virtuagym", "elementor", "manychat", "perspective.co",
+        "virtuagym", "elementor", "perspective.co",
         "immobilienscout", "immoscout", "immowelt",
+        "die-website-spezialisten", "kaiserweb.at", "pathsocial",
+        "gyms1.com", "mindbodyonline", "wellhub", "egym-wellpass",
+        "growthlayne", "webby.app", "neuroflash", "magicpen@neuroflash",
         # Keywords
         "investment", "business", "entrepreneur", "masterclass",
         "mehr geschaeft", "finanzen", "vermoegen", "immobilien",
@@ -283,6 +308,7 @@ NEWSLETTER_CATEGORIES = [
         # bekannte Absender
         "landestheater", "theater", "oper ", "museum",
         "salzburgfestival.at", "starlitefestival", "statisterie",
+        "allevents.in",
         # Keywords
         "kultur", "freizeit", "entertainment", "veranstaltung",
         "lira.hu", "lira könyv", "bücher", "buch", "lesung",
@@ -326,7 +352,8 @@ NEWSLETTER_CATEGORIES = [
         "ringana.com", "hellofresh.at", "hellofresh.de",
         "zaversky-shop.at", "evlis-needle.de", "marlenespetshop.com",
         "naturally-pam.de", "thebettercat.com", "drseverin.com",
-        "email.everdrop.com", "monatglobal.com",
+        "email.everdrop.com", "info@everdrop.de", "everdrop.de",
+        "monatglobal.com", "allevents.in",
         "lidl", "kaufland", "edeka", "rewe", "aldi", "dm-",
         "rossmann", "penny", "billa", "spar", "intersport", "decathlon",
         "zalando", "aboutyou", "otto", "amazon",
@@ -342,15 +369,27 @@ NEWSLETTER_FALLBACK = imap_folder("Newsletter/Sonstige")
 # SORTIERREGELN — office@verticalkay.de
 # ============================================================
 
+# Bekannte Absender → direkter Ordner (verticalkay)
+VERTICALKAY_SENDER_RULES = [
+    (senders, imap_folder(f)) for senders, f in [
+        # Wellpass / Gyms → Studio
+        (["egym-wellpass.com", "wellhub.com", "email.wellhub.com", "gyms1.com", "mindbodyonline.com"], "Studio/Kursplanung"),
+        # Ausbildungsanbieter → Ausbildungen
+        (["individuell", "personalwomanakademie.com", "elizabethbfit", "gravityarts.ch",
+          "hochseilgarten", "ausbildungsinstitut"], "Ausbildungen/Anmeldungen"),
+    ]
+]
+
 VERTICALKAY_SUBJECT_RULES = [
     (kws, imap_folder(f)) for kws, f in [
-        (["jga", "junggesell", "abschied", "hen night", "hen party"], "Events/JGA und Abschiede"),
-        (["feier", "gruppe", "gruppenb", "event", "geburtstag", "party", "mädels"], "Events/Gruppenevents und Feiern"),
-        (["ausbildung", "trainer", "ausbilderin", "trainer-ausbildung"], "Ausbildungen/Anmeldungen und Buchungen"),
-        (["prüfung", "pruefung", "prüfungstermin", "zertifikat", "zertifizierung"], "Ausbildungen/Pruefungen und Feedback"),
+        (["jga", "junggesell", "abschied", "hen night", "hen party"], "Events/JGA"),
+        (["feier", "gruppe", "gruppenb", "event", "geburtstag", "party", "mädels"], "Events/Gruppenevents"),
+        (["ausbildung", "trainer", "ausbilderin", "trainer-ausbildung", "zertifizierungskurs"], "Ausbildungen/Anmeldungen"),
+        (["prüfung", "pruefung", "prüfungstermin", "zertifikat", "zertifizierung"], "Ausbildungen/Pruefungen"),
         (["absolvent", "bestanden", "glückwunsch", "abschluss"], "Ausbildungen/Absolventen"),
-        (["buchung", "kurs", "termin", "stundenplan", "kursplan", "eversports"], "Studio/Kursplanung und Buchungen"),
-        (["warteliste", "drop-in", "dropin", "nachhol"], "Studio/Drop-in und Warteliste"),
+        (["buchung", "kurs", "termin", "stundenplan", "kursplan", "eversports", "wellpass", "check-in"], "Studio/Kursplanung"),
+        (["warteliste", "drop-in", "dropin", "nachhol"], "Studio/Drop-in"),
+        (["anfrage", "interesse", "anmeldung"], "Kunden/Anfragen"),
     ]
 ]
 
@@ -361,11 +400,18 @@ VERTICALKAY_SUBJECT_RULES = [
 def decode_str(value):
     if not value:
         return ""
-    parts = decode_header(value)
+    try:
+        parts = decode_header(value)
+    except Exception:
+        return str(value)
     result = ""
     for part, enc in parts:
         if isinstance(part, bytes):
-            result += part.decode(enc or "utf-8", errors="replace")
+            # "unknown-8bit" und andere defekte Encodings abfangen
+            try:
+                result += part.decode(enc or "utf-8", errors="replace")
+            except (LookupError, TypeError):
+                result += part.decode("latin-1", errors="replace")
         else:
             result += str(part)
     return result
@@ -483,7 +529,10 @@ def classify_tolkmit(msg):
         if kw in subject:
             return imap_folder("Rechnungen/Sonstige")
 
-    # 6. Behörden & Verträge (allgemein)
+    # 6. Behörden & Verträge (direkte Absender + Keywords)
+    for kw in AUTHORITY_SENDERS:
+        if kw in sender:
+            return imap_folder("Behoerden")
     for kw in AUTHORITY_KEYWORDS:
         if kw in sender or kw in subject:
             return imap_folder("Behoerden")
@@ -530,6 +579,12 @@ def classify_verticalkay(msg):
     subject = get_subject(msg)
     combined = sender + " " + subject
 
+    # Bekannte Absender zuerst
+    for senders, folder in VERTICALKAY_SENDER_RULES:
+        for s in senders:
+            if s in sender:
+                return folder
+
     for keywords, folder in VERTICALKAY_SUBJECT_RULES:
         for kw in keywords:
             if kw in combined:
@@ -537,11 +592,11 @@ def classify_verticalkay(msg):
 
     # Eversports-Buchungen
     if "eversports" in sender:
-        return "Studio/Kursplanung und Buchungen"
+        return "Studio/Kursplanung"
 
     # Allgemeine Anfragen → Neukunden
     if has_header(msg, "List-Unsubscribe") is False:
-        return imap_folder("Kunden/Anfragen und Neukunden")
+        return imap_folder("Kunden/Anfragen")
 
     return None
 

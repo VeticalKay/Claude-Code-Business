@@ -36,6 +36,11 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (12.05.26):**
+- email_sorter.py: ~40 neue Absender-Regeln, verticalkay-Ordnernamen korrigiert, unknown-8bit Bug gefixt → 0 Fehler
+- E-Mail Sortierung täglich automatisch in "Buchhaltung - E-Mail Verwaltung" Routine integriert (07:00)
+- Nächste Session: office@verticalkay.de Postfach Sortierregeln verfeinern
+
 **Neu abgeschlossen (11.05.26 — Abend, Instagram-Session):**
 - **Instagram-Strategie komplett ausgearbeitet** (@vertical_kay_pole, 1.311 Follower, 345 Posts)
 - Wettbewerbsanalyse mit 14 Pole-Accounts durchgeführt (5 vom User + 9 zusätzlich)

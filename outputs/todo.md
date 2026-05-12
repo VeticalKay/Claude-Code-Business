@@ -66,7 +66,7 @@
 - [ ] **Stilistische Konsistenz** mit neuem Brand-Standard
 
 ### Mittel / Demnächst
-- [ ] **E-Mail Sortierregeln nachschärfen** — 624 Tolkmit + 369 Verticalkay Mails ohne Match in INBOX, Regeln erweitern
+- [ ] **office@verticalkay.de Postfach verfeinern** — nächste Session: Ordner durchgehen & weitere Sortierregeln
 - [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
 - [ ] **Skript Level 1.0 Static – TOC aktualisieren** — Änderungsliste verwenden (outputs/2026-05-06-toc-aenderungsliste-level1-static.md), Haupt-TOC + Kapitel-Divider-Seiten (~10 Stellen)
 - [ ] **Skript Level 1.0 Static – Logo tauschen** — neues Logo als PNG bereitstellen → Claude kann tauschen
@@ -121,6 +121,10 @@
 - [x] **Education-Website analysiert** (verticalkay-education.com) — Stilkonsistenz-Doku erstellt, Verbesserungs-Roadmap für später (10.05.2026)
 - [x] **Brand-Schriften aus Canva integriert** — Cormorant Garamond (Headlines/Zitate) + Montserrat (Kopfzeile/Body/Buttons/Footer) (10.05.2026)
 - [x] **Drive-Designer-Übergabe-Ordner strukturiert** — alle 12 Dateien hochgeladen, alte Notizen ins `_Archiv` verschoben (10.05.2026)
+- [x] **E-Mail Sortierung in Buchhaltung-Routine integriert** — täglich 07:00 automatisch, 0 Fehler (12.05.2026)
+- [x] **email_sorter.py: ~40 neue Regeln** — AUTHORITY_SENDERS, VERTICALKAY_SENDER_RULES, Fitness/Mode/Business/Shopping-Ergänzungen (12.05.2026)
+- [x] **email_sorter.py: Ordnernamen verticalkay korrigiert** — alle langen Namen mit Spaces auf tatsächliche Servernamen geändert (12.05.2026)
+- [x] **email_sorter.py: unknown-8bit Bug gefixt** — decode_str fängt LookupError ab, 45 Fehler → 0 (12.05.2026)
 - [x] E-Mail Postfach-Automatisierung: Ordnerstruktur + 7.552 Mails sortiert (tolkmit + verticalkay) (10.05.2026)
 - [x] E-Mail Cron Job eingerichtet: täglich 07:30 Uhr (10.05.2026)
 - [x] Eversports: Zoom-Links eingetragen — Invert Intensive + Masterclass Online (07.05.2026)
@@ -148,4 +152,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 11.05.2026 (Abend — Phase A komplett + Instagram + Aerial Hoop)_
+_Zuletzt aktualisiert: 12.05.2026_
