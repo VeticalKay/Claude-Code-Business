@@ -115,7 +115,7 @@ VERTICALKAY_FOLDERS = [
         "Events/JGA",
         "Events/Gruppenevents",
     ]
-]
+] + ["INBOX.Archive"]
 
 # ============================================================
 # SORTIERREGELN — katarina@tolkmit.de
@@ -198,6 +198,197 @@ NEWSLETTER_INDICATORS = [
     "abmelden", "no-reply", "noreply", "donotreply",
     "marketing", "promotion", "offer", "angebot",
 ]
+
+# Direkte Domain → Ordner Zuordnung (greift auch ohne List-Unsubscribe Header)
+NEWSLETTER_SENDER_MAP = {k: imap_folder(v) for k, v in {
+    # Fitness
+    "the-spin-off": "Newsletter/Fitness",
+    "indipoledance": "Newsletter/Fitness",
+    "flowmovement": "Newsletter/Fitness",
+    "bodybyfrantraining": "Newsletter/Fitness",
+    "lupitpole": "Newsletter/Fitness",
+    "pdaonline.com.au": "Newsletter/Fitness",
+    "highonheelsonline": "Newsletter/Fitness",
+    "kiranoiredanceschool": "Newsletter/Fitness",
+    "aerialsilk.at": "Newsletter/Fitness",
+    "heyhoney.yoga": "Newsletter/Fitness",
+    "sisers-stretching": "Newsletter/Fitness",
+    "femnetic": "Newsletter/Fitness",
+    "polesportshop": "Newsletter/Fitness",
+    "iphonephotographyschool": "Newsletter/Fitness",
+    "watsonnutrition": "Newsletter/Shopping",
+    "nl.biogena": "Newsletter/Shopping",
+    # Mode
+    "patriziapepe": "Newsletter/Mode",
+    "berchtold-sport-fashion": "Newsletter/Mode",
+    # Business
+    "kaiserweb": "Newsletter/Business",
+    "growthlayne": "Newsletter/Business",
+    "webby.app": "Newsletter/Business",
+    "die-website-spezialisten": "Newsletter/Business",
+    "fireflies.ai": "Newsletter/Business",
+    "next-wave-consulting": "Newsletter/Business",
+    "mehr-geschaeft": "Newsletter/Business",
+    "memberspot": "Newsletter/Business",
+    "buybrandtools": "Newsletter/Business",
+    "t.kajabimail": "Newsletter/Business",
+    "system-mail.elementor": "Newsletter/Business",
+    "t.shopifyemail": "Newsletter/Business",
+    "mail.capcut": "Newsletter/Business",
+    # Coaching
+    "jakobhager": "Newsletter/Coaching",
+    "patreon.com": "Newsletter/Coaching",
+    "juergenhoeller": "Newsletter/Coaching",
+    "creators.gumroad": "Newsletter/Coaching",
+    "carolinepreuss": "Newsletter/Coaching",
+    "pathsocial": "Newsletter/Coaching",
+    # Shopping
+    "everdrop.de": "Newsletter/Shopping",
+    "mymuesli": "Newsletter/Shopping",
+    "fyndery": "Newsletter/Shopping",
+    "rosshighlandpark": "Newsletter/Shopping",
+    "monatglobal": "Newsletter/Shopping",
+    # Kultur
+    "allevents.in": "Newsletter/Kultur",
+    # Immobilien
+    "pvm-immo": "Newsletter/Immobilien",
+    "cbre.com": "Newsletter/Immobilien",
+    "ampunkt.immo": "Newsletter/Immobilien",
+    # Reisen
+    "airbnb": "Newsletter/Reisen",
+    "bergresort": "Newsletter/Reisen",
+    # Behörden
+    "elster.de": "Behoerden",
+    "sbg.at": "Behoerden",
+    "bmf.gv.at": "Behoerden",
+    # Fitness (ergänzt)
+    "teambasework": "Newsletter/Fitness",
+    "beck-balance": "Newsletter/Fitness",
+    "medical-health-academy": "Newsletter/Fitness",
+    "azarahealthcare": "Newsletter/Fitness",
+    "naturtalente": "Newsletter/Fitness",
+    # Shopping (ergänzt)
+    "mail.hellofresh.at": "Newsletter/Shopping",
+    "hellofresh.at": "Newsletter/Shopping",
+    "everdrop.it": "Newsletter/Shopping",
+    "lemalab.eu": "Newsletter/Shopping",
+    "ardeco.shop": "Newsletter/Shopping",
+    "schlau.com": "Newsletter/Shopping",
+    "se-hairstyle": "Newsletter/Shopping",
+    # Coaching (ergänzt)
+    "nice-publishing": "Newsletter/Coaching",
+    "team-kreuter": "Newsletter/Coaching",
+    "seofox.at": "Newsletter/Business",
+    "extratipps": "Newsletter/Business",
+    # Kultur
+    "pegasus-salzburg": "Newsletter/Kultur",
+    "amnesty.at": "Newsletter/Kultur",
+    # Sonstige Newsletter
+    "cleverloyal-online": "Newsletter/Shopping",
+    "seeheim-jugenheim": "Newsletter/Sonstige",
+    "shopify.com": "Newsletter/Business",
+    "mini.com": "Newsletter/Shopping",
+    "crossfit-so-simple": "Newsletter/Fitness",
+    "finanzkongress": "Newsletter/Business",
+    "email.tomtom": "Newsletter/Business",
+    "goessl.com": "Newsletter/Shopping",
+    "shp-potential": "Newsletter/Coaching",
+    "wecasting": "Newsletter/Business",
+    "zoewelch.shop": "Newsletter/Shopping",
+    "praxis-pfeifer": "Newsletter/Sonstige",
+    "dentalmedizin": "Newsletter/Sonstige",
+    "intnet.mu": "Newsletter/Sonstige",
+    "twr.mib.mybluehost": "Newsletter/Sonstige",
+    "open-id.de": "Newsletter/Sonstige",
+    "bestsoftware.zendesk": "Newsletter/Sonstige",
+    "prowriterplus": "Newsletter/Sonstige",
+    "ennit.de": "Newsletter/Sonstige",
+    # Immobilien
+    "k3-immo.at": "Newsletter/Immobilien",
+    "bamberger-immobilien": "Newsletter/Immobilien",
+    "cl-immogroup": "Newsletter/Immobilien",
+    "niki-immobilien": "Newsletter/Immobilien",
+    # Reisen
+    "westbahn.at": "Newsletter/Reisen",
+    "bahn.com": "Newsletter/Reisen",
+    # Shopping
+    "bmw.at": "Newsletter/Shopping",
+    "fabrichouse": "Newsletter/Mode",
+    "frauenschuh": "Newsletter/Mode",
+    "fressnapf": "Newsletter/Shopping",
+    "mall.sk": "Newsletter/Shopping",
+    "cookiebox.at": "Newsletter/Shopping",
+    "nurcoffee.at": "Newsletter/Shopping",
+    "elemis.com": "Newsletter/Shopping",
+    "xbyx.de": "Newsletter/Shopping",
+    "kockys.com": "Newsletter/Shopping",
+    "brera.de": "Newsletter/Mode",
+    "glamedressit": "Newsletter/Mode",
+    "artgerecht": "Newsletter/Shopping",
+    "nespresso": "Newsletter/Shopping",
+    # Fitness
+    "flowandspin": "Newsletter/Fitness",
+    "munich-poledance": "Newsletter/Fitness",
+    "xpertfitness": "Newsletter/Fitness",
+    "digifit.eu": "Newsletter/Fitness",
+    # Business/Coaching
+    "trello.com": "Newsletter/Business",
+    "updates.notion": "Newsletter/Business",
+    "trustedshops": "Newsletter/Business",
+    "stan.store": "Newsletter/Business",
+    "affilicon.net": "Newsletter/Business",
+    "thrivecart.email": "Newsletter/Business",
+    "vivian-dambeck": "Newsletter/Coaching",
+    "hashtagchefin": "Newsletter/Coaching",
+    "jakob-hager-support": "Newsletter/Coaching",
+    "annemariekot": "Newsletter/Coaching",
+    "emanuelmayr": "Newsletter/Coaching",
+    "urban-ld": "Newsletter/Business",
+    # Behörden
+    "dkb.de": "Behoerden",
+    "bank99-notes": "Behoerden",
+    # Versand
+    "dpd.at": "Newsletter/Versand",
+    # Sonstige erkennbare
+    "gofundme": "Newsletter/Sonstige",
+    "customer-mail.smile": "Newsletter/Sonstige",
+    "subs.tv": "Newsletter/Unterhaltung",
+    # Spam / unbekannte Domains → Sonstige
+    "csdszbilzbzx": "Newsletter/Sonstige",
+    "promoage.ru": "Newsletter/Sonstige",
+    "ziggo.ddcamila": "Newsletter/Sonstige",
+    "karimsyah.com": "Newsletter/Sonstige",
+    "seiwealthplatform": "Newsletter/Sonstige",
+    "hamilaw.ir": "Newsletter/Sonstige",
+    "greeninvestment.mn": "Newsletter/Sonstige",
+    "affilliate.jp": "Newsletter/Sonstige",
+    "manibit.jp": "Newsletter/Sonstige",
+    "jumbmedia.com": "Newsletter/Sonstige",
+    "ballmorex.shop": "Newsletter/Sonstige",
+    "wisdomvast": "Newsletter/Sonstige",
+    "mindlightsconsulting": "Newsletter/Sonstige",
+    "digning.com": "Newsletter/Sonstige",
+    "salesagent.com": "Newsletter/Sonstige",
+    "dreamztech.com": "Newsletter/Sonstige",
+    "britoalimentos": "Newsletter/Sonstige",
+    "web22.s225.goserver": "Newsletter/Sonstige",
+    "mail5.tetrabit": "Newsletter/Sonstige",
+    "myhomeismyhome": "Newsletter/Sonstige",
+    "ls-cloud.org": "Newsletter/Sonstige",
+    "sv.ufm.edu": "Newsletter/Sonstige",
+    "ksmobileapps": "Newsletter/Sonstige",
+    "secuencia.com": "Newsletter/Sonstige",
+    "eatel.net": "Newsletter/Sonstige",
+    "wzb.eu": "Newsletter/Sonstige",
+    "howtomeasurecobb": "Newsletter/Sonstige",
+    "lftnews.de": "Newsletter/Business",
+    "technologist.com": "Newsletter/Business",
+    "mail.skyfluence": "Newsletter/Business",
+    "ae.linktr.ee": "Newsletter/Business",
+    "linktr.ee": "Newsletter/Business",
+    "stripe.com": "Rechnungen/Sonstige",
+    "neubaur.at": "Newsletter/Kultur",
+}.items()}
 
 # Newsletter-Kategorisierung — Reihenfolge = Priorität
 NEWSLETTER_CATEGORIES = [
@@ -380,6 +571,20 @@ VERTICALKAY_SENDER_RULES = [
     ]
 ]
 
+# Bekannte Newsletter/Marketing-Absender für office@verticalkay.de → Archive
+VERTICALKAY_NEWSLETTER_SENDERS = [
+    "polesportshop.de", "carolinepreuss.de", "flowmovement.net",
+    "bodybyfrantraining.com", "indipoledance.com", "lupitpole.com",
+    "highonheelsonline.com", "pathsocial.com", "heyhoney.yoga",
+    "email.manychat.com", "aerialsilk.at", "sisers-stretching.at",
+    "danielrosen-poleartist.co.uk", "kiranoiredanceschool.com",
+    "pdaonline.com.au", "simplybook.me", "stylink.com",
+    "poledanceacademy.com.au", "getfitandpole.com",
+    "mail.instagram.com", "instagram.com",
+    "blog.wixnotifications.com", "reactiveactivewear",
+    "sendfoxmail.com", "m.brevo.com", "m.sendinblue.com", "t.brevo.com",
+]
+
 VERTICALKAY_SUBJECT_RULES = [
     (kws, imap_folder(f)) for kws, f in [
         (["jga", "junggesell", "abschied", "hen night", "hen party"], "Events/JGA"),
@@ -559,7 +764,12 @@ def classify_tolkmit(msg):
         if kw in sender:
             return imap_folder("Social Media und Marketing")
 
-    # 8. Newsletter (List-Unsubscribe Header = sicheres Zeichen)
+    # 9. Bekannte Newsletter-Absender (direkte Domain-Zuordnung, auch ohne List-Unsubscribe)
+    for key, folder in NEWSLETTER_SENDER_MAP.items():
+        if key in sender:
+            return folder
+
+    # 10. Newsletter (List-Unsubscribe Header = sicheres Zeichen)
     if has_header(msg, "List-Unsubscribe"):
         return classify_newsletter(sender, subject)
 
@@ -585,18 +795,27 @@ def classify_verticalkay(msg):
             if s in sender:
                 return folder
 
+    # Eversports-Buchungen
+    if "eversports" in sender:
+        return imap_folder("Studio/Kursplanung")
+
+    # Adobe-Rechnungen
+    if "adobe" in sender:
+        return "INBOX.Archive"
+
+    # Bekannte Newsletter/Marketing → Archive
+    for domain in VERTICALKAY_NEWSLETTER_SENDERS:
+        if domain in sender:
+            return "INBOX.Archive"
+
     for keywords, folder in VERTICALKAY_SUBJECT_RULES:
         for kw in keywords:
             if kw in combined:
                 return folder
 
-    # Eversports-Buchungen
-    if "eversports" in sender:
-        return "Studio/Kursplanung"
-
-    # Allgemeine Anfragen → Neukunden
-    if has_header(msg, "List-Unsubscribe") is False:
-        return imap_folder("Kunden/Anfragen")
+    # Alle Newsletters (List-Unsubscribe) → Archive
+    if has_header(msg, "List-Unsubscribe"):
+        return "INBOX.Archive"
 
     return None
 
