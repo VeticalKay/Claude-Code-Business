@@ -8,8 +8,9 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **🔥 BTS-Reel zusammenschneiden (morgen 15.05.)** — 10 Szenen vom Kraftübungs-Filming-Chaos, optimierte Reihenfolge in `outputs/2026-05-14-session-summary-instagram-evening.md`, Hook "POV: filming a pole tutorial", 30 Sek, Caption + Hashtags ausgearbeitet
 - [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
-- [ ] **Karussell 2 — The Method** (4 Säulen) produzieren — Studio Brand oder Education Brand entscheiden
+- [ ] **Karussell 2 — The Method** (4 Säulen) — strategisch ANDERS bauen nach Founder-Story-Erkenntnissen: Curiosity-Hook (nicht poetisch), Save-Trigger einbauen ("Save for when you forget why you started"), Comment-Frage mit niedriger Hürde ("Welche Säule trifft dich? Schreib 1-4"), Hashtags breiter mixen für Non-Follower-Reach
 - [ ] **Karussell 3 — Transformation** (Schülerinnen-Story) — echte Schülerin oder generisch
 - [ ] **Karussell 4 — Education** (Ausbildungs-Sales) im Education Brand (Magenta/Black)
 - [ ] **Highlight-Covers in Canva** (8 Stück, Studio Brand Sand/Magenta auf Aubergine)
@@ -167,4 +168,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 14.05.2026_
+_Zuletzt aktualisiert: 14.05.2026 (Abend, Instagram Performance + BTS-Reel-Konzept)_

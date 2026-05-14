@@ -44,6 +44,13 @@
 - **Coach-Vorgaben dokumentiert:** English-First, Instructor Training-Fokus, persönliche Seite existiert bereits separat
 - **Iterativer Workflow:** Bei jedem Post Coach-Vorgaben abfragen, Coach > Claude-Strategie
 
+**Neu abgeschlossen (14.05.26 — Abend, Instagram):**
+- 🎉 **Founder Story Karussell LIVE** auf @vertical_kay_pole (https://www.instagram.com/p/DYSzhd9gr2o/)
+- **Instagram Bio + Display Name** live geschaltet ("Katarina · Pole & Embodiment Mentor · Salzburg")
+- **Performance-Analyse nach 22h:** 547 Aufrufe, 175 Konten erreicht, 17 Likes, 0 Saves/Shares/Comments/Profilbesuche/neue Follower — Brand-Building OK, strategisch wenig Engagement
+- **Erkenntnis für Karussell 2:** Curiosity-Hook + Save-Trigger + niedrige Comment-Hürde nötig
+- **BTS-Reel-Konzept ausgearbeitet:** 10 Szenen vom Kraftübungs-Filming-Chaos, optimierte Reihenfolge, Hook + Caption + Hashtags bereit für Schnitt morgen
+
 **Neu abgeschlossen (14.05.26):**
 - E-Mail Postfächer vollständig aufgeräumt: tolkmit 423→74 (nur persönliche Kontakte), verticalkay 279→0
 - NEWSLETTER_SENDER_MAP: ~80 direkte Domain-Zuordnungen (greift ohne List-Unsubscribe)
