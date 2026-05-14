@@ -96,6 +96,10 @@
 
 - [x] **🎉 Founder Story Karussell LIVE auf @vertical_kay_pole** (14.05.2026) — 10 Slides Aubergine Studio Brand, bilinguale Caption, Top 5 Hashtags, Pole-Community-Sound
 - [x] **Instagram Bio + Display Name live geschaltet** auf @vertical_kay_pole (14.05.2026)
+- [x] **E-Mail Postfächer vollständig aufgeräumt** — tolkmit: 423 → 74 (nur persönliche Kontakte), verticalkay: 279 → 0 (14.05.2026)
+- [x] **NEWSLETTER_SENDER_MAP** mit ~80 Domain-Zuordnungen — greift jetzt auch ohne List-Unsubscribe Header (14.05.2026)
+- [x] **LaunchAgent eingerichtet** — ersetzt Cron, läuft täglich 07:00, Script in ~/Scripts/email_sorter.py (14.05.2026)
+- [x] **macOS Standby-Einstellung aktiviert** — "Kein Ruhezustand im Netzbetrieb" → LaunchAgent feuert zuverlässig (14.05.2026)
 - [x] **Founder Story Karussell komplett produziert** (13.05.2026): 10 Slides in Canva (DAHJhjjEWVs) — Aubergine Studio Brand, harmonisierte Typografie (Cormorant Italic 65-75px Headlines, Montserrat 30-36px Body), Sub-Text in Beige #e0dbd9, Fotos auf 7 Slides verteilt, Slide 9 text-only, CTA "EMBODIMENT", Logo Sand auf Slide 1. Bereit zum Posten. Caption + Hashtags + Musik-Empfehlung in `outputs/karussell-0-founder-story-v4-2026-05-13.md`
 - [x] **Brand-Farben vollständig dokumentiert** — Studio Brand (Aubergine #702f70, Light Aubergine #b99fba, Rosé #d5abc9, Sand #e0dbd9) + Education Brand (Magenta #b40087, Light Magenta #cd8bbb, Nude #e1d0d9, Black #000000) mit HEX/RGB/CMYK in Memory (13.05.2026)
 - [x] **Brand-Voice-Regel "keine Vergleiche"** in Memory etabliert — KEINE vergleichende Sprache ("andere machen X, ich besser") — Sales kommt durch Anziehung statt Abgrenzung (13.05.2026)
@@ -163,4 +167,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 13.05.2026 (Founder Story Karussell fertig produziert)_
+_Zuletzt aktualisiert: 14.05.2026_

@@ -44,10 +44,15 @@
 - **Coach-Vorgaben dokumentiert:** English-First, Instructor Training-Fokus, persönliche Seite existiert bereits separat
 - **Iterativer Workflow:** Bei jedem Post Coach-Vorgaben abfragen, Coach > Claude-Strategie
 
+**Neu abgeschlossen (14.05.26):**
+- E-Mail Postfächer vollständig aufgeräumt: tolkmit 423→74 (nur persönliche Kontakte), verticalkay 279→0
+- NEWSLETTER_SENDER_MAP: ~80 direkte Domain-Zuordnungen (greift ohne List-Unsubscribe)
+- LaunchAgent eingerichtet: täglich 07:00, Script in ~/Scripts/email_sorter.py
+- macOS Standby-Einstellung aktiviert → LaunchAgent läuft zuverlässig
+
 **Neu abgeschlossen (12.05.26):**
 - email_sorter.py: ~40 neue Absender-Regeln, verticalkay-Ordnernamen korrigiert, unknown-8bit Bug gefixt → 0 Fehler
-- E-Mail Sortierung täglich automatisch in "Buchhaltung - E-Mail Verwaltung" Routine integriert (07:00)
-- Nächste Session: office@verticalkay.de Postfach Sortierregeln verfeinern
+- E-Mail Sortierung täglich automatisch (07:00)
 
 **Neu abgeschlossen (11.05.26 — Abend, Instagram-Session):**
 - **Instagram-Strategie komplett ausgearbeitet** (@vertical_kay_pole, 1.311 Follower, 345 Posts)
