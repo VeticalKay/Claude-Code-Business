@@ -8,8 +8,14 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **🔥 FOUNDER STORY KARUSSELL POSTEN** — auf @vertical_kay_pole — Design fertig in Canva (DAHJhjjEWVs), Caption + Hashtags + Musik bereit (siehe `outputs/karussell-0-founder-story-v4-2026-05-13.md`)
 - [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
-- [ ] **Instagram Phase 1 fortsetzen (morgen 12.05.)** — Bio + Display Name austauschen ("Katarina · Pole Mentor · Salzburg" + Embody-Methoden-Bio), Link-in-Bio auf 3 Optionen reduzieren, dann Highlight-Covers in Canva, dann Pinned Posts → komplette Anleitung in `outputs/phase1-foundation-2026-05-11.md`
+- [ ] **Karussell 2 — The Method** (4 Säulen) produzieren — Studio Brand oder Education Brand entscheiden
+- [ ] **Karussell 3 — Transformation** (Schülerinnen-Story) — echte Schülerin oder generisch
+- [ ] **Karussell 4 — Education** (Ausbildungs-Sales) im Education Brand (Magenta/Black)
+- [ ] **Highlight-Covers in Canva** (8 Stück, Studio Brand Sand/Magenta auf Aubergine)
+- [ ] **Instagram Bio + Display Name austauschen** ("Katarina · Pole & Embodiment Mentor · Salzburg" + Embody-Methoden-Bio)
+- [ ] **Link-in-Bio aufräumen** auf 4 Optionen (Ausbildungen / Studio buchen / WhatsApp / Anfahrt)
 - [ ] **Coaching-Details finalisieren** (Voraussetzung für Pinned Post #3 + Phase 2): Format, Preis, Dauer, Inhalt, Zielgruppe
 - [ ] **Strength-Reel produzieren** — Clips zusammenschneiden mit Hook + bilingualer Caption (Konzept aus Instagram-Strategie)
 - [ ] **Somava Teil 2 Feedback** — sobald PDF in Drive-Ordner erscheint, Feedback erstellen (31/33P für Teil 1 bereits erledigt)
@@ -90,6 +96,11 @@
 
 ## ✅ Erledigt
 
+- [x] **Founder Story Karussell komplett produziert** (13.05.2026): 10 Slides in Canva (DAHJhjjEWVs) — Aubergine Studio Brand, harmonisierte Typografie (Cormorant Italic 65-75px Headlines, Montserrat 30-36px Body), Sub-Text in Beige #e0dbd9, Fotos auf 7 Slides verteilt, Slide 9 text-only, CTA "EMBODIMENT", Logo Sand auf Slide 1. Bereit zum Posten. Caption + Hashtags + Musik-Empfehlung in `outputs/karussell-0-founder-story-v4-2026-05-13.md`
+- [x] **Brand-Farben vollständig dokumentiert** — Studio Brand (Aubergine #702f70, Light Aubergine #b99fba, Rosé #d5abc9, Sand #e0dbd9) + Education Brand (Magenta #b40087, Light Magenta #cd8bbb, Nude #e1d0d9, Black #000000) mit HEX/RGB/CMYK in Memory (13.05.2026)
+- [x] **Brand-Voice-Regel "keine Vergleiche"** in Memory etabliert — KEINE vergleichende Sprache ("andere machen X, ich besser") — Sales kommt durch Anziehung statt Abgrenzung (13.05.2026)
+- [x] **Coach-Vorgaben dokumentiert** — English-First, Instructor Training-Fokus, Business-Page-Trennung (Personal-Seite existiert schon) (13.05.2026)
+- [x] **Content-Brand-Mapping etabliert** — Studio Brand für Founder/Studio-Content, Education Brand für Ausbildungs-Content (13.05.2026)
 - [x] **Studio-Website Phase A komplett ausgearbeitet** — 7 Kernseiten in Brand-Voice (Über uns, Mitgliedschaft, Stundenplan, Privatunterricht, FAQ vollständig 33 Fragen, Kontakt, Poledance Anfänger Salzburg SEO-Hauptseite) (11.05.2026)
 - [x] **00-START-HIER.md erstellt** — kompakte Einstiegsseite für Designer (11.05.2026)
 - [x] **23-designer-uebergabe-final.md erstellt** — aktueller Stand + E-Mail/WhatsApp-Vorlagen mit Amelia-Hinweis (11.05.2026)
@@ -152,4 +163,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 12.05.2026_
+_Zuletzt aktualisiert: 13.05.2026 (Founder Story Karussell fertig produziert)_

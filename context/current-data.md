@@ -36,6 +36,14 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (13.05.26 — Founder Story Karussell):**
+- **Erstes Founder Story Karussell** komplett produziert in Canva (DAHJhjjEWVs) — 10 Slides, Aubergine Studio Brand, bereit zum Posten
+- **Brand-Voice geschärft:** keine Vergleiche zu anderen (anziehend statt abgrenzend), Aubergine ≠ Magenta, Logo Sand-Variante
+- **Brand-Farben vollständig dokumentiert:** Studio Brand (Aubergine #702f70 etc.) und Education Brand (Magenta #b40087 etc.) mit HEX/RGB/CMYK
+- **Content-Brand-Mapping:** Studio Brand für Founder/Studio, Education Brand für Ausbildungs-Content
+- **Coach-Vorgaben dokumentiert:** English-First, Instructor Training-Fokus, persönliche Seite existiert bereits separat
+- **Iterativer Workflow:** Bei jedem Post Coach-Vorgaben abfragen, Coach > Claude-Strategie
+
 **Neu abgeschlossen (12.05.26):**
 - email_sorter.py: ~40 neue Absender-Regeln, verticalkay-Ordnernamen korrigiert, unknown-8bit Bug gefixt → 0 Fehler
 - E-Mail Sortierung täglich automatisch in "Buchhaltung - E-Mail Verwaltung" Routine integriert (07:00)
