@@ -30,7 +30,9 @@
 
 **Erkenntnis:** Erster Post unter neuer Strategie hat Brand-Building geleistet, aber strategisch wenig bewirkt. Founder Stories sind oft so — wenig Engagement, aber wertvoll für Brand-Aufbau. **Karussell 2 muss strategisch anders sein.**
 
-### 🎬 BTS-Reel Konzept (Behind-the-Scenes Kraftübungs-Filming)
+### 🎬 BTS-Reel Konzept (Behind-the-Scenes HOME WORKOUT Filming — KEIN Pole-Tutorial)
+**Wichtig:** Es geht um Kraftübungen für ZUHAUSE — unabhängig ob man eine Pole hat oder nicht. Für Schülerinnen die zwischen Studio-Terminen Kraft aufbauen wollen.
+
 **10 Szenen vom Filming-Chaos vor 2 Wochen**, optimierte Reihenfolge:
 1. Handy quietscht / Bild dreht (HOOK)
 2. Voice: "Recording vergessen"
@@ -44,11 +46,12 @@
 10. "Da ist der Wurm drin" (wholesomer OUTRO)
 
 **Empfehlung:**
-- **Hook (on-screen):** "POV: filming a pole tutorial"
+- **Hook (on-screen):** "POV: filming a home workout" oder "5 Min Home Workout = 5 Stunden dahinter"
 - **Pro Szene:** 3-5 Wörter Text auf Deutsch (für Stumm-Schauer)
 - **Länge:** 36 → 30 Sek kürzen für Retention
 - **Caption:** "5 Min Tutorial = 5 Stunden dahinter..." (komplett ausgearbeitet, EN + DE)
-- **Hashtags:** #poletutorial #behindthescenes #poleinstructorlife #realityofcontent #verticalkay
+- **Hashtags:** #homeworkout #polestrength #poletraining #behindthescenes #verticalkay
+- **Caption-Pointe:** "I create these workouts so my students (and you) can build pole strength at home — pole or no pole." / "Ich mache diese Workouts, damit meine Schülerinnen Pole-Kraft auch zuhause aufbauen können — mit oder ohne Pole."
 - **Musik:** Trending BTS/Fail-Audio (kein Klagelied)
 
 **Ziel:** Authentizität zeigen, dass das Filmen Wahnsinn ist und man dranbleiben muss. Heiter, sympathisch, menschlich-nahbar.
