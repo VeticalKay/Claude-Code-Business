@@ -68,6 +68,13 @@
 - **Caption:** "5 Min Tutorial = 5 Stunden dahinter..." (komplett ausgearbeitet, EN + DE)
 - **Hashtags:** #homeworkout #polestrength #poletraining #behindthescenes #verticalkay
 - **Caption-Pointe:** "I create these workouts so my students (and you) can build pole strength at home — pole or no pole." / "Ich mache diese Workouts, damit meine Schülerinnen Pole-Kraft auch zuhause aufbauen können — mit oder ohne Pole."
+
+**Schrift/Style-Specs für On-Screen-Texte:**
+- **Hook:** Montserrat Bold, 60-80px, Weiß #FFFFFF, zentriert obere Hälfte, dezenter Outline für Lesbarkeit
+- **Szenen-Texte:** Montserrat Regular, 40-55px, Weiß #FFFFFF (oder Sand #e0dbd9 für softer), untere Hälfte oberhalb Instagram-UI
+- **Dauer:** 2-3 Sek pro Text-Einblendung
+- **KEIN Magenta** für Texte (Education Brand würde brechen)
+- **Aubergine #702f70** optional als Outro-Akzent
 - **Musik:** Trending BTS/Fail-Audio (kein Klagelied)
 
 **Ziel:** Authentizität zeigen, dass das Filmen Wahnsinn ist und man dranbleiben muss. Heiter, sympathisch, menschlich-nahbar.
