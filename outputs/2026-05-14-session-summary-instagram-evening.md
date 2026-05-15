@@ -33,19 +33,20 @@
 ### 🎬 BTS-Reel Konzept (Behind-the-Scenes HOME WORKOUT Filming — FINALE VERSION 15.05.2026)
 **Wichtig:** Es geht um Kraftübungen für ZUHAUSE — unabhängig ob man eine Pole hat oder nicht. Für Schülerinnen die zwischen Studio-Terminen Kraft aufbauen wollen.
 
-**FINALE Reihenfolge (9 Szenen, ~27 Sek) — STÄRKT + blblbl direkt hintereinander als Doppelschlag:**
+**FINALE Reihenfolge (10 Szenen, 30 Sek) — STÄRKT + blblbl früh, Pistol-Puch als später Energie-Boost vor Outro:**
 
 | Sek | # | Szene | English Text | Funktion |
 |---|---|---|---|---|
 | 0:00 | 1 | Handy quietscht, dreht | (Hook): "POV: the chaos behind every clean tutorial." | HOOK |
-| 0:02 | 2 | Pistol-Puch (rechts/links) | "Right? Left? *gives up*" | PEAK 1 |
+| 0:02 | 2 | Lautes "STÄRKT!" | "When the word just won't come out." | PEAK 1 |
 | 0:05 | 3 | Voice: "Ich krieg die Krise" (Matte) | "Forgot to press record. Again." | Setup-Voice |
-| 0:08 | 4 | Frame-Check Arme | "Trying not to crop my head off." | Verschnauf |
-| 0:11 | 5 | Lautes "STÄRKT!" | "When the word just won't come out." | PEAK 2 |
-| 0:14 | 6 | "blblblblbl" (DIREKT nach STÄRKT) | "When the brain leaves the building." | PEAK 3 — Doppelschlag |
+| 0:08 | 4 | "blblblblbl" | "When the brain leaves the building." | PEAK 2 |
+| 0:11 | 5 | Frame-Check Arme | "Trying not to crop my head off." | Verschnauf |
+| 0:14 | 6 | Voice: "Nein das darf nicht sein" (Matte) | "No. Not again." | Eskalation |
 | 0:17 | 7 | Krampf | "And now: a cramp." | Körperlicher Tiefpunkt |
 | 0:20 | 8 | Stumm kniend, Kopf in Händen | "Take 47." | Emotionaler Tiefpunkt |
-| 0:24 | 9 | Voice: "Wurm drin" (Matte) | "Nothing's working today." | OUTRO |
+| 0:23 | 9 | Pistol-Puch (rechts/links) — LATE TWIST | "Right? Left? *gives up*" | PEAK 3 — Energie-Boost vor Outro |
+| 0:26 | 10 | Voice: "Wurm drin" (Matte) | "Nothing's working today." | OUTRO |
 
 **Alte 10-Szenen-Reihenfolge (veraltet, durch obige ersetzt):**
 1. Handy quietscht / Bild dreht (HOOK)
