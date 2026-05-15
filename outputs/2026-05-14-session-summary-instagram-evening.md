@@ -46,7 +46,8 @@
 10. "Da ist der Wurm drin" (wholesomer OUTRO)
 
 **Empfehlung:**
-- **Hook (on-screen):** "POV: filming a home workout" oder "5 Min Home Workout = 5 Stunden dahinter"
+- **Hook (on-screen):** **"5 Minuten. 47 Versuche."** (Top-Pick — kurz, kontrastreich, Numbers stoppen) — Alternativen: "Du siehst 5 Minuten. Ich sehe das.", "Was niemand zeigt.", "Heute habe ich 47 Mal aufgegeben."
+- **Szene 3 Klarstellung:** voice-only "Kamera zu nah, Kopf gerade noch im Bild" (NICHT "abgeschnitten") → On-Screen-Text: "Kamera zu nah. Kopf gerade noch da."
 - **Pro Szene:** 3-5 Wörter Text auf Deutsch (für Stumm-Schauer)
 - **Länge:** 36 → 30 Sek kürzen für Retention
 - **Caption:** "5 Min Tutorial = 5 Stunden dahinter..." (komplett ausgearbeitet, EN + DE)
