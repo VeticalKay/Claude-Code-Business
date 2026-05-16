@@ -69,6 +69,33 @@
 - **Hashtags:** #homeworkout #polestrength #poletraining #behindthescenes #verticalkay
 - **Caption-Pointe:** "I create these workouts so my students (and you) can build pole strength at home — pole or no pole." / "Ich mache diese Workouts, damit meine Schülerinnen Pole-Kraft auch zuhause aufbauen können — mit oder ohne Pole."
 
+**PERFORMANCE-ERGEBNISSE (15.05.2026):**
+
+| Post | Aufrufe | Reichweite | Non-Follower | Comments | Avg Wiedergabe |
+|---|---|---|---|---|---|
+| Founder Story (Karussell, 14.05.) | 547 | 175 | 7,8% | 0 | — |
+| BTS Feed-Reel (15.05.) | 564 | 333 | 56,3% | 4 | — |
+| BTS Test-Reel (15.05.) | 1.163 | 105 IG + 1.054 FB | 100% | 0 | **3 Sek** ⚠️ |
+
+**Kritische Erkenntnis: Hook funktioniert nicht.** Test-Reel hat massive Reichweite (1.163 Aufrufe), aber Average Wiedergabedauer nur 3 Sek von 25 Sek Reel = 12% Retention. Übersprungen-Rate 59% (üblich 51,7%).
+
+**Hypothesen für schlechte Retention:**
+- Hook-Text "POV: the chaos behind every clean tutorial" zu lang zum Lesen in 1 Sek
+- Erstes Bild (Handy quietscht) visuell zu chaotisch — niemand versteht in 1 Sek worum's geht
+- Comedy startet erst bei Sek 2-5 (Pistol-Puch) — zu spät
+- Audio fängt nicht knackig genug an
+
+**Lernen für nächstes Reel:**
+- Erste 1 Sek muss SOFORT stoppen — starkes visuelles Bild + 4-5 Wörter Hook max
+- Stärksten Moment als Cold Open (z.B. STÄRKT! oder blblbl direkt am Anfang)
+- Beat-Drop in Sekunde 0
+
+**Positives:**
+- Comedy-Reel hat 56,3% Non-Follower-Reach erreicht (vs. 7,8% bei Karussell — 7x besser)
+- 4 Kommentare beim Feed-Reel (vs. 0 bei Karussell)
+- Über alle 3 Posts: ~1.500 Konten Gesamt-Reichweite
+- Test-Reel-Mechanismus funktioniert (100% Non-Follower)
+
 **Schrift/Style-Specs für On-Screen-Texte:**
 - **Hook:** Montserrat Bold, 60-80px, Weiß #FFFFFF, zentriert obere Hälfte, dezenter Outline für Lesbarkeit
 - **Szenen-Texte:** Montserrat Regular, 40-55px, Weiß #FFFFFF (oder Sand #e0dbd9 für softer), untere Hälfte oberhalb Instagram-UI
