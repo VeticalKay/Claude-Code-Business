@@ -8,7 +8,6 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
-- [ ] **🔥 BTS-Reel zusammenschneiden (morgen 15.05.)** — 10 Szenen vom Kraftübungs-Filming-Chaos, optimierte Reihenfolge in `outputs/2026-05-14-session-summary-instagram-evening.md`, Hook "POV: filming a pole tutorial", 30 Sek, Caption + Hashtags ausgearbeitet
 - [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
 - [ ] **Karussell 2 — The Method** (4 Säulen) — strategisch ANDERS bauen nach Founder-Story-Erkenntnissen: Curiosity-Hook (nicht poetisch), Save-Trigger einbauen ("Save for when you forget why you started"), Comment-Frage mit niedriger Hürde ("Welche Säule trifft dich? Schreib 1-4"), Hashtags breiter mixen für Non-Follower-Reach
 - [ ] **Karussell 3 — Transformation** (Schülerinnen-Story) — echte Schülerin oder generisch
@@ -95,6 +94,7 @@
 
 ## ✅ Erledigt
 
+- [x] **🎉 BTS-Reel "POV: chaos behind every tutorial" LIVE** (15.05.2026) — als Feed + Test-Reel gleichzeitig gepostet (A/B), 10 Szenen 30 Sek, Home-Workout-Kontext, English On-Screen-Texte
 - [x] **🎉 Founder Story Karussell LIVE auf @vertical_kay_pole** (14.05.2026) — 10 Slides Aubergine Studio Brand, bilinguale Caption, Top 5 Hashtags, Pole-Community-Sound
 - [x] **Instagram Bio + Display Name live geschaltet** auf @vertical_kay_pole (14.05.2026)
 - [x] **E-Mail Postfächer vollständig aufgeräumt** — tolkmit: 423 → 74 (nur persönliche Kontakte), verticalkay: 279 → 0 (14.05.2026)
