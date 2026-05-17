@@ -150,10 +150,10 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - c) zur Decke
 - d) zum Boden
 
-**4. Was passiert, wenn unsere Schülerin die Schultern nicht in die Außenrotation bringt, bevor sie sich mit dem Knie in den Hoop hängt?**
+**4. Bevor unsere Schülerin sich mit ihrem vollen Körpergewicht in die Kniekehle setzt – was muss sie aktiv mit den Schultern tun, und warum?**
 *(Freitext – wir denken nach)*
 
-> Erwartete Antwort: Sie hängt in den Schultern – die Schulter sitzt nicht sauber in der Gelenkpfanne, sondern wird vom Eigengewicht nach unten gezogen. Das fühlt sich unangenehm an, schwächt die Kontrolle in der Figur und kann langfristig die Schulter überlasten. Korrektur: Vor dem Reinhängen kurz die Schultern aktiv über außen nach hinten unten rotieren und in die Gelenkpfanne bringen.
+> Erwartete Antwort: Sie muss die Schultern über außen nach hinten unten in eine Außenrotation bringen und so die Schulter strukturell in die Gelenkpfanne setzen. So hängt sie nicht in den Schultern, sondern hat einen stabilen Halt, der ihr Eigengewicht trägt. Ohne diese Rotation wird die Schulter vom Eigengewicht nach unten gezogen, der Halt wird instabil und unangenehm, und langfristig kann die Schulter überlastet werden.
 
 ---
 
