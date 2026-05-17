@@ -1,0 +1,198 @@
+# Modul 5 — Lektion 5.1: Step in Mount + Basic Seat
+
+> Inhalte zum 1:1 Reinkopieren in Alfima.
+
+---
+
+## Level Basic Mounts + Seats:
+
+### Step in Mount + Basic Seat: (Videolink)
+*(Level 1)*
+
+In dieser Lektion verbinden wir den Step in Mount mit dem Übergang in den Basic Seat – die komplette Kombination, vom Stand vor dem Hoop bis zum Sitzen im Inneren des Aerial Hoops. Wer den Step in Mount einzeln üben möchte, findet ihn in den Lektionen 4.2 und 4.3.
+
+---
+
+## Lernziel
+
+Nach dieser Lektion können wir:
+
+- den Step in Mount und den Übergang in den Basic Seat als komplette Kombination sicher und kontrolliert demonstrieren
+- den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären
+- die häufigsten Fehler in jeder Phase erkennen und liebevoll korrigieren
+- spüren, wann eine Schülerin bereit ist, vom Step in Mount in den Basic Seat überzugehen
+
+---
+
+## Video
+
+🎥 **Demo-Video:** *(Embed Step in Mount + Basic Seat — komplette Kombination)*
+*Datei: `M5-L01_Step-in-Mount-und-Basic-Seat.mp4` — Drive-Ordner: "Step in Mount" + "Basic Seat aus Step in Mount"*
+
+---
+
+## Anatomie
+
+| Körperteil | Funktion / Wirkung |
+|---|---|
+| **Bizeps + Unterarme** | greifen den Hoop in der Ausgangsposition und im Umgreifen auf 12:00 Uhr |
+| **Schultern** | machen die Außenrotation über außen nach hinten unten – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen |
+| **Latissimus + Schulterblätter** | werden im Übergang zum Basic Seat aktiviert, ziehen uns hoch – das Brustbein hebt sich |
+| **Bauchmuskeln** | stabilisieren den Oberkörper im Schwung und im Hochziehen |
+| **Hüftbeuger + Quadrizeps** | heben das aktive Bein ins Passé und strecken es im Kick nach vorne |
+| **Standbein (Wade + Gesäß)** | bremst sanft am Boden, bringt uns ins Lot, zentriert den Hoop |
+| **Oberschenkelrückseite (eingehängtes Bein)** | trägt im Step in Mount die Last in der Kniekehle, drückt im Übergang zum Basic Seat von oben gegen die Bar |
+| **Gesäß + Oberschenkelrückseite** | landen am Ende im Basic Seat auf der Bar – der Sitz wird unsere neue Auflagefläche |
+
+---
+
+## Schritt-für-Schritt
+
+### Ausgangsposition
+
+- Wir stehen hinter dem Hoop
+- Unsere Hände greifen den Hoop bei ca. 15:00 Uhr und 9:00 Uhr
+- Wir sorgen dafür, dass wir einen guten Stand auf einem Bein haben - das wird unser Standbein
+- Wir schwingen den Hoop etwas nach vorne, um Platz zwischen uns und dem Hoop zu schaffen
+- Wir ziehen ein Bein, unser aktives Bein in ein Passé
+- Der Hoop schwingt zurück zu uns
+
+> *Zu Beginn arbeiten wir uns an die Figuren im Hoop und am Hoop on Air aus dem Step in Mount. Der Step in Mount spart unseren Schülern zu Beginn viel Kraft und der Schüler hat Zeit sich langsam an die Griffkraft und die Figuren im Hoop zu gewöhnen.*
+
+### Ready for Step in Mount
+
+- Unser Passé-Bein kickt nach vorne und steigt in den Hoop ein
+- Wir schnappen uns den Hoop mit der Kniekehle
+- Wir greifen um - greifen den Hoop bei 12:00 Uhr, etwa schulterbreit
+- Wir setzen uns tief rein, das Gesäß setzt sich und wir hängen mit einer Kniekehle in der Bar
+- Langsam lassen wir uns mit unserem Standbein am Boden unter die Aufhängung gleiten
+
+### Ready for Basic Seat
+
+- Wir aktivieren unsere Schultern, Schulterblätter und heben das Brustbein
+- Wir strecken das eingehängte Bein aus
+- Wir ziehen uns nun etwas hoch, während die Oberschenkelrückseite vom zuvor eingehängten Bein von oben gegen die Bar drückt
+- Wir ziehen nun das untere Bein mit dem Knie zuerst und gestreckten Füßen nach vorne über die Bar
+- Wir können uns in einen Basic Seat auf die Bar im Inneren des Aerial Hoops setzen
+- Unser Standfuß zentriert uns, um den Hoop zum Stillstand zu bringen und unser Schwerpunkt unter die Aufhängung zu bringen
+- Durch Andrehen über unser Standbein können wir unseren Hoop in den Spin-Modus bringen
+- Das Standbein kann nun unter die Bar gehoben werden; strecke es entweder nach vorne aus oder ziehe es in eine Sunwheel-Pose nach hinten
+
+---
+
+## Cueing-Notes
+
+Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schülerinnen trägt:
+
+**Ausgangsposition:**
+- *„Hinter den Hoop – Hände bei 15 und 9 Uhr."*
+- *„Stand auf ein Bein – das ist dein Standbein."*
+- *„Hoop schwingen – Platz machen."*
+- *„Aktives Bein ins Passé."*
+- *„Hoop kommt zurück."*
+
+**Step in Mount:**
+- *„Passé kickt nach vorne – steig ein."*
+- *„Knie schnappt sich die Bar."*
+- *„Umgreifen – Hände auf 12 Uhr, schulterbreit."*
+- *„Tief setzen – Gesäß sinkt."*
+- *„Standbein gleitet unter die Aufhängung."*
+
+**Basic Seat:**
+- *„Schultern, Schulterblätter aktivieren – Brustbein heben."*
+- *„Eingehängtes Bein strecken."*
+- *„Hochziehen – Oberschenkel drückt von oben gegen die Bar."*
+- *„Unteres Bein mit dem Knie zuerst über die Bar."*
+- *„Sitz auf die Bar – innen im Hoop."*
+- *„Standfuß zentriert – Hoop kommt zur Ruhe."*
+
+---
+
+## Häufige Fehler
+
+| Was passiert | Wie wir es liebevoll auflösen |
+|---|---|
+| **Die Hände greifen zu eng** – nicht bei 15 und 9 Uhr. | Wir gehen dazu und legen ihre Hände selbst auf die richtige Position. Berührung trägt mehr als Worte. |
+| **Der Schwung kommt zu schnell** – die Schülerin will dem Hoop hinterher. | Wir bremsen mit der Hand am Hoop. Erst trocken am Boden den Passé-Kick üben, ohne Mount. |
+| **Das Passé-Bein bleibt zu tief** – die Kniekehle erreicht die Bar nicht. | Hand unter den Oberschenkel legen, gemeinsam das Bein höher heben. *„Knie zur Brust – Passé hoch."* |
+| **Die Kniekehle erwischt die Bar nicht** – das Bein rutscht ab oder kommt mit dem Knöchel statt der Kniekehle an. | *„Die Kniekehle schnappt – nicht der Knöchel."* Wir zeigen am eigenen Bein, wo die Kniekehle ist. |
+| **Die Schülerin hängt beim Übergang in die Schultern** – Lat und Schulterblätter werden nicht aktiviert. | Hand auf den Lat legen, taktil aktivieren: *„Hier zieht – Brustbein hebt sich – Schultern in die Gelenkpfanne."* |
+| **Das untere Bein kommt nicht sauber über die Bar** – Schülerin bleibt halb hängen. | *„Knie zuerst – Füße gestreckt – über die Bar nach vorne."* Mit Hand am Schienbein leiten. |
+| **Der Sitz ist instabil** – die Schülerin rutscht von der Bar zurück. | *„Setz dich tief auf die Bar."* Aktiv das Gesäß nach hinten setzen lassen. |
+
+---
+
+## Progression / Regression
+
+**Wenn die Kombination noch zu schwer ist:**
+
+- Wir trennen die Bewegung: erst nur Step in Mount üben (Modul 4.2 oder 4.3), bis das Hängen in der Kniekehle sitzt
+- Dann separat den Übergang vom Step in Mount in den Basic Seat
+
+**Wenn sie sich leicht anfühlt:**
+
+- Step in Mount + Basic Seat direkt im Spinning-Modus
+- Aus dem Basic Seat in den Stag Seat (Modul 5.6)
+- In den Pike Seat (Modul 5.8)
+- In den Cradle (Modul 6.1)
+
+---
+
+## Mini-Quiz
+
+**1. In welcher Position ziehen wir unser aktives Bein in der Ausgangsposition?**
+- a) gestreckt nach vorne
+- b) ✅ ins Passé
+- c) gestreckt nach hinten
+- d) angewinkelt zur Seite
+
+**2. Bei welcher Uhrzeit greifen wir um, wenn wir uns den Hoop mit der Kniekehle geschnappt haben?**
+- a) bei 15:00 Uhr und 9:00 Uhr
+- b) bei 6:00 Uhr
+- c) ✅ bei 12:00 Uhr, etwa schulterbreit
+- d) bei 3:00 Uhr und 9:00 Uhr
+
+**3. Was machen wir beim Übergang in den Basic Seat zuerst?**
+- a) wir setzen uns sofort hin
+- b) ✅ wir aktivieren Schultern, Schulterblätter und heben das Brustbein
+- c) wir lassen den Hoop schwingen
+- d) wir greifen mit nur einer Hand
+
+**4. Wie kommt das untere Bein in den Basic Seat über die Bar?**
+- a) gerade nach unten gestreckt
+- b) ✅ mit dem Knie zuerst und gestreckten Füßen nach vorne über die Bar
+- c) wir lassen es einfach baumeln
+- d) wir schwingen es zur Seite
+
+**5. Warum aktivieren wir Lat und Schulterblätter beim Hochziehen vom Step in Mount in den Basic Seat?**
+*(Freitext – wir denken nach)*
+
+> Erwartete Antwort: Damit wir nicht in den Schultern hängen, wenn wir uns hochziehen. Die Schulter sitzt strukturell in der Gelenkpfanne, der Latissimus übernimmt den Zug nach oben. Das Brustbein hebt sich, wir bewegen uns kontrolliert aus dem passiven Hängen in den aktiven Sitz.
+
+---
+
+## Download
+
+📎 **Cueing-Karte Step in Mount + Basic Seat** *(A6, doppelseitig, zum Ausdrucken)*
+*Datei: `M5-L01_cueing-karte_step-in-mount-und-basic-seat.pdf` – in Canva erstellt, Brand-Farben Magenta / Nude / Schwarz.*
+
+---
+
+## Verlinkte Lektionen
+
+**Bevor wir hier ankommen, hilft uns:**
+- Modul 4.2 — Step in Mount Variante A (für den niedrig hängenden Hoop)
+- Modul 4.3 — Step in Mount Variante B (für den höher hängenden Hoop)
+- Modul 2.4 — Warm Up
+
+**Aus dieser Lektion heraus öffnen sich uns:**
+- Modul 5.6 — Stag Seat aus Step in Mount
+- Modul 5.8 — Pike Seat Cross Leg aus Step in Mount
+- Modul 6.1 — Cradle aus Step in Mount
+- Modul 6.6 — Man in the Moon aus Step in Mount
+
+---
+
+## Trainer-Notiz
+
+Diese Kombination ist das Herzstück des Basic-Levels. Hier verbinden sich der erste Aufschwung in den Hoop und die erste Sitzposition – fast jede weitere Figur baut darauf auf. Wir nehmen uns Zeit, die Übergänge sauber zu üben, bevor wir mit Spin oder weiteren Variationen arbeiten. Wenn diese Kombi sitzt, öffnet sich der Hoop für alles Weitere.
