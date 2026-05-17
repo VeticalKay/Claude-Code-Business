@@ -70,17 +70,16 @@ Nach dieser Lektion können wir:
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Wir legen nun die Kniekehle des Spielbeines von hinten in den Hoop
 - Den Hoop drehen wir jetzt zu uns, somit kommt er vor unseren Körper
+- Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
 - Wir greifen mit der unteren, vorderen Hand um, auf die andere Seite des Hoops
 - Die Hände greifen den Hoop, die Bar jetzt auf 15:00 Uhr und auf 9:00 Uhr, und wir schauen nun durch den Hoop durch
-- Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
-- Beide Hände greifen abermals um
-- Wir greifen mit beiden Händen ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
 
 ### Bewegungsablauf in die Endpose
 
-- Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
-- Wir schnappen uns den Hoop mit der Kniekehle
-- Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+- Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
+- Beide Hände greifen abermals um
+- Wir greifen mit beiden Händen – schulterbreit ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
+
 - Die Schultern machen eine Außenrotation über außen nach hinten unten
 - Wir senken unser Gesäß
 - Wir hängen uns mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
