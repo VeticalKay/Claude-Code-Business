@@ -65,7 +65,7 @@ Nach dieser Lektion können wir:
 - Unsere Hände halten den Hoop in der Greif-Position stabil
 - Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
 
-### Der Aufschwung
+### Bewegungsablauf
 
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Wir legen nun die Kniekehle des Spielbeines von hinten in den Hoop

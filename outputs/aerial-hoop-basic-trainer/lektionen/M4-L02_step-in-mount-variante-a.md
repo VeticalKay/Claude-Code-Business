@@ -69,7 +69,7 @@ Nach dieser Lektion können wir:
 - Unsere Hände geben Druck auf den Hoop
 - Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
 
-### Der Aufschwung
+### Bewegungsablauf
 
 - Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
