@@ -81,9 +81,9 @@ Nach dieser Lektion können wir:
 - Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
 - Wir schnappen uns den Hoop mit der Kniekehle
 - Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
-- Senke dein Gesäß
 - Die Schultern machen eine Außenrotation über außen nach hinten unten
-- Hänge dich mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
+- Wir senken unser Gesäß
+- Wir hängen uns mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
 - Wir achten gleichzeitig darauf, dass wir uns mit dem Schwerpunkt und dem Gewicht unter die Aufhängung bringen
 
 ---
