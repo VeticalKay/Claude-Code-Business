@@ -94,6 +94,7 @@
 
 ## ✅ Erledigt
 
+- [x] **🎉 Talking Head Reel 1 LIVE auf @vertical_kay_pole** (17.05.2026) — aus parallel-Chat konzipiert
 - [x] **🎉 BTS-Reel "POV: chaos behind every tutorial" LIVE** (15.05.2026) — als Feed + Test-Reel gleichzeitig gepostet (A/B), 10 Szenen 30 Sek, Home-Workout-Kontext, English On-Screen-Texte
 - [x] **🎉 Founder Story Karussell LIVE auf @vertical_kay_pole** (14.05.2026) — 10 Slides Aubergine Studio Brand, bilinguale Caption, Top 5 Hashtags, Pole-Community-Sound
 - [x] **Instagram Bio + Display Name live geschaltet** auf @vertical_kay_pole (14.05.2026)
