@@ -19,7 +19,7 @@ Variante B ist die Variante für den **höher hängenden Hoop**. Hier können wi
 Nach dieser Lektion können wir:
 
 - den Step in Mount in Variante B sicher und kontrolliert demonstrieren
-- den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären – inklusive Durchsteigen durch den Hoop
+- den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären
 - die häufigsten Fehler erkennen und liebevoll korrigieren
 - spüren, wann eine Schülerin bereit ist für die nächste Progression
 
@@ -60,11 +60,6 @@ Nach dieser Lektion können wir:
 - Wir bringen unser Gewicht auf das vordere, publikumsnahe Bein – da, wo die Hand etwas tiefer greift – das wird zu unserem Standbein
 - Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – wird unser Spielbein
 
-### Hände / Arme
-
-- Unsere Hände halten den Hoop in der Greif-Position stabil
-- Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
-
 ### Bewegungsablauf
 
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
@@ -76,10 +71,9 @@ Nach dieser Lektion können wir:
 
 ### Bewegungsablauf in die Endpose
 
-- Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
+- Um uns in den Hoop mit der eingehängten Kniekehle richtig einhängen zu können, bringen wir die Hände noch höher
 - Beide Hände greifen abermals um
 - Wir greifen mit beiden Händen – schulterbreit ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
-
 - Die Schultern machen eine Außenrotation über außen nach hinten unten
 - Wir senken unser Gesäß
 - Wir hängen uns mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
@@ -189,4 +183,4 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 ## Trainer-Notiz
 
-Variante B ist die Variante für die Studio-Realität – die meisten Hoops hängen auf normaler Höhe. Der schwierigste Teil ist nicht das Hand-Umgreifen, sondern das kontrollierte Einsteigen aus dem Passé in die Kniekehle und das Zu-uns-Drehen des Hoops, ohne dass die Schülerin das Gleichgewicht verliert. Hier nehmen wir uns Zeit, lassen sie diese beiden Momente einzeln spüren, bevor wir die volle Bewegung verbinden.
+Variante B ist die Variante für den höher hängenden Hoop. Der schwierigste Teil ist nicht das Hand-Umgreifen, sondern das kontrollierte Einsteigen aus dem Passé in die Kniekehle und das Zu-uns-Drehen des Hoops, ohne dass die Schülerin das Gleichgewicht verliert. Hier nehmen wir uns Zeit, lassen sie diese beiden Momente einzeln spüren, bevor wir die volle Bewegung verbinden.
