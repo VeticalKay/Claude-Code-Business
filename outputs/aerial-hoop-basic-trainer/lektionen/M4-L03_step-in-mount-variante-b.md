@@ -70,17 +70,21 @@ Nach dieser Lektion können wir:
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Wir legen nun die Kniekehle des Spielbeines von hinten in den Hoop
 - Den Hoop drehen wir jetzt zu uns, somit kommt er vor unseren Körper
-
-### Durchsteigen
-
 - Wir greifen mit der unteren, vorderen Hand um, auf die andere Seite des Hoops
 - Die Hände greifen den Hoop, die Bar jetzt auf 15:00 Uhr und auf 9:00 Uhr, und wir schauen nun durch den Hoop durch
 - Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
 - Beide Hände greifen abermals um
+- Wir greifen mit beiden Händen ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
 
 ### Bewegungsablauf in die Endpose
 
-- Wir greifen mit beiden Händen ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
+- Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
+- Wir schnappen uns den Hoop mit der Kniekehle
+- Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+- Die Schultern machen eine Außenrotation über außen nach hinten unten
+- Wir senken unser Gesäß
+- Wir hängen uns mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
+- Wir achten gleichzeitig darauf, dass wir uns mit dem Schwerpunkt und dem Gewicht unter die Aufhängung bringen
 
 ---
 
@@ -99,6 +103,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Durch den Hoop durchschauen."*
 - *„Hände höher – noch einmal umgreifen."*
 - *„Ganz oben an der Bar – seitlich neben der Aufhängung von 12 Uhr."*
+- *„Schultern weg von den Ohren – wir machen uns lang."*
 
 ---
 
@@ -109,8 +114,10 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 | **Die vordere Hand greift über statt unter die hintere Hand.** | Wir gehen dazu und legen ihre Hände richtig – die vordere greift IMMER unter die hintere. Berührung trägt mehr als Worte. |
 | **Beim Spielbein-Heben rotiert die Hüfte mit.** | Wir legen eine Hand sanft an ihre Hüfte: *„Hüfte bleibt geöffnet."* |
 | **Beim Hoop-zu-uns-Drehen verliert sie die Kniekehle.** | *„Druck mit der Kniekehle halten – der Hoop dreht sich UM dich."* |
-| **Beim Durchsteigen hängt sie in den Schultern.** | *„Lang machen – Schultern in die Gelenkpfanne."* Hand auf die Schulter legen. |
-| **Hände greifen nicht weit genug oben** beim Ankommen. | *„Hände ganz oben – seitlich neben der Aufhängung von 12 Uhr."* |
+| **Das Passé-Bein bleibt zu tief** – die Kniekehle erreicht die Bar nicht. | Hand unter den Oberschenkel legen, gemeinsam das Bein höher heben. *„Knie zur Brust – Spielbein hoch."* |
+| **Die Kniekehle erwischt die Bar nicht** – das Bein rutscht ab oder kommt mit dem Knöchel statt der Kniekehle an. | *„Die Kniekehle schnappt – nicht der Knöchel."* Wir zeigen am eigenen Bein, wo die Kniekehle ist. |
+| **Standbein und Spielbein werden verwechselt** – die Schülerin will mit dem belasteten Bein einsteigen. | Vor dem Bewegungsablauf kurz benennen lassen: *„Welches Bein trägt? Welches geht in den Hoop?"* |
+| **Schultern wandern zu den Ohren** – Verspannung baut sich auf, die Außenrotation geht verloren. | *„Schultern in die Gelenkpfanne – wir machen uns lang."* Hand auf die Schulter legen. |
 
 ---
 
@@ -119,8 +126,6 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 **Wenn Variante B noch zu schwer ist:**
 
 - Wir kehren zu Variante A zurück (niedrigerer Hoop)
-- Trocken am Boden den seitlichen Stand + das Hand-untergreifen üben, ohne Mount
-- Den Hoop-zu-uns-Dreh-Schritt einzeln üben, mit Hilfe von außen
 
 **Wenn sie sich leicht anfühlt:**
 
@@ -185,4 +190,4 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 ## Trainer-Notiz
 
-Variante B ist die "echte" Variante für die Studio-Realität – die meisten Hoops hängen auf normaler Höhe, nicht zwischen Bauchnabel und Schritt. Hier wird der seitliche Eingang plus das Durchsteigen zur Hauptbewegung. Wir nehmen uns Zeit für das Hand-Umgreifen – das ist der schwierigste Teil und braucht Wiederholung.
+Variante B ist die Variante für die Studio-Realität – die meisten Hoops hängen auf normaler Höhe. Der schwierigste Teil ist nicht das Hand-Umgreifen, sondern das kontrollierte Einsteigen aus dem Passé in die Kniekehle und das Zu-uns-Drehen des Hoops, ohne dass die Schülerin das Gleichgewicht verliert. Hier nehmen wir uns Zeit, lassen sie diese beiden Momente einzeln spüren, bevor wir die volle Bewegung verbinden.
