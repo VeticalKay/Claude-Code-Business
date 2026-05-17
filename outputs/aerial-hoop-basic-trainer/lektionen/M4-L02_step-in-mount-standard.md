@@ -56,15 +56,19 @@ Der wichtigste Cue, den wir unseren Schülerinnen mitgeben:
 
 - Unsere Hände greifen den Hoop bei ca. 9:00 Uhr und zwischen ca. 15:00 Uhr
 - Die Handrücken schauen zu uns
-- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
 
 > **Wichtige Bemerkung:** Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt. Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
+
+**Standbein / Spielbein:**
+
+- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
+- Das andere Bein bleibt frei – es wird unser Spielbein, das wir gleich ins Passé ziehen
 
 **Der Aufschwung:**
 
 - Unsere Hände geben Druck auf den Hoop
 - Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
-- Das Bein, auf dem wir kein Gewicht gegeben haben, ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Unser Hoop schwingt zurück zu uns
 - Unser Passé-Bein kickt – streckt sich nach vorne aus
 
@@ -85,10 +89,14 @@ Der wichtigste Cue, den wir unseren Schülerinnen mitgeben:
 - Unsere Hände greifen den Hoop zwischen 6:00 und 9:00 Uhr oder zwischen 6:00 und 15:00 Uhr
 - Die vordere Hand greift unter die hintere Hand, die Handflächen-Innenseiten zeigen zueinander
 
-**Der Aufschwung:**
+**Standbein / Spielbein:**
 
 - Wir bringen unser Gewicht auf das vordere, publikumsnahe Bein – da, wo die Hand etwas tiefer greift – das wird zu unserem Standbein
-- Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – wird unser Spielbein
+
+**Der Aufschwung:**
+
+- Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Wir legen nun die Kniekehle des Passé-Beines von hinten in den Hoop
 - Den Hoop drehen wir jetzt zu uns, somit kommt er vor unseren Körper
 
