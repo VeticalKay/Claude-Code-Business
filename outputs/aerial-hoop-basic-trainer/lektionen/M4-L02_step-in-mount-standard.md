@@ -1,177 +1,152 @@
-# Modul 4 — Lektion 4.2: Step in Mount (Standard mit Sunwheel)
+# Modul 4 — Lektion 4.2: Step in Mount
 
 > **Vorlagen-Lektion** — dient als Format-Validierung. Alle anderen Lektionen folgen diesem Aufbau.
 > Inhalte zum 1:1 Reinkopieren in Alfima (Editor → Text + Video + Quiz + Download).
 
 ---
 
-## Titel in Alfima
-**Step in Mount — Standard mit Sunwheel**
+## Level Basic Mounts:
 
-## Kurzbeschreibung (für Lektionsübersicht)
-Der freundlichste Einstieg in den Hoop. Spart Kraft, gibt deinen Schülerinnen Zeit, sich an Griff und Höhe zu gewöhnen — und ist die Basis für fast alles, was später folgt.
+### Step in Mount: (Videolink)
+*(Level 1)*
+
+Der Step in Mount ist unser Lieblingseinstieg in den Aerial Hoop. Er schenkt unseren Schülerinnen Zeit – Zeit, um sich an die Griffkraft zu gewöhnen, an die Höhe, an das Gefühl, das eine Kniekehle in der Bar liegt zu spüren. Er spart Kraft, gibt Vertrauen, und ist gleichzeitig das Tor zu fast allem, was später folgt: Basic Seat, Cradle, Man in the Moon, Delilah, Sunwheel-Pose.
 
 ---
 
 ## Lernziel
 
-Nach dieser Lektion kannst du:
+Nach dieser Lektion können wir:
 
 - den Step in Mount sicher und kontrolliert demonstrieren
-- die Bewegung einer Anfängerin in 4 Schritten erklären (Ausgangsposition → Mount → Kniekehle hängen → Sunwheel)
-- die 3 häufigsten Fehler erkennen und korrigieren
-- entscheiden, wann eine Schülerin bereit für die nächste Progression ist
+- die Bewegung einer Anfängerin in vier sanften Schritten erklären — von der Ausgangspose bis zur Sunwheel-Pose
+- die drei häufigsten Fehler erkennen und liebevoll korrigieren
+- spüren, wann eine Schülerin bereit ist für die nächste Progression
 
 ---
 
 ## Video
 
-> 🎥 **Demo-Video:** [Embed Step in Mount — Standard]
-> *(Datei: `M4-L02_Step-in-Mount-Standard.mp4` — Drive-Ordner: "Step in Mount")*
+🎥 **Demo-Video:** *(Embed Step in Mount — Standard)*
+*Datei: `M4-L02_Step-in-Mount-Standard.mp4` — Drive-Ordner: "Step in Mount"*
 
 ---
 
-## Warum dieser Mount zuerst?
+## Anatomie
 
-Der Step in Mount ist unser Lieblingseinstieg in den Aerial Hoop — aus drei Gründen:
+Beim Step in Mount arbeitet der Latissimus, der unsere Schultern weg von den Ohren zieht und uns Stabilität gibt. Bizeps und Unterarme greifen den Hoop, der Rumpf hält uns zentriert, die Hüftbeuger holen das Passé-Bein nach oben. Im Moment, in dem die Kniekehle die Bar findet, übernimmt die Oberschenkelrückseite die Last und wir können loslassen – die Hände werden zur Führung, nicht mehr zum tragenden Halt.
 
-1. **Kraftsparend** — die Schülerin nutzt das Standbein als Sprungbrett, nicht nur die Arme
-2. **Gewöhnung an die Bar** — Kniekehle und Hände finden ihren Platz, bevor wir Anspruchsvolleres machen
-3. **Tor zu allem Weiteren** — Basic Seat, Sunwheel Hold, Cradle, Man in the Moon, Delilah … alles kann aus dem Step in Mount eingeleitet werden
+Der wichtigste Cue, den wir unseren Schülerinnen mitgeben: *„Schultern weg von den Ohren – lang machen."*
 
 ---
 
-## Anatomie-Schnellblick
+## Schritt-für-Schritt
 
-| Aktiv | Stabilisierend |
-|---|---|
-| Latissimus zieht Schulter runter | Rumpf (Bauch + unterer Rücken) |
-| Bizeps + Unterarme (Griff) | Glutaeus (Standbein) |
-| Hüftbeuger (Passé-Bein) | Schulterblätter zentriert |
+Es gibt **zwei Wege** in den Step in Mount zu kommen.
+Wir stehen mittig hinter dem Hoop, der Hoop hängt vor uns.
 
-**Wichtigster Cue für die Schülerin:** "Schultern weg von den Ohren."
+### Variante A — für den niedrig hängenden Hoop
 
----
+**Ausgangspose:**
+Unsere Hände greifen den Hoop bei ca. 9:00 Uhr und zwischen ca. 15:00 Uhr.
+Die Handrücken schauen zu uns.
+Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein.
 
-## Schritt-für-Schritt-Anleitung
+**Wichtige Bemerkung:**
+Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt.
+Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
 
-### 1️⃣ Ausgangsposition
+Unsere Hände geben Druck auf den Hoop.
+Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen.
+Das Bein, auf dem wir kein Gewicht gegeben haben, ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch.
+Unser Hoop schwingt zurück zu uns.
+Unser Passé-Bein kickt / streckt sich nach vorne aus.
+Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein.
+Wir schnappen uns den Hoop mit der Kniekehle.
+Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit.
 
-Wir stehen **hinter dem Hoop**. Unsere Hände greifen den Hoop bei ca. **15:00 Uhr und 9:00 Uhr**.
-
-Wir sorgen dafür, dass wir einen guten Stand auf einem Bein haben — das wird unser **Standbein**.
-
-Wir schwingen den Hoop etwas nach vorne, um Platz zwischen uns und dem Hoop zu schaffen. Wir ziehen ein Bein, unser **aktives Bein, in ein Passé**. Der Hoop schwingt zurück zu uns.
-
-### 2️⃣ Ready for Step in Mount
-
-Unser **Passé-Bein kickt nach vorne** und steigt in den Hoop ein.
-
-Wir schnappen uns den Hoop **mit der Kniekehle**.
-
-Wir greifen um — **greifen den Hoop bei 12:00 Uhr, etwa schulterbreit**.
-
-Wir setzen uns tief rein — das Gesäß setzt sich und wir hängen mit einer Kniekehle in der Bar.
-
-Langsam lassen wir uns mit unserem Standbein am Boden unter die Aufhängung gleiten.
-
-### 3️⃣ Stabilisieren
-
-Unser **Standfuß zentriert uns**, um den Hoop zum Stillstand zu bringen und unseren Schwerpunkt unter die Aufhängung zu bringen.
-
-Durch leichtes **Andrehen über das Standbein** können wir unseren Hoop in den **Spin-Modus** bringen.
-
-### 4️⃣ Standbein hochziehen → Sunwheel-Pose
-
-Das Standbein kann nun **unter die Bar gehoben** werden — strecke es entweder nach vorne aus oder ziehe es in eine **Sunwheel Pose** nach hinten.
+### Variante B — für den höher hängenden Hoop
+*(Hier kommt deine Variante B rein, sobald du sie mir lieferst – Wortlaut wie Variante A, dein Stil.)*
 
 ---
 
-## Cueing-Notes (das, was du in der Stunde sagst)
+## Cueing-Notes
 
-Kurze, präzise Ansagen — auswendig lernen, dann fließt der Unterricht:
+Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schülerinnen trägt:
 
-- "Hände bei **15 und 9 Uhr**"
-- "**Schulterbreit greifen**"
-- "Hoop schwingt — **Platz machen**"
-- "**Passé-Bein hoch**"
-- "Hoop kommt zurück — **kick durch**"
-- "**Knie schnappt sich die Bar**"
-- "**Umgreifen** — Hände auf 12 Uhr"
-- "**Gesäß setzt sich tief**"
-- "**Standbein bremst**"
-- "**Schultern weg von den Ohren**"
-- "Und jetzt — **Standbein hoch in Sunwheel**"
+- *„Hände bei 9 und 15 Uhr – schulterbreit."*
+- *„Druck auf den Hoop – schwingen lassen."*
+- *„Passé-Bein hoch – Kontakt zur Wade."*
+- *„Der Hoop kommt zurück zu dir."*
+- *„Aktives Bein streckt sich – kick durch."*
+- *„Knie schnappt sich die Bar."*
+- *„Hände greifen oben – schulterbreit, neben der Aufhängung."*
+- *„Schultern weg von den Ohren – lang machen."*
+- *„Setz dich tief – das Gesäß sinkt."*
 
 ---
 
-## Häufige Fehler + Korrekturen
+## Häufige Fehler – und wie wir sie auflösen
 
-| Fehler | Was du als Trainerin tust |
-|---|---|
-| **Hände zu eng** beim Griff (12 Uhr Mitte) | "Schulterbreit greifen — etwas weiter auseinander." Stell dich dazu, leg ihre Hände hin. |
-| **Hüfte rotiert beim Kick** | "Hüfte bleibt zur Bar." Hand an die Hüfte halten als taktiles Cue. |
-| **Schwung zu schnell** — Schülerin kippt | "Wir warten, bis der Hoop zurückkommt — nicht hinterherspringen." Erst trocken üben ohne Mount. |
-| **Schultern wandern zu den Ohren** | "Schulterblätter runter ziehen." Hand auf die Schulter legen. |
-| **Standbein bremst nicht ab** — pendelt | "Fuß zur Mitte ziehen, unter die Aufhängung." |
+Es gibt drei Fehler, die fast jede Schülerin am Anfang macht. Wir kennen sie und wir können sie liebevoll korrigieren:
+
+Die **Hände greifen zu eng** – nah an der Aufhängung, fast Mitte. Wir lassen sie die Hände lockern, gehen dazu und legen ihre Hände selbst auf die richtige Position. Berührung trägt hier mehr als Worte.
+
+Die **Hüfte rotiert beim Kick** – das aktive Bein zieht den Körper mit. Wir legen eine Hand an ihre Hüfte und sagen sanft: *„Hüfte bleibt zur Bar."*
+
+Der **Schwung kommt zu schnell** – die Schülerin will dem Hoop hinterher. Wir bremsen mit der Hand am Hoop, üben den Passé-Kick trocken am Boden, ohne Mount. Erst wenn das Timing sitzt, lassen wir sie mounten.
 
 ---
 
 ## Progression / Regression
 
-**Regression (wenn zu schwer):**
-- Hoop niedriger hängen (Bar auf Hüfthöhe)
-- ohne Sunwheel — nur Mount + sitzen, dann wieder runter
-- Trockenübung am Boden: Passé-Kick mit imaginärer Bar
+Wenn der Step in Mount noch zu schwer ist: Wir hängen den Hoop niedriger, lassen Variante A üben, ohne sich tief reinzusetzen – nur Knie schnappt, einsteigen, wieder aussteigen. Trocken am Boden, mit gedanklicher Bar, üben wir den Passé-Kick getrennt.
 
-**Progression (wenn zu leicht):**
-- Aus dem Step in Mount direkt in den **Basic Seat** (Modul 5.1)
-- **Step in Mount into Sunwheel Hold Pose** (Lektion 4.3)
-- **Step in Mount im Spinning-Modus**
+Wenn er sich leicht anfühlt: Wir gehen direkt aus dem Step in Mount in den Basic Seat (Modul 5.1), dann in den Sunwheel Hold (Lektion 4.3) und schließlich in den Spinning-Modus.
 
 ---
 
-## Mini-Quiz (Reflexion vor der nächsten Lektion)
+## Mini-Quiz
 
-**1. Bei welcher Uhrzeit greifen die Hände in der Ausgangsposition?**
+**1. Bei welcher Uhrzeit greifen unsere Hände in der Ausgangspose von Variante A?**
 - a) 12 Uhr und 6 Uhr
-- b) ✅ 15 Uhr und 9 Uhr
+- b) ✅ 9 Uhr und 15 Uhr
 - c) 3 Uhr und 9 Uhr
 - d) egal, Hauptsache schulterbreit
 
-**2. Welches Körperteil "schnappt sich" die Bar im Mount?**
+**2. Welches Körperteil schnappt sich die Bar im Mount?**
 - a) der Knöchel
 - b) ✅ die Kniekehle
 - c) der Oberschenkel
 - d) die Hüfte
 
-**3. Welcher häufige Fehler entsteht, wenn die Schülerin den Hoop zu früh "fängt"?**
-*(Freitext — Trainerin denkt nach)*
+**3. Was passiert, wenn unsere Schülerin den Hoop zu früh „fängt"?**
+*(Freitext – wir denken nach)*
 
-> Erwartete Antwort: Hoop kommt nicht zurück → Schwung fehlt → Mount wird zur reinen Armkraft-Übung. Korrektur: warten lernen.
+> Erwartete Antwort: Der Hoop kommt nicht zurück, der Schwung fehlt, der Mount wird zur reinen Armkraft-Übung. Korrektur: Wir lernen zu warten.
 
 ---
 
 ## Download
 
 📎 **Cueing-Karte Step in Mount** *(A6, doppelseitig, zum Ausdrucken)*
-*(Datei: `M4-L02_cueing-karte_step-in-mount.pdf` — wird in Canva erstellt, Brand-Farben magenta/nude/schwarz)*
+*Datei: `M4-L02_cueing-karte_step-in-mount.pdf` – wird in Canva erstellt, Brand-Farben Magenta / Nude / Schwarz.*
 
 ---
 
 ## Verlinkte Lektionen
 
-**Vorher empfohlen:**
-- Modul 1.9 — Orientierung im Hoop / Uhrzeitensystem
+Bevor wir hier ankommen, hilft es uns, durch diese Lektionen gegangen zu sein:
+- Modul 1.9 — Orientierung im Hoop / das Uhrzeitensystem
 - Modul 2.4 — Warm Up
 
-**Nächste sinnvolle Lektionen:**
+Aus dieser Lektion heraus öffnen sich uns:
 - Modul 4.3 — Step in Mount into Sunwheel Hold Pose
 - Modul 5.1 — Basic Seat aus Step in Mount
 - Modul 6.6 — Man in the Moon aus Step in Mount
 
 ---
 
-## Trainer-Notiz (interner Hinweis)
+## Trainer-Notiz
 
-Diese Lektion ist die meistgeklickte im gesamten Kurs — fast jede andere Figur bezieht sich hier zurück. **Hier nicht sparen mit Erklärung.** Wenn die Schülerin den Step in Mount nicht sauber kann, wird Modul 5–8 schwierig.
+Diese Lektion ist die wichtigste im ganzen Kurs. Fast jede andere Figur findet hier ihren Ursprung. Wenn unsere Schülerin den Step in Mount nicht sauber kann, wird Modul 5–8 schwierig für sie werden. Hier nehmen wir uns Zeit. Hier sind wir geduldig. Hier wiederholen wir, bis es sich leicht anfühlt.
