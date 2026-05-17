@@ -78,7 +78,7 @@ Nach dieser Lektion können wir:
 - Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
 - Beide Hände greifen abermals um
 
-### Ankommen im Hoop
+### Bewegungsablauf in die Endpose
 
 - Wir greifen mit beiden Händen ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
 

@@ -76,11 +76,15 @@ Nach dieser Lektion können wir:
 - Unser Hoop schwingt zurück zu uns
 - Unser Passé-Bein kickt – streckt sich nach vorne aus
 
-### Ankommen im Hoop
+### Bewegungsablauf in die Endpose
 
 - Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
 - Wir schnappen uns den Hoop mit der Kniekehle
 - Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+- Senke dein Gesäß
+- Die Schultern machen eine Außenrotation über außen nach hinten unten
+- Hänge dich mit dem Gewicht in die Kniekehle, die in der Bar eingehängt ist
+- Wir achten gleichzeitig darauf, dass wir uns mit dem Schwerpunkt und dem Gewicht unter die Aufhängung bringen
 
 ---
 
