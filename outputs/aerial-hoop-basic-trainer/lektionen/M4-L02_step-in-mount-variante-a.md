@@ -56,8 +56,6 @@ Nach dieser Lektion können wir:
 
 - Wir stehen mittig hinter dem Hoop
 - Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
-- Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
-- Die Handrücken schauen zu uns
 
 ### Standbein / Spielbein
 
@@ -66,11 +64,13 @@ Nach dieser Lektion können wir:
 
 ### Hände / Arme
 
-- Unsere Hände geben Druck auf den Hoop
-- Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
+- Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
+- Die Handrücken schauen zu uns
 
 ### Bewegungsablauf
 
+- Unsere Hände geben Druck auf den Hoop
+- Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
 - Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
 - Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
 - Unser Hoop schwingt zurück zu uns

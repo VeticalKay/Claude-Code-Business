@@ -53,16 +53,16 @@ Nach dieser Lektion können wir:
 - Wir stehen aufrecht und seitlich neben dem Hoop
 - Blickrichtung ist seitlich auf den Hoop bei 9:00 Uhr oder 15:00 Uhr
 
-### Standbein / Spielbein
-
-- Wir bringen unser Gewicht auf das vordere, publikumsnahe Bein – da, wo die Hand etwas tiefer greift – das wird zu unserem Standbein
-- Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – wird unser Spielbein
-
 ### Hände / Arme
 
 - Unsere Hände greifen den Hoop zwischen 6:00 und 9:00 Uhr oder zwischen 6:00 und 15:00 Uhr
 - Die vordere Hand greift unter die hintere Hand, die Handflächen-Innenseiten zeigen zueinander
 - Die Handrücken zeigen weg von dem Hoop und die Handflächen zeigen zueinander
+
+### Standbein / Spielbein
+
+- Wir bringen unser Gewicht auf das vordere, publikumsnahe Bein – da, wo die Hand etwas tiefer greift – das wird zu unserem Standbein
+- Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – wird unser Spielbein
 
 ### Bewegungsablauf
 
