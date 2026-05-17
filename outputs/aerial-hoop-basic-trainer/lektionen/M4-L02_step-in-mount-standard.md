@@ -10,7 +10,10 @@
 ### Step in Mount: (Videolink)
 *(Level 1)*
 
-Der Step in Mount ist unser Lieblingseinstieg in den Aerial Hoop. Er schenkt unseren Schülerinnen Zeit – Zeit, um sich an die Griffkraft zu gewöhnen, an die Höhe, an das Gefühl, das eine Kniekehle in der Bar liegt zu spüren. Er spart Kraft, gibt Vertrauen, und ist gleichzeitig das Tor zu fast allem, was später folgt: Basic Seat, Cradle, Man in the Moon, Delilah, Sunwheel-Pose.
+Der Step in Mount ist unser Lieblingseinstieg in den Aerial Hoop. Er schenkt unseren Schülerinnen Zeit – Zeit, um sich an die Griffkraft zu gewöhnen, an die Höhe, an das Gefühl, dass eine Kniekehle in der Bar liegt. Er spart Kraft, gibt Vertrauen, und ist gleichzeitig das Tor zu fast allem, was später folgt: Basic Seat, Cradle, Man in the Moon, Delilah, Sunwheel-Pose.
+
+Es gibt **zwei Wege** in den Step in Mount zu kommen.
+Wir stehen mittig hinter dem Hoop, der Hoop hängt vor uns.
 
 ---
 
@@ -18,8 +21,8 @@ Der Step in Mount ist unser Lieblingseinstieg in den Aerial Hoop. Er schenkt uns
 
 Nach dieser Lektion können wir:
 
-- den Step in Mount sicher und kontrolliert demonstrieren
-- die Bewegung einer Anfängerin in vier sanften Schritten erklären — von der Ausgangspose bis zur Sunwheel-Pose
+- den Step in Mount in beiden Varianten sicher und kontrolliert demonstrieren
+- die Bewegung einer Anfängerin in klaren, sanften Phasen erklären
 - die drei häufigsten Fehler erkennen und liebevoll korrigieren
 - spüren, wann eine Schülerin bereit ist für die nächste Progression
 
@@ -27,46 +30,78 @@ Nach dieser Lektion können wir:
 
 ## Video
 
-🎥 **Demo-Video:** *(Embed Step in Mount — Standard)*
-*Datei: `M4-L02_Step-in-Mount-Standard.mp4` — Drive-Ordner: "Step in Mount"*
+🎥 **Demo-Video:** *(Embed Step in Mount — beide Varianten)*
+*Datei: `M4-L02_Step-in-Mount.mp4` — Drive-Ordner: "Step in Mount"*
 
 ---
 
 ## Anatomie
 
-Beim Step in Mount arbeitet der Latissimus, der unsere Schultern weg von den Ohren zieht und uns Stabilität gibt. Bizeps und Unterarme greifen den Hoop, der Rumpf hält uns zentriert, die Hüftbeuger holen das Passé-Bein nach oben. Im Moment, in dem die Kniekehle die Bar findet, übernimmt die Oberschenkelrückseite die Last und wir können loslassen – die Hände werden zur Führung, nicht mehr zum tragenden Halt.
+| Was arbeitet aktiv | Was uns stabilisiert |
+|---|---|
+| Der Latissimus zieht die Schultern weg von den Ohren – wir machen uns lang. | Der Rumpf hält uns zentriert unter der Aufhängung. |
+| Bizeps und Unterarme greifen den Hoop, geben uns Halt im ersten Moment. | Das Standbein bremst sanft am Boden, bringt uns ins Lot. |
+| Die Hüftbeuger heben das Passé-Bein, der Quadrizeps streckt es im Kick. | Die Oberschenkelrückseite übernimmt die Last, sobald die Kniekehle die Bar findet. |
 
-Der wichtigste Cue, den wir unseren Schülerinnen mitgeben: *„Schultern weg von den Ohren – lang machen."*
+Der wichtigste Cue, den wir unseren Schülerinnen mitgeben:
+> *„Schultern weg von den Ohren – wir machen uns lang."*
 
 ---
 
 ## Schritt-für-Schritt
 
-Es gibt **zwei Wege** in den Step in Mount zu kommen.
-Wir stehen mittig hinter dem Hoop, der Hoop hängt vor uns.
-
 ### Variante A — für den niedrig hängenden Hoop
 
 **Ausgangspose:**
-Unsere Hände greifen den Hoop bei ca. 9:00 Uhr und zwischen ca. 15:00 Uhr.
-Die Handrücken schauen zu uns.
-Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein.
 
-**Wichtige Bemerkung:**
-Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt.
-Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
+- Unsere Hände greifen den Hoop bei ca. 9:00 Uhr und zwischen ca. 15:00 Uhr
+- Die Handrücken schauen zu uns
+- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
 
-Unsere Hände geben Druck auf den Hoop.
-Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen.
-Das Bein, auf dem wir kein Gewicht gegeben haben, ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch.
-Unser Hoop schwingt zurück zu uns.
-Unser Passé-Bein kickt / streckt sich nach vorne aus.
-Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein.
-Wir schnappen uns den Hoop mit der Kniekehle.
-Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit.
+> **Wichtige Bemerkung:** Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt. Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
+
+**Der Aufschwung:**
+
+- Unsere Hände geben Druck auf den Hoop
+- Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
+- Das Bein, auf dem wir kein Gewicht gegeben haben, ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Unser Hoop schwingt zurück zu uns
+- Unser Passé-Bein kickt – streckt sich nach vorne aus
+
+**Ankommen im Hoop:**
+
+- Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
+- Wir schnappen uns den Hoop mit der Kniekehle
+- Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+
+---
 
 ### Variante B — für den höher hängenden Hoop
-*(Hier kommt deine Variante B rein, sobald du sie mir lieferst – Wortlaut wie Variante A, dein Stil.)*
+
+**Ausgangspose:**
+
+- Wir stehen aufrecht und seitlich neben dem Hoop
+- Blickrichtung ist seitlich auf den Hoop bei 9:00 Uhr oder 15:00 Uhr
+- Unsere Hände greifen den Hoop zwischen 6:00 und 9:00 Uhr oder zwischen 6:00 und 15:00 Uhr
+- Die vordere Hand greift unter die hintere Hand, die Handflächen-Innenseiten zeigen zueinander
+
+**Der Aufschwung:**
+
+- Wir bringen unser Gewicht auf das vordere, publikumsnahe Bein – da, wo die Hand etwas tiefer greift – das wird zu unserem Standbein
+- Das hintere, publikumsferne Bein – da, wo die Hand etwas höher greift – ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Wir legen nun die Kniekehle des Passé-Beines von hinten in den Hoop
+- Den Hoop drehen wir jetzt zu uns, somit kommt er vor unseren Körper
+
+**Durchsteigen:**
+
+- Wir greifen mit der unteren, vorderen Hand um, auf die andere Seite des Hoops
+- Die Hände greifen den Hoop, die Bar jetzt auf 15:00 Uhr und auf 9:00 Uhr, und wir schauen nun durch den Hoop durch
+- Um nun durch den Hoop durchsteigen zu können, bringen wir die Hände noch höher
+- Beide Hände greifen abermals um
+
+**Ankommen im Hoop:**
+
+- Wir greifen mit beiden Händen ganz oben an die Bar, seitlich neben der Aufhängung von 12:00 Uhr
 
 ---
 
@@ -74,35 +109,43 @@ Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterb
 
 Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schülerinnen trägt:
 
-- *„Hände bei 9 und 15 Uhr – schulterbreit."*
-- *„Druck auf den Hoop – schwingen lassen."*
+- *„Hände schulterbreit – Druck auf den Hoop."*
+- *„Schwingen lassen – wir machen Platz."*
 - *„Passé-Bein hoch – Kontakt zur Wade."*
 - *„Der Hoop kommt zurück zu dir."*
 - *„Aktives Bein streckt sich – kick durch."*
 - *„Knie schnappt sich die Bar."*
 - *„Hände greifen oben – schulterbreit, neben der Aufhängung."*
-- *„Schultern weg von den Ohren – lang machen."*
+- *„Schultern weg von den Ohren – wir machen uns lang."*
 - *„Setz dich tief – das Gesäß sinkt."*
 
 ---
 
-## Häufige Fehler – und wie wir sie auflösen
+## Häufige Fehler
 
-Es gibt drei Fehler, die fast jede Schülerin am Anfang macht. Wir kennen sie und wir können sie liebevoll korrigieren:
-
-Die **Hände greifen zu eng** – nah an der Aufhängung, fast Mitte. Wir lassen sie die Hände lockern, gehen dazu und legen ihre Hände selbst auf die richtige Position. Berührung trägt hier mehr als Worte.
-
-Die **Hüfte rotiert beim Kick** – das aktive Bein zieht den Körper mit. Wir legen eine Hand an ihre Hüfte und sagen sanft: *„Hüfte bleibt zur Bar."*
-
-Der **Schwung kommt zu schnell** – die Schülerin will dem Hoop hinterher. Wir bremsen mit der Hand am Hoop, üben den Passé-Kick trocken am Boden, ohne Mount. Erst wenn das Timing sitzt, lassen wir sie mounten.
+| Was passiert | Wie wir es liebevoll auflösen |
+|---|---|
+| **Die Hände greifen zu eng** – nah an der Aufhängung, fast Mitte. | Wir lassen sie die Hände lockern, gehen dazu und legen ihre Hände selbst auf die richtige Position. Berührung trägt hier mehr als Worte. |
+| **Die Hüfte rotiert beim Kick** – das aktive Bein zieht den Körper mit. | Wir legen eine Hand sanft an ihre Hüfte und sagen: *„Hüfte bleibt zur Bar."* |
+| **Der Schwung kommt zu schnell** – die Schülerin will dem Hoop hinterher. | Wir bremsen mit der Hand am Hoop. Erst trocken am Boden den Passé-Kick üben, ohne Mount. Wenn das Timing sitzt, lassen wir sie mounten. |
+| **Schultern wandern zu den Ohren** – Verspannung baut sich auf. | Hand auf die Schulter legen, leise erinnern: *„Lang machen."* |
+| **Standbein bremst nicht ab** – der Hoop pendelt weiter. | *„Fuß zur Mitte – unter die Aufhängung."* |
 
 ---
 
 ## Progression / Regression
 
-Wenn der Step in Mount noch zu schwer ist: Wir hängen den Hoop niedriger, lassen Variante A üben, ohne sich tief reinzusetzen – nur Knie schnappt, einsteigen, wieder aussteigen. Trocken am Boden, mit gedanklicher Bar, üben wir den Passé-Kick getrennt.
+**Wenn der Step in Mount noch zu schwer ist:**
 
-Wenn er sich leicht anfühlt: Wir gehen direkt aus dem Step in Mount in den Basic Seat (Modul 5.1), dann in den Sunwheel Hold (Lektion 4.3) und schließlich in den Spinning-Modus.
+- Wir hängen den Hoop niedriger, üben Variante A
+- Nur das Schnappen mit der Kniekehle, einsteigen, wieder aussteigen – ohne tiefes Reinsetzen
+- Trocken am Boden, mit gedanklicher Bar, üben wir den Passé-Kick getrennt
+
+**Wenn er sich leicht anfühlt:**
+
+- Direkt aus dem Step in Mount in den Basic Seat (Modul 5.1)
+- Weiter in den Sunwheel Hold (Lektion 4.3)
+- Schließlich im Spinning-Modus
 
 ---
 
@@ -136,11 +179,11 @@ Wenn er sich leicht anfühlt: Wir gehen direkt aus dem Step in Mount in den Basi
 
 ## Verlinkte Lektionen
 
-Bevor wir hier ankommen, hilft es uns, durch diese Lektionen gegangen zu sein:
+**Bevor wir hier ankommen, hilft uns:**
 - Modul 1.9 — Orientierung im Hoop / das Uhrzeitensystem
 - Modul 2.4 — Warm Up
 
-Aus dieser Lektion heraus öffnen sich uns:
+**Aus dieser Lektion heraus öffnen sich uns:**
 - Modul 4.3 — Step in Mount into Sunwheel Hold Pose
 - Modul 5.1 — Basic Seat aus Step in Mount
 - Modul 6.6 — Man in the Moon aus Step in Mount
@@ -149,4 +192,4 @@ Aus dieser Lektion heraus öffnen sich uns:
 
 ## Trainer-Notiz
 
-Diese Lektion ist die wichtigste im ganzen Kurs. Fast jede andere Figur findet hier ihren Ursprung. Wenn unsere Schülerin den Step in Mount nicht sauber kann, wird Modul 5–8 schwierig für sie werden. Hier nehmen wir uns Zeit. Hier sind wir geduldig. Hier wiederholen wir, bis es sich leicht anfühlt.
+Diese Lektion ist die wichtigste im ganzen Kurs. Fast jede andere Figur findet hier ihren Ursprung. Wenn unsere Schülerin den Step in Mount nicht sauber kann, wird Modul 5–8 schwierig für sie. Hier nehmen wir uns Zeit. Hier sind wir geduldig. Hier wiederholen wir, bis es sich leicht anfühlt.
