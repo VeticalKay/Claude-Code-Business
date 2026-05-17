@@ -69,6 +69,11 @@
 - [ ] **WordPress Plugin Amelia** für Prüfungstermine einbauen
 - [ ] **Stilistische Konsistenz** mit neuem Brand-Standard
 
+### Eversports-Anbindung (17.05.2026)
+- [ ] **Eversports Support kontaktieren** (Live-Chat im Backend rechts unten) → API-Zugang anfragen für Classes anlegen + Kundenexport
+- [ ] **Antwort von Eversports** zurück an Claude → nächsten Schritt planen
+- [ ] **Alternative:** CSV-Export aus Eversports → Brevo (EU/DSGVO) für E-Mail-Marketing evaluieren
+
 ### Mittel / Demnächst
 - [ ] **office@verticalkay.de Postfach verfeinern** — nächste Session: Ordner durchgehen & weitere Sortierregeln
 - [ ] **Buchhaltung: AR Gesendet-Ordner** — korrekten IMAP-Ordnernamen für Tolkmit & Verticalkay finden
@@ -168,4 +173,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 14.05.2026 (Abend, Instagram Performance + BTS-Reel-Konzept)_
+_Zuletzt aktualisiert: 17.05.2026 (Eversports-Anbindung evaluiert)_
