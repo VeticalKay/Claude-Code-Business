@@ -19,7 +19,7 @@ Variante B ist die Variante für den **höher hängenden Hoop**. Hier können wi
 Nach dieser Lektion können wir:
 
 - den Step in Mount in Variante B sicher und kontrolliert demonstrieren
-- die Bewegung einer Anfängerin in klaren, sanften Phasen erklären – inklusive Durchsteigen durch den Hoop
+- den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären – inklusive Durchsteigen durch den Hoop
 - die häufigsten Fehler erkennen und liebevoll korrigieren
 - spüren, wann eine Schülerin bereit ist für die nächste Progression
 
@@ -34,14 +34,15 @@ Nach dieser Lektion können wir:
 
 ## Anatomie
 
-| Was arbeitet aktiv | Was uns stabilisiert |
+| Körperteil | Funktion / Wirkung |
 |---|---|
-| Der Latissimus zieht die Schultern weg von den Ohren – wir machen uns lang. | Der Rumpf hält uns zentriert unter der Aufhängung. |
-| Bizeps und Unterarme greifen den Hoop, geben uns Halt im ersten Moment. | Das Standbein bremst sanft am Boden, bringt uns ins Lot. |
-| Die Hüftbeuger heben das Spielbein, die Schultern arbeiten im Umgreifen. | Die Oberschenkelrückseite übernimmt die Last, sobald die Kniekehle die Bar findet. |
-
-> **Wichtig für die Schulter:**
-> Unsere Schultern machen über außen nach hinten unten eine Außenrotation – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen.
+| **Latissimus** | zieht die Schultern weg von den Ohren – wir machen uns lang |
+| **Bizeps + Unterarme** | greifen den Hoop, geben uns Halt im ersten Moment |
+| **Schultern** | machen über außen nach hinten unten eine Außenrotation – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen |
+| **Rumpf** | hält uns zentriert unter der Aufhängung |
+| **Hüftbeuger + Quadrizeps** | heben das Spielbein, strecken es im Passé |
+| **Standbein (Wade + Gesäß)** | bremst sanft am Boden, bringt uns ins Lot |
+| **Oberschenkelrückseite** | übernimmt die Last, sobald die Kniekehle die Bar findet |
 
 ---
 
@@ -91,7 +92,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Vordere Hand unter die hintere – Handflächen zueinander."*
 - *„Gewicht auf das vordere Bein – das ist dein Standbein."*
 - *„Schultern in die Gelenkpfanne – Außenrotation."*
-- *„Spielbein ins Passé – Wade an Wade."*
+- *„Spielbein ins Passé."*
 - *„Kniekehle hinten in den Hoop legen."*
 - *„Hoop zu dir drehen – er kommt vor deinen Körper."*
 - *„Untere Hand umgreifen – auf die andere Seite."*

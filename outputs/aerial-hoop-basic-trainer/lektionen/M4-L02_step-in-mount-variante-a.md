@@ -21,7 +21,7 @@ In dieser Lektion gehen wir den **Step in Mount in Variante A** durch – die Va
 Nach dieser Lektion können wir:
 
 - den Step in Mount in Variante A sicher und kontrolliert demonstrieren
-- die Bewegung einer Anfängerin in klaren, sanften Phasen erklären
+- den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären
 - die häufigsten Fehler erkennen und liebevoll korrigieren
 - spüren, wann eine Schülerin bereit ist für die nächste Progression
 
@@ -36,18 +36,21 @@ Nach dieser Lektion können wir:
 
 ## Anatomie
 
-| Was arbeitet aktiv | Was uns stabilisiert |
+| Körperteil | Funktion / Wirkung |
 |---|---|
-| Der Latissimus zieht die Schultern weg von den Ohren – wir machen uns lang. | Der Rumpf hält uns zentriert unter der Aufhängung. |
-| Bizeps und Unterarme greifen den Hoop, geben uns Halt im ersten Moment. | Das Standbein bremst sanft am Boden, bringt uns ins Lot. |
-| Die Hüftbeuger heben das Spielbein, der Quadrizeps streckt es im Kick. | Die Oberschenkelrückseite übernimmt die Last, sobald die Kniekehle die Bar findet. |
-
-> **Wichtig für die Schulter:**
-> Unsere Schultern machen über außen nach hinten unten eine Außenrotation – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen.
+| **Latissimus** | zieht die Schultern weg von den Ohren – wir machen uns lang |
+| **Bizeps + Unterarme** | greifen den Hoop, geben uns Halt im ersten Moment |
+| **Schultern** | machen über außen nach hinten unten eine Außenrotation – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen |
+| **Rumpf** | hält uns zentriert unter der Aufhängung |
+| **Hüftbeuger + Quadrizeps** | heben das Spielbein, strecken es im Kick |
+| **Standbein (Wade + Gesäß)** | bremst sanft am Boden, bringt uns ins Lot |
+| **Oberschenkelrückseite** | übernimmt die Last, sobald die Kniekehle die Bar findet |
 
 ---
 
 ## Schritt-für-Schritt
+
+> **Wichtige Bemerkung:** Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt. Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
 
 ### Ausgangspose
 
@@ -55,8 +58,6 @@ Nach dieser Lektion können wir:
 - Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
 - Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
 - Die Handrücken schauen zu uns
-
-> **Wichtige Bemerkung:** Diese Variante funktioniert nur, wenn der Hoop sehr niedrig hängt. Der Hoop sollte ungefähr zwischen Bauchnabelhöhe und Schritt hängen.
 
 ### Standbein / Spielbein
 
@@ -92,7 +93,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Gewicht auf ein Bein – das ist dein Standbein."*
 - *„Druck auf den Hoop – Schultern in die Gelenkpfanne."*
 - *„Schwingen lassen – wir machen Platz."*
-- *„Spielbein ins Passé – Wade an Wade."*
+- *„Spielbein ins Passé."*
 - *„Der Hoop kommt zurück zu dir."*
 - *„Aktives Bein streckt sich – kick durch."*
 - *„Knie schnappt sich die Bar."*
@@ -105,11 +106,12 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 | Was passiert | Wie wir es liebevoll auflösen |
 |---|---|
-| **Die Hände greifen zu eng** – nah an der Aufhängung, fast Mitte. | Wir lassen sie die Hände lockern, gehen dazu und legen ihre Hände selbst auf die richtige Position. Berührung trägt hier mehr als Worte. |
-| **Die Hüfte rotiert beim Kick** – das aktive Bein zieht den Körper mit. | Wir legen eine Hand sanft an ihre Hüfte und sagen: *„Hüfte bleibt zur Bar."* |
-| **Der Schwung kommt zu schnell** – die Schülerin will dem Hoop hinterher. | Wir bremsen mit der Hand am Hoop. Erst trocken am Boden den Passé-Kick üben, ohne Mount. |
-| **Schultern wandern zu den Ohren** – Verspannung baut sich auf. | *„Lang machen – Schultern in die Gelenkpfanne."* Hand auf die Schulter legen. |
-| **Standbein bremst nicht ab** – der Hoop pendelt weiter. | *„Fuß zur Mitte – unter die Aufhängung."* |
+| **Die Schülerin schaut nicht mittig durch den Hoop** – sie blickt darüber oder daneben, der Hoop wird nicht als Zielraum erkannt. | *„Auge auf den Hoop – wir schauen mittig durch ihn hindurch."* Vor dem Mount kurz innehalten und den Blick justieren. |
+| **Zu wenig Druck auf den Hoop** – der Hoop schwingt kaum, es entsteht kein Platz zum Einsteigen. | *„Push den Hoop weg von dir – Arme strecken."* Wir lassen sie zwei-, dreimal nur schwingen, ohne Mount, bis das Gefühl da ist. |
+| **Das Passé-Bein bleibt zu tief** – die Kniekehle erreicht die Bar nicht. | Hand unter den Oberschenkel legen, gemeinsam das Bein höher heben. *„Knie zur Brust – Spielbein hoch."* |
+| **Die Kniekehle erwischt die Bar nicht** – das Bein rutscht ab oder kommt mit dem Knöchel statt der Kniekehle an. | *„Die Kniekehle schnappt – nicht der Knöchel."* Wir zeigen am eigenen Bein, wo die Kniekehle ist. |
+| **Standbein und Spielbein werden verwechselt** – die Schülerin will mit dem belasteten Bein einsteigen. | Vor dem Aufschwung kurz benennen lassen: *„Welches Bein trägt? Welches geht in den Hoop?"* |
+| **Schultern wandern zu den Ohren** – Verspannung baut sich auf, die Außenrotation geht verloren. | *„Schultern in die Gelenkpfanne – wir machen uns lang."* Hand auf die Schulter legen. |
 
 ---
 
@@ -119,7 +121,6 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 - Wir hängen den Hoop noch niedriger
 - Nur das Schnappen mit der Kniekehle, einsteigen, wieder aussteigen – ohne tiefes Reinsetzen
-- Trocken am Boden, mit gedanklicher Bar, üben wir den Passé-Kick getrennt
 
 **Wenn er sich leicht anfühlt:**
 
