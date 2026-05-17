@@ -57,15 +57,15 @@ Nach dieser Lektion können wir:
 - Wir stehen mittig hinter dem Hoop
 - Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
 
-### Standbein / Spielbein
-
-- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
-- Das andere Bein bleibt frei – es wird unser Spielbein, das wir gleich ins Passé ziehen
-
 ### Hände / Arme
 
 - Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
 - Die Handrücken schauen zu uns
+
+### Standbein / Spielbein
+
+- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
+- Das andere Bein bleibt frei – es wird unser Spielbein, das wir gleich ins Passé ziehen
 
 ### Bewegungsablauf
 
