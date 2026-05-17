@@ -8,6 +8,8 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **🔥 Anatomie-Canva Pole fortsetzen** — Design `DAHJ8re9Fik` (https://www.canva.com/d/HQXZi4B5-AYzYh1). Offen: (1) Textüberlauf Bizeps Seite 4 lösen (~200px zu viel — Optionen: auf 3 Seiten verteilen empfohlen / Schrift verkleinern / Text kürzen). (2) Restliche 16 Muskelgruppen anlegen — Katarina dupliziert Bizeps-Vorlagen-Seiten in Canva, Claude befüllt aus `outputs/ausbildung-anatomie/02_anatomie-pole-dance.md`. (3) Inhaltsverzeichnis-Seitenzahlen anpassen wenn alle Muskelseiten stehen.
+- [ ] **Anatomie Hoop + Stretching im v3-Stil überarbeiten** — sobald Pole-v3 in Canva final ist, gleiche Behandlung für `01_anatomie-aerial-hoop.md` und `03_anatomie-stretching.md` (deutsche Begriffe primär, alphabetisch, Ursprung/Ansatz-Block, klarer Einleitungsabsatz mit Positions-Arten)
 - [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
 - [ ] **Karussell 2 — The Method** (4 Säulen) — strategisch ANDERS bauen nach Founder-Story-Erkenntnissen: Curiosity-Hook (nicht poetisch), Save-Trigger einbauen ("Save for when you forget why you started"), Comment-Frage mit niedriger Hürde ("Welche Säule trifft dich? Schreib 1-4"), Hashtags breiter mixen für Non-Follower-Reach
 - [ ] **Karussell 3 — Transformation** (Schülerinnen-Story) — echte Schülerin oder generisch
@@ -94,6 +96,9 @@
 
 ## ✅ Erledigt
 
+- [x] **Anatomie-Skripte für drei Trainer-Ausbildungen ausgearbeitet** (17.05.2026) — Aerial Hoop, Pole Dance, Stretching jeweils eigenständig in `outputs/ausbildung-anatomie/`. Drei iterative Fassungen (v1→v2→v3). Pole-v3 als direkter Ersatz für Canva-Anatomie-Original: 17 Muskelgruppen alphabetisch, deutsche Begriffe primär (lat. in Klammern), Ursprung/Ansatz als eigener Block, Abduktoren+Adduktoren als eigene Bereiche, Cueing-Vokabular, Risiko-Zonen, 20 Prüfungsfragen. Stretching-v3 mit Neurophysiologie-Kapitel (Stretch Reflex, Reciprocal Inhibition, Faszie) und aktiv-vs-passiv. Hüftmuskulatur (im Original leer) ausgearbeitet, Pronation-Copy-Paste-Fehler korrigiert.
+- [x] **Anatomie-Canva-Skript Pole gestartet** (17.05.2026) — Design-ID `DAHJ8re9Fik`, https://www.canva.com/d/HQXZi4B5-AYzYh1. 5 Seiten: Cover · Inhaltsverzeichnis · Einleitung · Bizeps Teil 1 · Bizeps Teil 2. Cover-Texte angepasst. Bizeps Teil 1+2 mit konsolidiertem Text (Katarinas Wording + v3-Ergänzungen: Pole-Figuren, Cueing, häufige Fehler, Ursprung/Ansatz strukturiert).
+- [x] **CLAUDE.md aktualisiert** — neuer Ordner `outputs/ausbildung-anatomie/` in Workspace-Struktur dokumentiert (17.05.2026)
 - [x] **🎉 Talking Head Reel 1 LIVE auf @vertical_kay_pole** (17.05.2026) — aus parallel-Chat konzipiert
 - [x] **🎉 BTS-Reel "POV: chaos behind every tutorial" LIVE** (15.05.2026) — als Feed + Test-Reel gleichzeitig gepostet (A/B), 10 Szenen 30 Sek, Home-Workout-Kontext, English On-Screen-Texte
 - [x] **🎉 Founder Story Karussell LIVE auf @vertical_kay_pole** (14.05.2026) — 10 Slides Aubergine Studio Brand, bilinguale Caption, Top 5 Hashtags, Pole-Community-Sound
@@ -169,4 +174,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 14.05.2026 (Abend, Instagram Performance + BTS-Reel-Konzept)_
+_Zuletzt aktualisiert: 17.05.2026 (Anatomie-Skripte v3 ausgearbeitet + Pole-Canva mit Bizeps gestartet)_

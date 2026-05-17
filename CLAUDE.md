@@ -47,7 +47,7 @@ Claude sollte sich immer über `/prime` am Session-Start orientieren, dann mit v
 | ------------ | --------------------------------------------------------------------------------------- |
 | `context/`   | Wer der User ist, seine Rolle, aktuelle Prioritäten, Strategien. Gelesen von `/prime`. |
 | `plans/`     | Detaillierte Implementierungspläne. Erstellt mit `/create-plan`, umgesetzt mit `/implement`. |
-| `outputs/`   | Deliverables, Analysen, Reports und Arbeitsergebnisse.                                 |
+| `outputs/`   | Deliverables, Analysen, Reports und Arbeitsergebnisse. Enthält u.a. `ausbildung-anatomie/` — drei sport-spezifische Anatomie-Trainerskripte (Hoop, Pole, Stretching) mit einheitlichem 7-teiligem Aufbau (Konzept-Datei `00_…`). |
 | `reference/` | Hilfreiche Dokumentation, Vorlagen und Patterns für verschiedene Workflows.            |
 | `scripts/`   | Automatisierungs- und Tooling-Skripte.                                                 |
 
