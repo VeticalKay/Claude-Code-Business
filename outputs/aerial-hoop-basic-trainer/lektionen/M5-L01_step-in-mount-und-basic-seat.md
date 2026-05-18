@@ -107,18 +107,33 @@ Nach dieser Lektion können wir:
 
 Drei Varianten – wir wählen je nachdem, was danach kommt:
 
-- **Parallel nebeneinander:** Beine parallel mit einem 90°-Winkel zwischen Ober- und Unterschenkel positioniert, Zehenspitzen gestreckt
-- **Lady Seat (überschlagen):** Wir überschlagen die Beine – welches Bein über welches kommt, hängt davon ab, was wir danach machen möchten. Oberschenkel und Unterschenkel sind wieder im 90°-Winkel zueinander positioniert, Zehenspitzen gestreckt
-- **Ein Bein gestreckt + Passé:** Das Bein, mit dem wir durchgestiegen sind, strecken wir nach Richtung Boden gerade aus – das andere Bein ziehen wir in ein Passé
+- **Parallel nebeneinander**
+  - Beine parallel mit einem 90°-Winkel zwischen Ober- und Unterschenkel positioniert
+  - Zehenspitzen gestreckt
+- **Lady Seat (überschlagen)**
+  - Wir überschlagen die Beine – welches Bein über welches kommt, hängt davon ab, was wir danach machen möchten
+  - Oberschenkel und Unterschenkel sind wieder im 90°-Winkel zueinander positioniert
+  - Zehenspitzen gestreckt
+- **Ein Bein gestreckt + Passé**
+  - Das Bein, mit dem wir durchgestiegen sind, strecken wir nach Richtung Boden gerade aus
+  - Das andere Bein ziehen wir in ein Passé
 
 ### Handposition / Armposition in der Endpose
 
 Mehrere Varianten – je nach Pose und Ausdruck:
 
-- **Hände bei 12:00 Uhr neben der Aufhängung:** Wir können die Hände / Arme dort gegriffen halten
-- **Hände bei 9:00 und 15:00 Uhr:** Wir können mit den Händen nach unten rutschen und die Bar auf 9:00 und 15:00 Uhr greifen
-- **Arme im 90°-Winkel ausgestreckt:** Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken. Dabei ist es wichtig, dass wir unser Gleichgewicht halten. Das Gleichgewicht halten wir, indem wir uns mit unserer Brust nach vorne lehnen – Schulterblätter zusammen, Brustbein heraus drücken – und unser Gewicht auf die ausgestreckten Arme geben, so dass die Arme aktiv gegen die Bar drücken
-- **Asymmetrische Variante:** Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen und die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
+- **Hände bei 12:00 Uhr neben der Aufhängung**
+  - Wir können die Hände / Arme dort gegriffen halten
+- **Hände bei 9:00 und 15:00 Uhr**
+  - Wir können mit den Händen nach unten rutschen und die Bar auf 9:00 und 15:00 Uhr greifen
+- **Arme im 90°-Winkel ausgestreckt**
+  - Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken
+  - Dabei ist es wichtig, dass wir unser Gleichgewicht halten
+  - Das Gleichgewicht halten wir, indem wir uns mit unserer Brust nach vorne lehnen – Schulterblätter zusammen, Brustbein heraus drücken
+  - Wir geben unser Gewicht auf die ausgestreckten Arme, so dass die Arme aktiv gegen die Bar drücken
+- **Asymmetrische Variante**
+  - Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen
+  - Die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
 
 ### Hoop-Zentrierung & Spin
 
