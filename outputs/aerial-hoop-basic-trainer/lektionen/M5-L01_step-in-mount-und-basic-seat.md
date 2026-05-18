@@ -91,8 +91,37 @@ Nach dieser Lektion können wir:
 - Wir aktivieren unsere Schultern, Schulterblätter und heben das Brustbein
 - Wir strecken das eingehängte Bein aus
 - Wir ziehen uns nun etwas hoch, während die Oberschenkelrückseite vom zuvor eingehängten Bein von oben gegen die Bar drückt
-- Wir ziehen nun das untere Bein – Standbein – mit dem Knie voraus nach oben zur Bar und gestreckten Füßen nach vorne über die Bar
-- Wir können uns in einen Basic Seat auf die Bar im Inneren des Aerial Hoops setzen
+- Wir ziehen nun das untere Bein – Standbein – mit dem Knie voraus nach oben zur Bar
+- Das Knie zieht diagonal nach vorne durch den Hoop, dadurch hebt sich unser Gesäß von diesem Bein etwas an
+- Während des Durchziehens des Beines achten wir darauf, dass unsere Zehen dabei gestreckt bleiben
+- Bleibt der Fuß von diesem Bein gestreckt, zieht er mit dem Fußrücken über die Bar
+- Ist das Bein komplett durch den Hoop durch, kommen wir in den Basic Seat
+
+### Endposition Basic Seat
+
+- Wir sitzen mit beiden Gesäßhälften auf 6:00 Uhr im Inneren der Bar
+- Unsere Hände greifen die Bar bei 12:00 Uhr neben der Aufhängung
+- Unser Oberkörper sitzt aufrecht, Brust raus und Schulterblätter zusammen
+
+### Beinposition in der Endpose
+
+Drei Varianten – wir wählen je nachdem, was danach kommt:
+
+- **Parallel nebeneinander:** Beine parallel mit einem 90°-Winkel zwischen Ober- und Unterschenkel positioniert, Zehenspitzen gestreckt
+- **Lady Seat (überschlagen):** Wir überschlagen die Beine – welches Bein über welches kommt, hängt davon ab, was wir danach machen möchten. Oberschenkel und Unterschenkel sind wieder im 90°-Winkel zueinander positioniert, Zehenspitzen gestreckt
+- **Ein Bein gestreckt + Passé:** Das Bein, mit dem wir durchgestiegen sind, strecken wir nach Richtung Boden gerade aus – das andere Bein ziehen wir in ein Passé
+
+### Handposition / Armposition in der Endpose
+
+Mehrere Varianten – je nach Pose und Ausdruck:
+
+- **Hände bei 12:00 Uhr neben der Aufhängung:** Wir können die Hände / Arme dort gegriffen halten
+- **Hände bei 9:00 und 15:00 Uhr:** Wir können mit den Händen nach unten rutschen und die Bar auf 9:00 und 15:00 Uhr greifen
+- **Arme im 90°-Winkel ausgestreckt:** Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken. Dabei ist es wichtig, dass wir unser Gleichgewicht halten. Das Gleichgewicht halten wir, indem wir uns mit unserer Brust nach vorne lehnen – Schulterblätter zusammen, Brustbein heraus drücken – und unser Gewicht auf die ausgestreckten Arme geben, so dass die Arme aktiv gegen die Bar drücken
+- **Asymmetrische Variante:** Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen und die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
+
+### Hoop-Zentrierung & Spin
+
 - Unser Standfuß zentriert uns, um den Hoop zum Stillstand zu bringen und unser Schwerpunkt unter die Aufhängung zu bringen
 - Durch Andrehen über unser Standbein können wir unseren Hoop in den Spin-Modus bringen
 - Das Standbein kann nun unter die Bar gehoben werden; strecke es entweder nach vorne aus oder ziehe es in eine Sunwheel-Pose nach hinten
@@ -121,9 +150,16 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Schultern, Schulterblätter aktivieren – Brustbein heben."*
 - *„Eingehängtes Bein strecken."*
 - *„Hochziehen – Oberschenkel drückt von oben gegen die Bar."*
-- *„Unteres Bein mit dem Knie zuerst über die Bar."*
-- *„Sitz auf die Bar – innen im Hoop."*
+- *„Standbein mit Knie voraus nach oben zur Bar."*
+- *„Knie zieht diagonal nach vorne durch den Hoop – Zehen gestreckt."*
+- *„Fußrücken über die Bar."*
+- *„Sitz auf 6 Uhr – beide Gesäßhälften."*
+- *„Hände bei 12 Uhr – Brust raus, Schulterblätter zusammen."*
 - *„Standfuß zentriert – Hoop kommt zur Ruhe."*
+
+**Endpose-Varianten:**
+- *„Beine parallel, 90° – oder überschlagen im Lady Seat – oder ein Bein gestreckt und eines im Passé."*
+- *„Hände bei 12, oder 9 und 15, oder Arme 90° gestreckt – Brust nach vorne, Arme drücken aktiv gegen die Bar."*
 
 ---
 
@@ -136,8 +172,10 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 | **Das Passé-Bein bleibt zu tief** – die Kniekehle erreicht die Bar nicht. | Hand unter den Oberschenkel legen, gemeinsam das Bein höher heben. *„Knie zur Brust – Passé hoch."* |
 | **Die Kniekehle erwischt die Bar nicht** – das Bein rutscht ab oder kommt mit dem Knöchel statt der Kniekehle an. | *„Die Kniekehle schnappt – nicht der Knöchel."* Wir zeigen am eigenen Bein, wo die Kniekehle ist. |
 | **Die Schülerin hängt beim Übergang in die Schultern** – Lat und Schulterblätter werden nicht aktiviert. | Hand auf den Lat legen, taktil aktivieren: *„Hier zieht – Brustbein hebt sich – Schultern in die Gelenkpfanne."* |
-| **Das untere Bein kommt nicht sauber über die Bar** – Schülerin bleibt halb hängen. | *„Knie zuerst – Füße gestreckt – über die Bar nach vorne."* Mit Hand am Schienbein leiten. |
-| **Der Sitz ist instabil** – die Schülerin rutscht von der Bar zurück. | *„Setz dich tief auf die Bar."* Aktiv das Gesäß nach hinten setzen lassen. |
+| **Das Standbein kommt nicht sauber über die Bar** – Schülerin bleibt halb hängen oder das Knie kommt nicht diagonal nach vorne. | *„Knie voraus diagonal nach vorne – nicht gerade nach oben."* Mit Hand am Schienbein leiten. |
+| **Die Zehen knicken beim Durchziehen ein** – der Fuß bleibt an der Bar hängen. | *„Zehen lang strecken – Fußrücken zieht über die Bar."* Vor dem Durchziehen die Fußstellung kontrollieren. |
+| **Der Sitz ist instabil** – die Schülerin sitzt nicht auf beiden Gesäßhälften auf 6:00 Uhr. | *„Beide Gesäßhälften auf 6 Uhr – Sitz im Inneren der Bar."* Aktiv nachjustieren lassen. |
+| **Bei der 90°-Arme-Variante kippt die Schülerin nach hinten** – das Gleichgewicht ist nicht in den Armen. | *„Brust nach vorne lehnen – Gewicht auf die Arme – sie drücken aktiv gegen die Bar."* |
 
 ---
 
@@ -177,13 +215,24 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - c) wir lassen den Hoop schwingen
 - d) wir greifen mit nur einer Hand
 
-**4. Wie kommt das untere Bein in den Basic Seat über die Bar?**
+**4. Wie kommt das Standbein in den Basic Seat über die Bar?**
 - a) gerade nach unten gestreckt
-- b) ✅ mit dem Knie zuerst und gestreckten Füßen nach vorne über die Bar
+- b) ✅ mit dem Knie voraus diagonal nach vorne durch den Hoop, der Fußrücken zieht über die Bar
 - c) wir lassen es einfach baumeln
 - d) wir schwingen es zur Seite
 
-**5. Warum aktivieren wir Lat und Schulterblätter beim Hochziehen vom Step in Mount in den Basic Seat?**
+**5. Auf welcher Uhrzeit sitzen wir in der Endposition des Basic Seat?**
+- a) bei 12:00 Uhr
+- b) ✅ mit beiden Gesäßhälften auf 6:00 Uhr im Inneren der Bar
+- c) bei 9:00 Uhr
+- d) seitlich auf 3:00 Uhr
+
+**6. Welche drei Bein-Varianten kennen wir in der Endpose vom Basic Seat?**
+*(Freitext – wir denken nach)*
+
+> Erwartete Antwort: Parallel nebeneinander mit 90°-Winkel zwischen Ober- und Unterschenkel und gestreckten Zehenspitzen / Lady Seat mit überschlagenen Beinen (Wahl je nach Folgefigur, ebenfalls 90°-Winkel und gestreckte Zehen) / Ein Bein gestreckt nach unten und das andere im Passé.
+
+**7. Warum aktivieren wir Lat und Schulterblätter beim Hochziehen vom Step in Mount in den Basic Seat?**
 *(Freitext – wir denken nach)*
 
 > Erwartete Antwort: Damit wir nicht in den Schultern hängen, wenn wir uns hochziehen. Die Schulter sitzt strukturell in der Gelenkpfanne, der Latissimus übernimmt den Zug nach oben. Das Brustbein hebt sich, wir bewegen uns kontrolliert aus dem passiven Hängen in den aktiven Sitz.
