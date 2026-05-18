@@ -88,7 +88,7 @@ Nach dieser Lektion können wir:
 
 ### Ready for Basic Seat
 
-- Wir aktivieren unsere Schultern, Schulterblätter und heben das Brustbein
+- Wir aktivieren unsere Schultern und ziehen uns aus den Schultern etwas hoch, gleichzeitig aktivieren wir unseren Lat, ziehen die Schulterblätter zusammen und heben das Brustbein nach vorne heraus
 - Wir strecken das eingehängte Bein aus
 - Wir ziehen uns nun etwas hoch, während die Oberschenkelrückseite vom zuvor eingehängten Bein von oben gegen die Bar drückt
 - Wir ziehen nun das untere Bein – Standbein – mit dem Knie voraus nach oben zur Bar

@@ -142,18 +142,15 @@ Mehrere Varianten – je nach Pose und Ausdruck:
   - Wir können die Hände / Arme dort gegriffen halten
 - **Hände bei 9:00 und 15:00 Uhr**
   - Wir können mit den Händen nach unten rutschen und die Bar auf 9:00 und 15:00 Uhr greifen
-- **Arme im 90°-Winkel ausgestreckt**
-  - Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken
+- **Arme im 90°-Winkel ausgestreckt – hinter dem Hoop**
+  - Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken – die Arme liegen hinter dem Hoop
+  - Wir geben unser Gewicht auf die ausgestreckten Arme, so dass die Arme aktiv von hinten gegen die Bar drücken
   - Dabei ist es wichtig, dass wir unser Gleichgewicht halten
   - Das Gleichgewicht halten wir, indem wir uns mit unserer Brust nach vorne lehnen – Schulterblätter zusammen, Brustbein heraus drücken
-  - Wir geben unser Gewicht auf die ausgestreckten Arme, so dass die Arme aktiv gegen die Bar drücken
+  - Schultern entspannen, nicht zu den Ohrläppchen ziehen
 - **Asymmetrische Variante**
   - Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen
   - Die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
-- **Arme im 90°-Winkel hinter dem Hoop**
-  - Wir bringen die Arme in einen 90°-Winkel zum Körper hinter den Hoop und drücken von da leicht gegen den Hoop
-  - Schultern entspannen, nicht zu den Ohrläppchen ziehen
-  - Brustbein schön rausheben für einen geraden Rücken
 
 ### Spin-Variante
 
