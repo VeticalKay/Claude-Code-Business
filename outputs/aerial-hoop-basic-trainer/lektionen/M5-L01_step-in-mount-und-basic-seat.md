@@ -137,10 +137,14 @@ Mehrere Varianten – je nach Pose und Ausdruck:
 
 ### Spin-Variante
 
-Aus dem Basic Seat können wir den Hoop in den Spin-Modus bringen:
+Aus dem Step in Mount vor dem Reingehen in den Basic Seat können wir den Hoop in den Spin-Modus bringen.
 
-- Standbein dreht uns leicht an
-- Standbein heben (gestreckt nach vorne oder Sunwheel nach hinten)
+- Unser Standfuß zentriert uns, er bringt den Hoop zum Stillstand und unser Schwerpunkt unter die Aufhängung
+- Wir stellen uns mit dem Gewicht auf einen Fußballen oder auf die Zehenspitzen – das andere Bein heben wir leicht in die Luft
+- Über diesen Fußballen oder der Zehenspitze drehen wir uns um unsere eigene Achse an
+- In welche Richtung wir uns hier drehen ist in dieser Kombination aktuell gleich
+- Langsam andrehen, um uns an den Spin-Modus zu gewöhnen
+- Dadurch bringen wir unseren Hoop in den Spin-Modus
 
 📖 **Für die Mechanik + Tempo-Kontrolle:** siehe Modul 4.1 — Spinning vs. Statisch (Praxis)
 
