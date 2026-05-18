@@ -64,10 +64,13 @@ Nach dieser Lektion können wir:
 
 ### Spinning-Modus — den Hoop andrehen
 
-- Wir bringen uns mit dem Step in Mount (oder einem anderen Mount) in unsere Ausgangsposition vor dem Hoop
-- Bevor wir einsteigen, drehen wir den Hoop mit unserem Standbein am Boden leicht an
-- Die Stärke des Andrehens entscheidet über die Anfangsgeschwindigkeit – wir beginnen sanft
-- Dann steigen wir in den Mount ein
+- Wir bringen uns mit dem Step in Mount (oder einem anderen Mount) bis in die Position, in der die Kniekehle in der Bar hängt und das Standbein am Boden steht
+- Unser Standfuß zentriert uns – er bringt den Hoop zum Stillstand und unseren Schwerpunkt unter die Aufhängung
+- Wir stellen uns mit dem Gewicht auf einen Fußballen oder auf die Zehenspitzen – das andere Bein heben wir leicht in die Luft
+- Über diesen Fußballen oder der Zehenspitze drehen wir uns um unsere eigene Achse an
+- Langsam andrehen, um uns an den Spin-Modus zu gewöhnen
+- Dadurch bringen wir unseren Hoop in den Spin-Modus
+- Die Richtung des Andrehens hängt davon ab, was als nächste Figur folgt – bei manchen Figuren ist sie egal, bei anderen vorgegeben
 - Sind wir im Hoop angekommen, kontrolliert unser Körper das Tempo
 
 ### Tempo-Kontrolle durch Körperhaltung
@@ -99,7 +102,10 @@ Das, was wir in der Stunde sagen:
 - *„Heute im Spin – wir drehen den Hoop sanft an."*
 
 **Spin auslösen:**
-- *„Standbein leicht andrehen – sanft beginnen."*
+- *„Standfuß zentriert – Hoop kommt zur Ruhe."*
+- *„Auf den Fußballen oder die Zehenspitzen – anderes Bein leicht hoch."*
+- *„Über die Spitze um die eigene Achse andrehen."*
+- *„Langsam – wir gewöhnen uns."*
 - *„Erst der Mount, dann lässt der Körper das Tempo entstehen."*
 
 **Tempo kontrollieren:**
@@ -119,6 +125,8 @@ Das, was wir in der Stunde sagen:
 |---|---|
 | **Die Schülerin wird schwindlig** – sie unterschätzt die Spin-Geschwindigkeit. | Sofort Tempo rausnehmen: Arme + Beine ausstrecken, Oberkörper rauslehnen. Wenn nötig, mit Standbein am Boden bremsen und kurz pausieren. *„Atmen – Blick auf einen festen Punkt."* |
 | **Zu starkes Andrehen am Anfang** – der Spin ist zu schnell, bevor die Schülerin sicher im Mount ist. | *„Beim ersten Mal nur einen ganz sanften Impuls geben – wir bauen langsam auf."* Wir zeigen die Tempo-Steigerung später mit Körperhaltung. |
+| **Schülerin dreht über die Ferse statt über den Fußballen / die Zehenspitze** – kein sauberer Spin entsteht, der Hoop wackelt eher als sich zu drehen. | *„Gewicht nach vorne – auf den Fußballen oder die Zehenspitze. Die Ferse hebt sich vom Boden."* |
+| **Das andere Bein bleibt am Boden** – die Drehung wird durch das zweite Bein gebremst. | *„Heb das andere Bein leicht in die Luft – nur der Fußballen / die Zehenspitze trägt uns."* |
 | **Die Schülerin macht sich klein, obwohl sie langsamer werden will** – sie verwirrt die Logik. | *„Erinnerung: klein = schnell, groß = langsam. Wir machen uns lang, um zu bremsen."* Mit eigenem Körper demonstrieren. |
 | **Statischer Hoop wird verwechselt mit defektem Spinning-Hoop** – Schülerin fragt, warum sich nichts dreht. | *„Schau nach oben – siehst du das Wirbel-Kugellager?"* Wir erklären den Hardware-Unterschied. |
 | **Schülerin steigt aus, bevor der Hoop zur Ruhe gekommen ist** – Sturzgefahr. | *„Wir warten, bis der Hoop steht. Standbein am Boden, Hand am Hoop, bremsen lassen."* |
