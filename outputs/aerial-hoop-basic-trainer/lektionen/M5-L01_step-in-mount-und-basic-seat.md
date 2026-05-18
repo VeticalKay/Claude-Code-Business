@@ -135,11 +135,14 @@ Mehrere Varianten – je nach Pose und Ausdruck:
   - Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen
   - Die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
 
-### Hoop-Zentrierung & Spin
+### Spin-Variante
 
-- Unser Standfuß zentriert uns, um den Hoop zum Stillstand zu bringen und unser Schwerpunkt unter die Aufhängung zu bringen
-- Durch Andrehen über unser Standbein können wir unseren Hoop in den Spin-Modus bringen
-- Das Standbein kann nun unter die Bar gehoben werden; strecke es entweder nach vorne aus oder ziehe es in eine Sunwheel-Pose nach hinten
+Aus dem Basic Seat können wir den Hoop in den Spin-Modus bringen:
+
+- Standbein dreht uns leicht an
+- Standbein heben (gestreckt nach vorne oder Sunwheel nach hinten)
+
+📖 **Für die Mechanik + Tempo-Kontrolle:** siehe Modul 4.1 — Spinning vs. Statisch (Praxis)
 
 ---
 
