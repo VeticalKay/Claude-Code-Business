@@ -9,7 +9,7 @@
 ### Step in Mount + Stag Seat: (Videolink)
 *(Level 1)*
 
-In dieser Lektion verbinden wir den Step in Mount mit dem Übergang über den Basic Seat in den Stag Seat. Der Stag Seat ist eine elegante Variante des Sitzes – wir drehen uns zur Seite, winkeln ein Bein an und strecken das andere lang aus.
+In dieser Lektion verbinden wir den Step in Mount mit dem Übergang über den Sitz im Hoop in den Stag Seat. Der Stag Seat ist eine elegante Variante des Sitzes – wir drehen uns zur Seite, winkeln ein Bein an und strecken das andere lang aus.
 
 ---
 
@@ -20,7 +20,7 @@ Nach dieser Lektion können wir:
 - den Step in Mount und den Übergang in den Stag Seat als komplette Kombination sicher und kontrolliert demonstrieren
 - den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären
 - die häufigsten Fehler in jeder Phase erkennen und liebevoll korrigieren
-- spüren, wann eine Schülerin bereit ist, sich vom Basic Seat in die Stag-Drehung zu öffnen
+- spüren, wann eine Schülerin bereit ist, sich vom Sitz in die Stag-Drehung zu öffnen
 
 ---
 
@@ -35,8 +35,8 @@ Nach dieser Lektion können wir:
 
 | Körperteil | Funktion / Wirkung |
 |---|---|
-| **Bizeps + Unterarme** | greifen den Hoop in der Ausgangsposition und im Umgreifen auf 12:00 Uhr |
-| **Schultern** | Außenrotation in die Gelenkpfanne im Mount, im Stag dann entspannt – nicht zu den Ohrläppchen ziehen |
+| **Bizeps + Unterarme** | greifen den Hoop in der Ausgangspose und im Umgreifen auf 12:00 Uhr |
+| **Schultern** | machen die Außenrotation über außen nach hinten unten – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen. Im Stag Seat dann entspannt – nicht zu den Ohrläppchen ziehen |
 | **Latissimus + Schulterblätter** | werden im Übergang aktiviert, ziehen uns hoch – das Brustbein hebt sich |
 | **Hüftbeuger + Quadrizeps angewinkeltes Bein** | winkeln das Bein in den rechten Winkel ab |
 | **Hüftbeuger + Quadrizeps gestrecktes Bein** | strecken das andere Bein lang und gerade aus |
@@ -48,22 +48,43 @@ Nach dieser Lektion können wir:
 
 ## Schritt-für-Schritt
 
-### Ausgangsposition
+> *Zu Beginn arbeiten wir uns an die Figuren im Hoop und am Hoop on Air aus dem Step in Mount. Der Step in Mount spart unseren Schülern zu Beginn viel Kraft und der Schüler hat Zeit sich langsam an die Griffkraft und die Figuren im Hoop zu gewöhnen.*
 
-- Wir stehen hinter dem Hoop
-- Unsere Hände greifen den Hoop bei ca. 15:00 Uhr und 9:00 Uhr
-- Wir sorgen dafür, dass wir einen guten Stand auf einem Bein haben - das wird unser Standbein
-- Wir schwingen den Hoop etwas nach vorne, um Platz zwischen uns und dem Hoop zu schaffen
-- Wir ziehen ein Bein, unser aktives Bein in ein Passé
-- Der Hoop schwingt zurück zu uns
+### Ausgangspose
+
+- Wir stehen mittig hinter dem Hoop
+- Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
+
+### Hände / Arme
+
+- Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
+- Die Handrücken schauen zu uns
+
+### Standbein / Spielbein
+
+- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
+- Das andere Bein bleibt frei – es wird unser Spielbein, das wir gleich ins Passé ziehen
+
+### Bewegungsablauf
+
+- Unsere Hände geben Druck auf den Hoop
+- Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
+- Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
+- Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Unser Hoop schwingt zurück zu uns
+- Unser Passé-Bein kickt – streckt sich nach vorne aus
 
 ### Ready for Step in Mount
 
-- Unser Passé-Bein kickt nach vorne und steigt in den Hoop ein
+- Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
 - Wir schnappen uns den Hoop mit der Kniekehle
-- Wir greifen um - greifen den Hoop bei 12:00 Uhr, etwa schulterbreit
-- Wir setzen uns tief rein, das Gesäß setzt sich und wir hängen mit einer Kniekehle in der Bar
+- Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+- Die Schultern machen eine Außenrotation über außen nach hinten unten
+- Wir senken unser Gesäß
+- Wir setzen uns tief rein, das Gesäß setzt sich nach unten Richtung Boden
+- Wir hängen mit unserem Gewicht in der Kniekehle vom eingehängten Bein in der Bar
 - Langsam lassen wir uns mit unserem Standbein am Boden unter die Aufhängung gleiten
+- Dadurch kommt unser Schwerpunkt und unser Gewicht unter die Aufhängung
 
 ### Ready for Stag Seat
 
@@ -71,12 +92,28 @@ Nach dieser Lektion können wir:
 - Wir ziehen uns aus den Schultern etwas hoch, Lat, Schulterblätter aktivieren und Brust raus
 - Wir steigen mit dem Fuß durch den Hoop, wir rutschen mit beiden Beinen weiter durch den Hoop und kommen in einem Sitz unterhalb unseres Gesäßes zum Sitzen
 - Wir suchen uns eine Seite aus, zu der wir uns drehen
-- Das Bein zu der Seite wir uns drehen winkelt das Bein ab, dadurch kommt Oberschenkel und Unterschenkel in einen rechten Winkel zueinander
+
+### Endposition Stag Seat
+
+- Das Bein zu der Seite, zu der wir uns drehen, winkelt das Bein ab – dadurch kommt Oberschenkel und Unterschenkel in einen rechten Winkel zueinander
 - Das andere Bein streckt sich lang und gerade aus
 - Wir sitzen mehr auf der Pobacke vom gestreckten Bein und die Pobacke vom angewinkelten Bein hängt etwas freier
 - Wir bringen nun die Arme in einen 90°-Winkel zum Körper hinter den Hoop und drücken von da leicht gegen den Hoop
 - Schultern entspannen, nicht zu den Ohrläppchen ziehen und Brustbein schön rausheben für einen geraden Rücken
 - Zehenspitzen schön strecken
+
+### Spin-Variante
+
+Aus dem Step in Mount vor dem Reingehen in den Stag Seat können wir den Hoop in den Spin-Modus bringen.
+
+- Unser Standfuß zentriert uns, er bringt den Hoop zum Stillstand und unser Schwerpunkt unter die Aufhängung
+- Wir stellen uns mit dem Gewicht auf einen Fußballen oder auf die Zehenspitzen – das andere Bein heben wir leicht in die Luft
+- Über diesen Fußballen oder der Zehenspitze drehen wir uns um unsere eigene Achse an
+- Die Drehrichtung wählen wir entsprechend der Seite, zu der wir uns später in den Stag drehen wollen
+- Langsam andrehen, um uns an den Spin-Modus zu gewöhnen
+- Dadurch bringen wir unseren Hoop in den Spin-Modus
+
+📖 **Für die Mechanik + Tempo-Kontrolle:** siehe Modul 4.1 — Spinning vs. Statisch (Praxis)
 
 ---
 
@@ -84,18 +121,23 @@ Nach dieser Lektion können wir:
 
 Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schülerinnen trägt:
 
-**Ausgangsposition:**
-- *„Hinter den Hoop – Hände bei 15 und 9 Uhr."*
-- *„Stand auf ein Bein – das ist dein Standbein."*
-- *„Hoop schwingen – Platz machen."*
-- *„Aktives Bein ins Passé."*
-- *„Hoop kommt zurück."*
+**Ausgangspose + Setup:**
+- *„Mittig hinter den Hoop – Blick mittig durch ihn hindurch."*
+- *„Hände bei 9 und 15 Uhr – Handrücken zu dir."*
+- *„Gewicht auf ein Bein – das ist dein Standbein."*
+
+**Bewegungsablauf:**
+- *„Druck auf den Hoop – Schultern in die Gelenkpfanne."*
+- *„Schwingen lassen – wir machen Platz."*
+- *„Spielbein ins Passé."*
+- *„Der Hoop kommt zurück zu dir."*
+- *„Aktives Bein streckt sich – kick durch."*
 
 **Step in Mount:**
-- *„Passé kickt nach vorne – steig ein."*
 - *„Knie schnappt sich die Bar."*
-- *„Umgreifen – Hände auf 12 Uhr, schulterbreit."*
-- *„Tief setzen – Gesäß sinkt."*
+- *„Hände nach oben – schulterbreit, neben der Aufhängung."*
+- *„Schultern in die Gelenkpfanne – Außenrotation."*
+- *„Gesäß sinkt – wir hängen in der Kniekehle."*
 - *„Standbein gleitet unter die Aufhängung."*
 
 **Stag Seat:**
@@ -134,9 +176,10 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 **Wenn sie sich leicht anfühlt:**
 
-- Aus dem Stag Seat direkt in den Cradle (Modul 6.x)
 - Stag Seat im Spinning-Modus
+- Aus dem Stag Seat direkt in den Cradle (Modul 6.x)
 - Stag Back Balance aus dem Stag Seat
+- Single Leg Cradle aus dem Stag Seat
 
 ---
 
@@ -186,10 +229,11 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - Modul 5.1 — Step in Mount + Basic Seat (Basis-Kombi)
 - Modul 4.2 — Step in Mount Variante A
 - Modul 4.3 — Step in Mount Variante B
+- Modul 4.1 — Spinning vs. Statisch (für die Spin-Variante)
 
 **Aus dieser Lektion heraus öffnen sich uns:**
 - Stag Seat im Spinning-Modus
-- Modul 6.x — Cradle aus Step in Mount
+- Modul 6.x — Cradle aus Stag Seat
 - Stag Back Balance aus dem Stag Seat
 - Single Leg Cradle aus Stag Seat
 
