@@ -41,7 +41,7 @@ Nach dieser Lektion können wir:
 | **Hüftbeuger + Quadrizeps angewinkeltes Bein** | winkeln das Bein in den 90°-Winkel ab, Oberschenkel parallel zur Bar |
 | **Hüftbeuger + Quadrizeps gestrecktes Bein** | strecken das andere Bein lang und gerade aus in den 90°-Winkel zum gebeugten Bein |
 | **Seitlicher Rumpf + schräge Bauchmuskeln** | drehen die Hüfte zur Seite, halten uns stabil in der Stag-Rotation |
-| **Äußere Kniefalte am gebeugten Bein** | hakt an der Bar ein – sie ist unser Stabilitäts-Anker in der Stag-Position |
+| **Äußere Kniefalte am gebeugten Bein** | legt von vorne an der Bar an und drückt leicht gegen die Bar – sie ist unser Stabilitäts-Anker in der Stag-Position (kein Einhängen, nur Anlegen + Druck) |
 | **Gesäßhälfte am gebeugten Bein** | trägt das Gewicht; die Gesäßhälfte vom gestreckten Bein hängt eher frei an der Bar runter |
 | **Trizeps + Schultern** | drücken die Arme im 90°-Winkel hinter dem Hoop leicht gegen die Bar – das gibt uns Stabilität in der Stag-Position |
 | **Rumpfstrecker** | halten den Rücken gerade, das Brustbein hebt sich |
@@ -116,7 +116,7 @@ Nach dieser Lektion können wir:
 
 - Das Bein zu der Seite, wir uns drehen, winkelt ab – dadurch kommt unser Oberschenkel parallel zur Bar bzw. zum Boden
 - Der Oberschenkel und Unterschenkel gehen in einen rechten Winkel 90° zueinander
-- *Achtung:* Wir achten darauf, dass wir uns soweit zur Seite rüber drehen, bis unsere äußere Kniefalte vom abgewinkelten Bein an der Bar anliegt
+- *Achtung:* Wir achten darauf, dass wir uns soweit zur Seite rüber drehen, bis unsere äußere Kniefalte vom abgewinkelten Bein von vorne an der Bar anliegt und leicht gegen die Bar drückt – wir hängen uns NICHT ein, die Kniefalte liegt nur an und gibt sanften Gegendruck
 - Das andere Bein streckt sich lang und gerade aus – es kommt dadurch in einen rechten Winkel / 90°-Winkel zum gebeugten Bein
 - *Achtung:* Wir sitzen in der Position so in der Bar, dass unsere Gesäßhälfte vom gestreckten Bein eher frei an der Bar runterhängt und wir mehr auf der Gesäßhälfte von unserem gebeugten Bein sitzen
 - Das gibt Stabilität und uns ein besseres Gleichgewicht
@@ -201,7 +201,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Mit dem Gesäß weiter durchrutschen – Bar unter der Gesäßfalte."*
 - *„Wähl eine Seite – Hüfte dreht zur Seite, Blick auf die Bar bei 9 oder 15 Uhr."*
 - *„Bein abwinkeln – Oberschenkel parallel zur Bar – 90° Winkel."*
-- *„Äußere Kniefalte an die Bar."*
+- *„Äußere Kniefalte von vorne an die Bar – leichter Druck, nicht einhängen."*
 - *„Anderes Bein lang strecken – 90° zum gebeugten Bein."*
 - *„Gewicht auf die Gesäßhälfte vom gebeugten Bein – die andere hängt freier."*
 - *„Zehenspitzen lang strecken."*
@@ -214,7 +214,8 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 |---|---|
 | **Die Schülerin rutscht nicht weit genug durch** – die Bar liegt nicht unter der Gesäßfalte, der Sitz wird instabil. | *„Mit dem Gesäß weiter durchrutschen – die Bar gehört unter die Gesäßfalte."* Hand am Becken leiten. |
 | **Die Hüfte dreht sich nicht vollständig zur Seite** – die Schülerin bleibt halb-frontal sitzen. | *„Hüfte zur Bar drehen – Blick auf 9 oder 15 Uhr."* Mit Hand an der Hüfte sanft mitdrehen. |
-| **Die äußere Kniefalte liegt nicht an der Bar** – das gebeugte Bein hat keinen Stabilitäts-Anker. | *„Soweit drehen, bis die Kniefalte einrastet – fühl die Bar in der Kniefalte."* |
+| **Die äußere Kniefalte liegt nicht an der Bar** – das gebeugte Bein hat keinen Stabilitäts-Anker. | *„Soweit drehen, bis die Kniefalte von vorne an der Bar anliegt und leicht dagegen drückt – nicht einhängen, nur anlegen."* |
+| **Die Schülerin versucht sich mit der Kniefalte einzuhängen** – sie zieht das Bein aktiv an die Bar wie bei einem Haken. | *„Die Kniefalte liegt nur an – wir hängen uns nicht ein. Das gebeugte Bein bleibt entspannt, der Druck kommt aus der Drehung, nicht aus dem Ziehen."* |
 | **Beide Pobacken gleich belastet** – der Sitz wirkt nicht offen, die Drehung fehlt. | *„Mehr Gewicht auf die Gesäßhälfte vom gebeugten Bein – die andere darf freier hängen."* |
 | **Der Bein-Winkel ist nicht 90°** – das angewinkelte oder gestreckte Bein hängt schief. | Mit Hand am Knie korrigieren: *„Oberschenkel parallel zur Bar, Unterschenkel 90° dazu – das andere Bein 90° zum gebeugten."* |
 | **Schultern wandern zu den Ohren** – Verspannung baut sich auf. | *„Schultern locker fallen lassen – nicht zu den Ohrläppchen ziehen."* |
@@ -273,10 +274,10 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - c) wir greifen mit nur einer Hand
 - d) wir verlassen den Hoop
 
-**6. Warum ist die äußere Kniefalte an der Bar so wichtig?**
+**6. Warum ist die äußere Kniefalte an der Bar so wichtig – und was ist der Unterschied zwischen "anlegen" und "einhängen"?**
 *(Freitext – wir denken nach)*
 
-> Erwartete Antwort: Die äußere Kniefalte am gebeugten Bein ist unser Stabilitäts-Anker in der Stag-Position. Sie hakt an der Bar ein und gibt uns Halt für die Drehung. Ohne diese Verbindung kippt die Schülerin nach hinten oder zur Seite, das Gleichgewicht geht verloren. Erst wenn die Kniefalte sitzt, können wir das andere Bein lang ausstrecken und die Pose vollenden.
+> Erwartete Antwort: Die äußere Kniefalte am gebeugten Bein legt sich von vorne an die Bar an und drückt leicht gegen die Bar – sie hängt sich NICHT ein. Dieser sanfte Druck entsteht durch die Drehung der Hüfte zur Seite und ist unser Stabilitäts-Anker in der Stag-Position. Wir ziehen das Bein nicht aktiv an die Bar wie einen Haken, sondern das Bein bleibt entspannt – der Kontakt entsteht durch die Position. Ohne diese Anlage kippen wir nach hinten oder zur Seite, das Gleichgewicht geht verloren. Erst wenn die Kniefalte sanft anliegt, können wir das andere Bein lang ausstrecken und die Pose vollenden.
 
 ---
 
@@ -306,4 +307,4 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 ## Trainer-Notiz
 
-Der Stag Seat ist die erste elegante Variante, die unsere Schülerin im Hoop kennenlernt. Hier öffnet sich das Bewegungsvokabular – plötzlich gibt es Drehung, Asymmetrie, Eleganz. Wir lassen unsere Schülerinnen erst sicher im Basic Seat ankommen, bevor wir sie durchrutschen und drehen lassen. Der entscheidende Moment ist, wenn die äußere Kniefalte an der Bar einrastet – wenn das passiert ist, kommt die Pose von alleine. Wenn der Sitz da ist, kommt die Drehung von alleine.
+Der Stag Seat ist die erste elegante Variante, die unsere Schülerin im Hoop kennenlernt. Hier öffnet sich das Bewegungsvokabular – plötzlich gibt es Drehung, Asymmetrie, Eleganz. Wir lassen unsere Schülerinnen erst sicher im Basic Seat ankommen, bevor wir sie durchrutschen und drehen lassen. Der entscheidende Moment ist, wenn die äußere Kniefalte sich sanft von vorne an die Bar anlegt und leicht dagegen drückt – wir hängen uns nicht ein, sondern lassen den Kontakt aus der Drehung entstehen. Wenn der Sitz da ist und die Kniefalte sanft anliegt, kommt die Pose von alleine.
