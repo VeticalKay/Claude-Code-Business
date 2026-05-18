@@ -48,31 +48,50 @@ Nach dieser Lektion können wir:
 
 ## Schritt-für-Schritt
 
-### Ausgangsposition
-
-- Wir stehen hinter dem Hoop
-- Unsere Hände greifen den Hoop bei ca. 15:00 Uhr und 9:00 Uhr
-- Wir sorgen dafür, dass wir einen guten Stand auf einem Bein haben - das wird unser Standbein
-- Wir schwingen den Hoop etwas nach vorne, um Platz zwischen uns und dem Hoop zu schaffen
-- Wir ziehen ein Bein, unser aktives Bein in ein Passé
-- Der Hoop schwingt zurück zu uns
-
 > *Zu Beginn arbeiten wir uns an die Figuren im Hoop und am Hoop on Air aus dem Step in Mount. Der Step in Mount spart unseren Schülern zu Beginn viel Kraft und der Schüler hat Zeit sich langsam an die Griffkraft und die Figuren im Hoop zu gewöhnen.*
+
+### Ausgangspose
+
+- Wir stehen mittig hinter dem Hoop
+- Unsere Blickrichtung ist zum Hoop und wir schauen mittig durch ihn hindurch
+
+### Hände / Arme
+
+- Unsere Hände greifen den Hoop bei ca. 9:00 Uhr oder zwischen ca. 15:00 Uhr
+- Die Handrücken schauen zu uns
+
+### Standbein / Spielbein
+
+- Wir bringen unser Gewicht auf ein Bein – das wird zu unserem Standbein
+- Das andere Bein bleibt frei – es wird unser Spielbein, das wir gleich ins Passé ziehen
+
+### Bewegungsablauf
+
+- Unsere Hände geben Druck auf den Hoop
+- Wir aktivieren unsere Schultern in der Außenrotation – wir bringen sie in die Gelenkpfanne
+- Wir schwingen den Hoop nach vorne weg von uns, um Platz zwischen unserem Körper und dem Hoop zu bringen
+- Unser Spielbein ziehen wir in Kontakt mit der Wade vom Standbein in ein Passé hoch
+- Unser Hoop schwingt zurück zu uns
+- Unser Passé-Bein kickt – streckt sich nach vorne aus
 
 ### Ready for Step in Mount
 
-- Unser Passé-Bein kickt nach vorne und steigt in den Hoop ein
+- Wir steigen mit diesem gestreckten, aktiven Bein in den Hoop ein
 - Wir schnappen uns den Hoop mit der Kniekehle
-- Wir greifen um - greifen den Hoop bei 12:00 Uhr, etwa schulterbreit
-- Wir setzen uns tief rein, das Gesäß setzt sich und wir hängen mit einer Kniekehle in der Bar
+- Unsere Hände greifen gleichzeitig nach oben neben die Aufhängung – schulterbreit
+- Die Schultern machen eine Außenrotation über außen nach hinten unten
+- Wir senken unser Gesäß
+- Wir setzen uns tief rein, das Gesäß setzt sich nach unten Richtung Boden
+- Wir hängen mit unserem Gewicht in der Kniekehle vom eingehängten Bein in der Bar
 - Langsam lassen wir uns mit unserem Standbein am Boden unter die Aufhängung gleiten
+- Dadurch kommt unser Schwerpunkt und unser Gewicht unter die Aufhängung
 
 ### Ready for Basic Seat
 
 - Wir aktivieren unsere Schultern, Schulterblätter und heben das Brustbein
 - Wir strecken das eingehängte Bein aus
 - Wir ziehen uns nun etwas hoch, während die Oberschenkelrückseite vom zuvor eingehängten Bein von oben gegen die Bar drückt
-- Wir ziehen nun das untere Bein mit dem Knie zuerst und gestreckten Füßen nach vorne über die Bar
+- Wir ziehen nun das untere Bein – Standbein – mit dem Knie voraus nach oben zur Bar und gestreckten Füßen nach vorne über die Bar
 - Wir können uns in einen Basic Seat auf die Bar im Inneren des Aerial Hoops setzen
 - Unser Standfuß zentriert uns, um den Hoop zum Stillstand zu bringen und unser Schwerpunkt unter die Aufhängung zu bringen
 - Durch Andrehen über unser Standbein können wir unseren Hoop in den Spin-Modus bringen
