@@ -277,7 +277,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 **6. Warum ist die äußere Kniefalte an der Bar so wichtig – und was ist der Unterschied zwischen "anlegen" und "einhängen"?**
 *(Freitext – wir denken nach)*
 
-> Erwartete Antwort: Die äußere Kniefalte am gebeugten Bein legt sich von vorne an die Bar an und drückt leicht gegen die Bar – sie hängt sich NICHT ein. Dieser sanfte Druck entsteht durch die Drehung der Hüfte zur Seite und ist unser Stabilitäts-Anker in der Stag-Position. Wir ziehen das Bein nicht aktiv an die Bar wie einen Haken, sondern das Bein bleibt entspannt – der Kontakt entsteht durch die Position. Ohne diese Anlage kippen wir nach hinten oder zur Seite, das Gleichgewicht geht verloren. Erst wenn die Kniefalte sanft anliegt, können wir das andere Bein lang ausstrecken und die Pose vollenden.
+> Erwartete Antwort: Die äußere Kniefalte am gebeugten Bein legt sich von vorne an die Bar an und drückt leicht gegen die Bar. Dieser sanfte Druck entsteht durch die Drehung der Hüfte zur Seite und ist unser Stabilitäts-Anker in der Stag-Position. Ohne diese Anlage kippen wir nach hinten oder zur Seite, das Gleichgewicht geht verloren. Erst wenn die Kniefalte sanft anliegt, können wir das andere Bein lang ausstrecken und die Pose vollenden.
 
 ---
 
