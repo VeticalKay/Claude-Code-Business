@@ -36,6 +36,15 @@
 - Warteliste unvollständig — Katarina liefert vollständige Liste in nächster Session
 - 12 gebuchte Zukunftstermine (Mai–Oktober 2026) bereits rekonstruiert
 
+**Neu abgeschlossen (17.-18.05.26 — Aerial Hoop Massenproduktion + Spinning-Modul):**
+- **Aerial Hoop Lektions-Format final iteriert** — Hybrid-Struktur (Setup-Blöcke + Ready-for-X-Phasen + Endposition + Spin-Variante), Sub-Bullets bei Varianten, Block-Reihenfolge: Ausgangspose → Hände/Arme → Standbein/Spielbein → Bewegungsablauf → Bewegungsablauf in die Endpose
+- **M4-L01 Spinning vs. Statisch (Praxis) NEU** — zentrale Wissensbasis: Hardware-Check, Spin-Auslösung (Fußballen/Zehenspitzen/eigene Achse), Tempo-Kontrolle, Stopp-Technik, Kreislauf-Sicherheit; jede Figur-Lektion verlinkt darauf
+- **M5-L01 Step in Mount + Basic Seat** final mit erweitertem Endpose-Block (3 Bein-Varianten / 4 Hand-Arm-Varianten inkl. 90°-Arme-Variante mit Gleichgewichts-Erklärung)
+- **M5-L02 Step in Mount + Stag Seat** in Hybrid-Struktur — Endposition Stag Seat als eigener Block, Spin-Variante mit Drehrichtung
+- **Wortlaut-Regel etabliert:** Original-Skript-Text 1:1 in Schritt-für-Schritt + Figur-Beschreibung; eigene Worte nur in Anatomie / Cueing / Häufige Fehler / Trainer-Notiz
+- **Memory umfangreich erweitert** (`feedback_lektions_struktur_aerial_hoop.md`) — Block-Reihenfolge, Anatomie-Format, Wortlaut-Regel, Sub-Bullet-Layout, Hybrid-Struktur bei Kombi-Lektionen, Wir-Erzählung
+- Nächste Lektion in Arbeit: M6-L01 Step in Mount + Cradle, dann Man in the Moon + Delilah; Spinning-Praxis später vertiefen
+
 **Neu abgeschlossen (13.05.26 — Founder Story Karussell):**
 - **Erstes Founder Story Karussell** komplett produziert in Canva (DAHJhjjEWVs) — 10 Slides, Aubergine Studio Brand, bereit zum Posten
 - **Brand-Voice geschärft:** keine Vergleiche zu anderen (anziehend statt abgrenzend), Aubergine ≠ Magenta, Logo Sand-Variante

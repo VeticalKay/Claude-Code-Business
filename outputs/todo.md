@@ -8,7 +8,9 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
-- [ ] **🔥 Aerial Hoop Basic Trainer — Level 1/2 Entscheidung bis SO 17.05.2026** — Canva-Skript durchgehen, Level-Trennung visualisieren und entscheiden (ein Kurs sortiert oder zwei separate). Danach: Claude trennt Skripte in Canva nach Entscheidung. Plan liegt in `plans/2026-05-11-aerial-hoop-basic-trainer-alfima.md`, Vorlagen-Lektion in `outputs/aerial-hoop-basic-trainer/lektionen/`.
+- [ ] **🔥 Aerial Hoop Lektionen Review + Massenproduktion** — Lektionen aus `outputs/aerial-hoop-basic-trainer/lektionen/` reviewen (zuletzt: M5-L02 Step in Mount + Stag Seat). Nächste in Arbeit: M6-L01 Step in Mount + Cradle, danach Man in the Moon + Delilah. Format-Standards stehen in Memory `feedback_lektions_struktur_aerial_hoop.md`.
+- [ ] **Aerial Hoop Spinning Praxis (M4-L01) verfeinern** — Tempo-Beispiele, Bremstechniken, spezielle Spin-Mounts, Atemtechnik ergänzen wenn Zeit ist
+- [ ] **Aerial Hoop Cueing-Karten** — als PDF-Downloads in Canva designen (A6, doppelseitig, Brand-Farben Magenta/Nude/Schwarz), eine pro Lektion
 - [ ] **Karussell 2 — The Method** (4 Säulen) — strategisch ANDERS bauen nach Founder-Story-Erkenntnissen: Curiosity-Hook (nicht poetisch), Save-Trigger einbauen ("Save for when you forget why you started"), Comment-Frage mit niedriger Hürde ("Welche Säule trifft dich? Schreib 1-4"), Hashtags breiter mixen für Non-Follower-Reach
 - [ ] **Karussell 3 — Transformation** (Schülerinnen-Story) — echte Schülerin oder generisch
 - [ ] **Karussell 4 — Education** (Ausbildungs-Sales) im Education Brand (Magenta/Black)
@@ -94,6 +96,10 @@
 
 ## ✅ Erledigt
 
+- [x] **Aerial Hoop Lektions-Format final etabliert** (17.-18.05.2026) — Hybrid-Struktur bei Kombi-Lektionen (Setup-Blöcke + Ready-for-X-Phasen + Endposition + Spin-Variante), Sub-Bullets bei Varianten, Block-Reihenfolge, Wortlaut-Regel, Spinning als eigene Praxis-Lektion mit Link-Konzept. Memory umfangreich erweitert.
+- [x] **M4-L01 Aerial Hoop Spinning vs. Statisch (Praxis)** NEU erstellt (18.05.2026) — Hardware-Check, Spin auslösen (Fußballen/Zehenspitzen/eigene Achse), Tempo-Kontrolle, Stopp-Technik, Sicherheits-Sektion mit Kreislauf-Hinweisen
+- [x] **M5-L01 Aerial Hoop Step in Mount + Basic Seat** final (17.-18.05.2026) — komplette Kombi-Lektion mit erweitertem Endpose-Block (Bein-Varianten 3 / Hand-Arm-Varianten 4), Spin-Variante mit Link zu M4-L01
+- [x] **M5-L02 Aerial Hoop Step in Mount + Stag Seat** final (18.05.2026) — Hybrid-Struktur, Endposition Stag Seat, Spin-Variante (Drehrichtung Stag-Seite)
 - [x] **🎉 Talking Head Reel 1 LIVE auf @vertical_kay_pole** (17.05.2026) — aus parallel-Chat konzipiert
 - [x] **🎉 BTS-Reel "POV: chaos behind every tutorial" LIVE** (15.05.2026) — als Feed + Test-Reel gleichzeitig gepostet (A/B), 10 Szenen 30 Sek, Home-Workout-Kontext, English On-Screen-Texte
 - [x] **🎉 Founder Story Karussell LIVE auf @vertical_kay_pole** (14.05.2026) — 10 Slides Aubergine Studio Brand, bilinguale Caption, Top 5 Hashtags, Pole-Community-Sound
@@ -169,4 +175,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 14.05.2026 (Abend, Instagram Performance + BTS-Reel-Konzept)_
+_Zuletzt aktualisiert: 18.05.2026 (Aerial Hoop Lektions-Format final + M4-L01 Spinning Praxis + M5-L01/M5-L02 Hybrid-Struktur)_
