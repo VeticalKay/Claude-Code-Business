@@ -1,4 +1,4 @@
-# Modul 5 — Lektion 5.2: Step in Mount + Stag Seat
+# Modul 5 — Lektion 5.2: Step in Mount + Basic Seat + Stag Seat
 
 > Inhalte zum 1:1 Reinkopieren in Alfima.
 
@@ -6,10 +6,10 @@
 
 ## Level Basic Mounts + Seats:
 
-### Step in Mount + Stag Seat: (Videolink)
+### Step in Mount + Basic Seat + Stag Seat: (Videolink)
 *(Level 1)*
 
-In dieser Lektion verbinden wir den Step in Mount mit dem Übergang über den Sitz im Hoop in den Stag Seat. Der Stag Seat ist eine elegante Variante des Sitzes – wir drehen uns zur Seite, winkeln ein Bein an und strecken das andere lang aus.
+In dieser Lektion verbinden wir den Step in Mount über den Basic Seat in den Stag Seat. Der Stag Seat ist eine elegante Variante des Sitzes – aus dem Basic Seat heraus rutschen wir mit dem Gesäß etwas weiter durch, drehen uns zur Seite, winkeln ein Bein ab und strecken das andere lang aus.
 
 ---
 
@@ -17,17 +17,17 @@ In dieser Lektion verbinden wir den Step in Mount mit dem Übergang über den Si
 
 Nach dieser Lektion können wir:
 
-- den Step in Mount und den Übergang in den Stag Seat als komplette Kombination sicher und kontrolliert demonstrieren
+- den Step in Mount, den Übergang in den Basic Seat und den weiteren Übergang in den Stag Seat als komplette Kombination sicher und kontrolliert demonstrieren
 - den Bewegungsablauf einer Anfängerin Schritt für Schritt klar und deutlich erklären
 - die häufigsten Fehler in jeder Phase erkennen und liebevoll korrigieren
-- spüren, wann eine Schülerin bereit ist, sich vom Sitz in die Stag-Drehung zu öffnen
+- spüren, wann eine Schülerin bereit ist, sich aus dem Basic Seat in die Stag-Drehung zu öffnen
 
 ---
 
 ## Video
 
-🎥 **Demo-Video:** *(Embed Step in Mount + Stag Seat — komplette Kombination)*
-*Datei: `M5-L02_Step-in-Mount-und-Stag-Seat.mp4` — Drive-Ordner: "Stag Seat aus Step in Mount"*
+🎥 **Demo-Video:** *(Embed Step in Mount + Basic Seat + Stag Seat — komplette Kombination)*
+*Datei: `M5-L02_Step-in-Mount-Basic-Seat-Stag-Seat.mp4` — Drive-Ordner: "Stag Seat aus Step in Mount"*
 
 ---
 
@@ -37,10 +37,12 @@ Nach dieser Lektion können wir:
 |---|---|
 | **Bizeps + Unterarme** | greifen den Hoop in der Ausgangspose und im Umgreifen auf 12:00 Uhr |
 | **Schultern** | machen die Außenrotation über außen nach hinten unten – wir bringen die Schulter in die Gelenkpfanne. Dieses bezieht sich darauf, wenn wir den Hoop dann neben der Aufhängung greifen und uns mit dem Knie reinhängen – um dann nicht in den Schultern zu hängen. Im Stag Seat dann entspannt – nicht zu den Ohrläppchen ziehen |
-| **Latissimus + Schulterblätter** | werden im Übergang aktiviert, ziehen uns hoch – das Brustbein hebt sich |
-| **Hüftbeuger + Quadrizeps angewinkeltes Bein** | winkeln das Bein in den rechten Winkel ab |
-| **Hüftbeuger + Quadrizeps gestrecktes Bein** | strecken das andere Bein lang und gerade aus |
-| **Bauchmuskeln + seitlicher Rumpf** | stabilisieren die Drehung zur Seite |
+| **Latissimus + Schulterblätter** | werden im Übergang zum Basic Seat aktiviert, ziehen uns hoch – das Brustbein hebt sich nach vorne heraus |
+| **Hüftbeuger + Quadrizeps angewinkeltes Bein** | winkeln das Bein in den 90°-Winkel ab, Oberschenkel parallel zur Bar |
+| **Hüftbeuger + Quadrizeps gestrecktes Bein** | strecken das andere Bein lang und gerade aus in den 90°-Winkel zum gebeugten Bein |
+| **Seitlicher Rumpf + schräge Bauchmuskeln** | drehen die Hüfte zur Seite, halten uns stabil in der Stag-Rotation |
+| **Äußere Kniefalte am gebeugten Bein** | hakt an der Bar ein – sie ist unser Stabilitäts-Anker in der Stag-Position |
+| **Gesäßhälfte am gebeugten Bein** | trägt das Gewicht; die Gesäßhälfte vom gestreckten Bein hängt eher frei an der Bar runter |
 | **Trizeps + Schultern** | drücken die Arme im 90°-Winkel hinter dem Hoop leicht gegen die Bar – das gibt uns Stabilität in der Stag-Position |
 | **Rumpfstrecker** | halten den Rücken gerade, das Brustbein hebt sich |
 
@@ -86,25 +88,76 @@ Nach dieser Lektion können wir:
 - Langsam lassen wir uns mit unserem Standbein am Boden unter die Aufhängung gleiten
 - Dadurch kommt unser Schwerpunkt und unser Gewicht unter die Aufhängung
 
+### Ready for Basic Seat
+
+- Wir aktivieren unsere Schultern und ziehen uns aus den Schultern etwas hoch, gleichzeitig aktivieren wir unseren Lat, ziehen die Schulterblätter zusammen und heben das Brustbein nach vorne heraus
+- Wir strecken das eingehängte Bein aus
+- Wir ziehen uns nun etwas hoch, während die Oberschenkelrückseite vom zuvor eingehängten Bein von oben gegen die Bar drückt
+- Wir ziehen nun das untere Bein – Standbein – mit dem Knie voraus nach oben zur Bar
+- Das Knie zieht diagonal nach vorne durch den Hoop, dadurch hebt sich unser Gesäß von diesem Bein etwas an
+- Während des Durchziehens des Beines achten wir darauf, dass unsere Zehen dabei gestreckt bleiben
+- Bleibt der Fuß von diesem Bein gestreckt, zieht er mit dem Fußrücken über die Bar
+- Ist das Bein komplett durch den Hoop durch, kommen wir in den Basic Seat
+
+### Endposition Basic Seat
+
+- Wir sitzen mit beiden Gesäßhälften auf 6:00 Uhr im Inneren der Bar
+- Unsere Hände greifen die Bar bei 12:00 Uhr neben der Aufhängung
+- Unser Oberkörper sitzt aufrecht, Brust raus und Schulterblätter zusammen
+
 ### Ready for Stag Seat
 
-- Kommt der Hoop zum Stillstand, sind wir zentriert, dann ziehen wir das Knie vom Standfuß ebenfalls an
-- Wir ziehen uns aus den Schultern etwas hoch, Lat, Schulterblätter aktivieren und Brust raus
-- Wir steigen mit dem Fuß durch den Hoop, wir rutschen mit beiden Beinen weiter durch den Hoop und kommen in einem Sitz unterhalb unseres Gesäßes zum Sitzen
-- Wir suchen uns eine Seite aus, zu der wir uns drehen
+- Wir sitzen jetzt im Basic Seat
+- Von hier aus rutschen wir mit unserem Gesäß etwas weiter durch, so dass die Bar unter unserer Gesäßfalte positioniert ist
+- Wir suchen uns eine Seite aus, zu der wir uns drehen – das hängt davon ab, auf welcher Seite wir arbeiten möchten und was wir danach dran hängen möchten
+- Wir drehen mit unserer Hüfte von vorne gerade aus aus dem Hoop schauend zur Seite, mit der Hüfte Blick auf die Bar Richtung 9:00 Uhr oder 15:00 Uhr
 
-### Endposition Stag Seat
+### Beine / Gesäß in Position bringen
 
-- Das Bein zu der Seite, zu der wir uns drehen, winkelt das Bein ab – dadurch kommt Oberschenkel und Unterschenkel in einen rechten Winkel zueinander
-- Das andere Bein streckt sich lang und gerade aus
-- Wir sitzen mehr auf der Pobacke vom gestreckten Bein und die Pobacke vom angewinkelten Bein hängt etwas freier
-- Wir bringen nun die Arme in einen 90°-Winkel zum Körper hinter den Hoop und drücken von da leicht gegen den Hoop
-- Schultern entspannen, nicht zu den Ohrläppchen ziehen und Brustbein schön rausheben für einen geraden Rücken
+- Das Bein zu der Seite, wir uns drehen, winkelt ab – dadurch kommt unser Oberschenkel parallel zur Bar bzw. zum Boden
+- Der Oberschenkel und Unterschenkel gehen in einen rechten Winkel 90° zueinander
+- *Achtung:* Wir achten darauf, dass wir uns soweit zur Seite rüber drehen, bis unsere äußere Kniefalte vom abgewinkelten Bein an der Bar anliegt
+- Das andere Bein streckt sich lang und gerade aus – es kommt dadurch in einen rechten Winkel / 90°-Winkel zum gebeugten Bein
+- *Achtung:* Wir sitzen in der Position so in der Bar, dass unsere Gesäßhälfte vom gestreckten Bein eher frei an der Bar runterhängt und wir mehr auf der Gesäßhälfte von unserem gebeugten Bein sitzen
+- Das gibt Stabilität und uns ein besseres Gleichgewicht
 - Zehenspitzen schön strecken
+
+### Endposition Beine / Gesäß Stag Seat
+
+Zwei Varianten:
+
+- **Klassischer Stag Seat**
+  - Ein Bein ist senkrecht und 90°-Winkel zur Bar nach vorne heraus gestreckt
+  - Das andere Bein, auf dem wir sitzen, ist in einem rechten Winkel abgebeugt
+- **Stag Seat als Sunwheel-Pose**
+  - Wir können auch unser gestrecktes Bein beugen, indem wir unsere Ferse zum Gesäß ziehen
+  - Dabei kommen auch hier Oberschenkel und Unterschenkel in einen rechten 90°-Winkel
+  - Dadurch sind beide Beine in einer Sunwheel-Pose – nur dass hier das Knie vom freihängenden Bein nach unten zum Boden zeigt und das Bein, auf dem wir sitzen, das Knie nach oben zur Decke zeigt
+
+### Handposition / Armposition in der Endpose
+
+Mehrere Varianten – je nach Pose und Ausdruck:
+
+- **Hände bei 12:00 Uhr neben der Aufhängung**
+  - Wir können die Hände / Arme dort gegriffen halten
+- **Hände bei 9:00 und 15:00 Uhr**
+  - Wir können mit den Händen nach unten rutschen und die Bar auf 9:00 und 15:00 Uhr greifen
+- **Arme im 90°-Winkel ausgestreckt**
+  - Wenn wir mit den Händen die Bar auf 9:00 und 15:00 Uhr gegriffen haben, können wir die Arme in einen 90°-Winkel zu unserem Körper ausstrecken
+  - Dabei ist es wichtig, dass wir unser Gleichgewicht halten
+  - Das Gleichgewicht halten wir, indem wir uns mit unserer Brust nach vorne lehnen – Schulterblätter zusammen, Brustbein heraus drücken
+  - Wir geben unser Gewicht auf die ausgestreckten Arme, so dass die Arme aktiv gegen die Bar drücken
+- **Asymmetrische Variante**
+  - Wir können mit einer Hand auf 12:00 Uhr oder auf 9:00 Uhr oder auf 15:00 Uhr greifen
+  - Die andere Hand macht eine Overstretch-Bewegung, eine Wave oder platziert sich auf den Oberschenkel der gleichen Körperseite
+- **Arme im 90°-Winkel hinter dem Hoop**
+  - Wir bringen die Arme in einen 90°-Winkel zum Körper hinter den Hoop und drücken von da leicht gegen den Hoop
+  - Schultern entspannen, nicht zu den Ohrläppchen ziehen
+  - Brustbein schön rausheben für einen geraden Rücken
 
 ### Spin-Variante
 
-Aus dem Step in Mount vor dem Reingehen in den Stag Seat können wir den Hoop in den Spin-Modus bringen.
+Aus dem Step in Mount vor dem Reingehen in den Basic Seat können wir den Hoop in den Spin-Modus bringen.
 
 - Unser Standfuß zentriert uns, er bringt den Hoop zum Stillstand und unser Schwerpunkt unter die Aufhängung
 - Wir stellen uns mit dem Gewicht auf einen Fußballen oder auf die Zehenspitzen – das andere Bein heben wir leicht in die Luft
@@ -140,16 +193,21 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 - *„Gesäß sinkt – wir hängen in der Kniekehle."*
 - *„Standbein gleitet unter die Aufhängung."*
 
-**Stag Seat:**
-- *„Knie vom Standfuß anziehen – mit Fuß durch den Hoop."*
-- *„Sitz unter dem Gesäß – wähl eine Seite."*
-- *„Drehe dich – Bein zur Seite abwinkeln, 90°."*
-- *„Anderes Bein lang strecken."*
-- *„Sitz auf der Pobacke vom gestreckten Bein – die andere hängt freier."*
-- *„Arme 90° hinter den Hoop – Druck gegen die Bar."*
-- *„Schultern locker – nicht zu den Ohren."*
-- *„Brustbein raus – gerader Rücken."*
-- *„Zehenspitzen strecken."*
+**Basic Seat:**
+- *„Aus den Schultern hochziehen – Lat aktivieren – Schulterblätter zusammen – Brustbein nach vorne."*
+- *„Eingehängtes Bein strecken."*
+- *„Standbein mit Knie voraus zur Bar – Knie diagonal durch den Hoop."*
+- *„Zehen gestreckt – Fußrücken über die Bar."*
+- *„Sitz auf 6 Uhr – beide Gesäßhälften."*
+
+**Übergang in den Stag:**
+- *„Mit dem Gesäß weiter durchrutschen – Bar unter der Gesäßfalte."*
+- *„Wähl eine Seite – Hüfte dreht zur Seite, Blick auf die Bar bei 9 oder 15 Uhr."*
+- *„Bein abwinkeln – Oberschenkel parallel zur Bar – 90° Winkel."*
+- *„Äußere Kniefalte an die Bar."*
+- *„Anderes Bein lang strecken – 90° zum gebeugten Bein."*
+- *„Gewicht auf die Gesäßhälfte vom gebeugten Bein – die andere hängt freier."*
+- *„Zehenspitzen lang strecken."*
 
 ---
 
@@ -157,12 +215,14 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 | Was passiert | Wie wir es liebevoll auflösen |
 |---|---|
-| **Beide Pobacken gleich belastet** – der Sitz wirkt nicht offen, die Drehung fehlt. | *„Mehr Gewicht auf die Pobacke vom gestreckten Bein – die andere darf freier hängen."* |
-| **Der Bein-Winkel ist nicht 90°** – das angewinkelte Bein hängt schief oder zu weit gestreckt. | Mit Hand am Knie korrigieren: *„Knie 90° – Oberschenkel und Unterschenkel rechtwinklig."* |
-| **Die Arme sind nicht im 90°-Winkel hinter dem Hoop** – keine Stabilität durch den Druck gegen die Bar. | *„Ellenbogen nach hinten – 90° zum Körper – Druck gegen den Hoop."* |
+| **Die Schülerin rutscht nicht weit genug durch** – die Bar liegt nicht unter der Gesäßfalte, der Sitz wird instabil. | *„Mit dem Gesäß weiter durchrutschen – die Bar gehört unter die Gesäßfalte."* Hand am Becken leiten. |
+| **Die Hüfte dreht sich nicht vollständig zur Seite** – die Schülerin bleibt halb-frontal sitzen. | *„Hüfte zur Bar drehen – Blick auf 9 oder 15 Uhr."* Mit Hand an der Hüfte sanft mitdrehen. |
+| **Die äußere Kniefalte liegt nicht an der Bar** – das gebeugte Bein hat keinen Stabilitäts-Anker. | *„Soweit drehen, bis die Kniefalte einrastet – fühl die Bar in der Kniefalte."* |
+| **Beide Pobacken gleich belastet** – der Sitz wirkt nicht offen, die Drehung fehlt. | *„Mehr Gewicht auf die Gesäßhälfte vom gebeugten Bein – die andere darf freier hängen."* |
+| **Der Bein-Winkel ist nicht 90°** – das angewinkelte oder gestreckte Bein hängt schief. | Mit Hand am Knie korrigieren: *„Oberschenkel parallel zur Bar, Unterschenkel 90° dazu – das andere Bein 90° zum gebeugten."* |
 | **Schultern wandern zu den Ohren** – Verspannung baut sich auf. | *„Schultern locker fallen lassen – nicht zu den Ohrläppchen ziehen."* |
 | **Der Rücken wird rund** – die Pose verliert ihre Eleganz. | *„Brustbein rausheben – gerader Rücken – langer Hals."* |
-| **Beim Drehen verliert die Schülerin den Sitz** – sie kippt. | Erst nur den Sitz festigen, dann sehr langsam zur Seite drehen. Wir geben taktil Halt am Rumpf. |
+| **Beim Drehen verliert die Schülerin den Sitz** – sie kippt. | Erst nur den Basic Seat festigen, dann sehr langsam durchrutschen und drehen. Wir geben taktil Halt am Rumpf. |
 | **Zehenspitzen sind nicht gestreckt** – die Linien wirken unfertig. | *„Zehenspitzen lang – wir vollenden die Pose bis zur Spitze."* |
 
 ---
@@ -171,12 +231,13 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 **Wenn die Kombination noch zu schwer ist:**
 
-- Wir trennen die Bewegung: erst Step in Mount + Basic Seat üben (Modul 5.1), bis der Sitz fest sitzt
-- Dann separat den Stag-Übergang aus dem Basic Seat üben
+- Wir trennen die Bewegung: erst Step in Mount + Basic Seat sicher üben (Modul 5.1)
+- Dann separat den Stag-Übergang aus dem Basic Seat üben (ohne komplette Step-in-Mount-Sequenz davor)
 
 **Wenn sie sich leicht anfühlt:**
 
 - Stag Seat im Spinning-Modus
+- Sunwheel-Variante (gestrecktes Bein zum Gesäß ziehen)
 - Aus dem Stag Seat direkt in den Cradle (Modul 6.x)
 - Stag Back Balance aus dem Stag Seat
 - Single Leg Cradle aus dem Stag Seat
@@ -185,41 +246,47 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 ## Mini-Quiz
 
-**1. In welchem Winkel sind Oberschenkel und Unterschenkel beim angewinkelten Bein?**
+**1. Was machen wir mit dem Gesäß, bevor wir uns in den Stag drehen?**
+- a) wir bleiben im Basic Seat sitzen
+- b) ✅ wir rutschen etwas weiter durch, so dass die Bar unter unserer Gesäßfalte positioniert ist
+- c) wir heben das Gesäß komplett von der Bar
+- d) wir setzen uns weiter nach vorne
+
+**2. In welchem Winkel sind Oberschenkel und Unterschenkel beim angewinkelten Bein?**
 - a) 45°
 - b) 60°
-- c) ✅ 90° (rechter Winkel)
+- c) ✅ 90° (rechter Winkel) – und der Oberschenkel ist parallel zur Bar
 - d) 120°
 
-**2. Auf welcher Pobacke sitzen wir mehr im Stag Seat?**
-- a) ✅ auf der Pobacke vom gestreckten Bein
-- b) auf der Pobacke vom angewinkelten Bein
+**3. Worauf liegt das gebeugte Bein, damit wir stabil sind?**
+- a) gerade auf der Bar mit der Wade
+- b) ✅ mit der äußeren Kniefalte an der Bar
+- c) das Bein hängt frei
+- d) auf dem Fuß
+
+**4. Auf welcher Gesäßhälfte sitzen wir mehr im Stag Seat?**
+- a) auf der Gesäßhälfte vom gestreckten Bein
+- b) ✅ auf der Gesäßhälfte vom gebeugten Bein
 - c) auf beiden gleich
 - d) auf keiner – wir hängen frei
 
-**3. Wo sind die Arme im Stag Seat positioniert?**
-- a) gestreckt nach oben
-- b) ✅ im 90°-Winkel hinter dem Hoop, leichter Druck gegen die Bar
-- c) gestreckt nach vorne
-- d) seitlich neben dem Körper
+**5. Was unterscheidet die Sunwheel-Variante vom klassischen Stag Seat?**
+- a) wir drehen uns zur anderen Seite
+- b) ✅ das gestreckte Bein wird gebeugt (Ferse zum Gesäß), beide Beine sind in 90°-Winkel – das Knie vom freihängenden Bein zeigt nach unten, das vom Sitz-Bein nach oben
+- c) wir greifen mit nur einer Hand
+- d) wir verlassen den Hoop
 
-**4. Was machen die Schultern im Stag Seat?**
-- a) ziehen sich zu den Ohren
-- b) ✅ entspannen, nicht zu den Ohrläppchen ziehen
-- c) rotieren stark nach außen
-- d) ziehen nach vorne
-
-**5. Warum drücken wir mit den Armen leicht gegen den Hoop von hinten?**
+**6. Warum ist die äußere Kniefalte an der Bar so wichtig?**
 *(Freitext – wir denken nach)*
 
-> Erwartete Antwort: Der Druck der Arme gegen den Hoop stabilisiert uns in der Stag-Drehung. Ohne diesen Gegenhalt verlieren wir die Kontrolle, weil wir mit dem Oberkörper zur Seite ausweichen würden. Der Druck hält uns aufrecht, das Brustbein bleibt offen und der Rücken gerade.
+> Erwartete Antwort: Die äußere Kniefalte am gebeugten Bein ist unser Stabilitäts-Anker in der Stag-Position. Sie hakt an der Bar ein und gibt uns Halt für die Drehung. Ohne diese Verbindung kippt die Schülerin nach hinten oder zur Seite, das Gleichgewicht geht verloren. Erst wenn die Kniefalte sitzt, können wir das andere Bein lang ausstrecken und die Pose vollenden.
 
 ---
 
 ## Download
 
-📎 **Cueing-Karte Step in Mount + Stag Seat** *(A6, doppelseitig, zum Ausdrucken)*
-*Datei: `M5-L02_cueing-karte_step-in-mount-und-stag-seat.pdf` – in Canva erstellt, Brand-Farben Magenta / Nude / Schwarz.*
+📎 **Cueing-Karte Step in Mount + Basic Seat + Stag Seat** *(A6, doppelseitig, zum Ausdrucken)*
+*Datei: `M5-L02_cueing-karte_step-in-mount-basic-seat-stag-seat.pdf` – in Canva erstellt, Brand-Farben Magenta / Nude / Schwarz.*
 
 ---
 
@@ -233,6 +300,7 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 **Aus dieser Lektion heraus öffnen sich uns:**
 - Stag Seat im Spinning-Modus
+- Stag Seat als Sunwheel-Variante
 - Modul 6.x — Cradle aus Stag Seat
 - Stag Back Balance aus dem Stag Seat
 - Single Leg Cradle aus Stag Seat
@@ -241,4 +309,4 @@ Das, was wir in der Stunde sagen – kurz, klar, in dem Ton, der unsere Schüler
 
 ## Trainer-Notiz
 
-Der Stag Seat ist die erste elegante Variante, die unsere Schülerin im Hoop kennenlernt. Hier öffnet sich das Bewegungsvokabular – plötzlich gibt es Drehung, Asymmetrie, Eleganz. Wir lassen unsere Schülerinnen erst sicher im Sitz ankommen, bevor wir sie zur Seite drehen lassen. Zu früher Drehen kostet sie die Kontrolle. Wenn der Sitz da ist, kommt die Drehung von alleine.
+Der Stag Seat ist die erste elegante Variante, die unsere Schülerin im Hoop kennenlernt. Hier öffnet sich das Bewegungsvokabular – plötzlich gibt es Drehung, Asymmetrie, Eleganz. Wir lassen unsere Schülerinnen erst sicher im Basic Seat ankommen, bevor wir sie durchrutschen und drehen lassen. Der entscheidende Moment ist, wenn die äußere Kniefalte an der Bar einrastet – wenn das passiert ist, kommt die Pose von alleine. Wenn der Sitz da ist, kommt die Drehung von alleine.
