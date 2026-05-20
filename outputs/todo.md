@@ -8,6 +8,9 @@
 ## 📋 Offen
 
 ### Hoch / Diese Woche
+- [ ] **🔥 Talking Head 2 filmen + posten** — Skript "10 years to learn handspring" mit Frame-Video Split-Screen (60/40), 28 Sek, in `outputs/2026-05-21-session-summary-talking-heads.md`. Beim CTA Teaser auf Talking Head 3 (Stabilisations-Übungen)
+- [ ] **🔥 Talking Head 3 konzipieren + filmen** — Stabilisations-Übungen für Handspring OHNE Pole, eigener Reel (Content-Funnel nach Talking Head 2)
+- [ ] **🔥 YouTube Short von Handspring-Reel** — Caption "A handspring is actually 2 figures" fertig in `outputs/2026-05-21-session-summary-talking-heads.md`. Nur Invert Intensive Training Link einfügen
 - [ ] **🔥 Aerial Hoop Lektionen Review + Massenproduktion** — Lektionen aus `outputs/aerial-hoop-basic-trainer/lektionen/` reviewen (zuletzt: M5-L02 Step in Mount + Stag Seat). Nächste in Arbeit: M6-L01 Step in Mount + Cradle, danach Man in the Moon + Delilah. Format-Standards stehen in Memory `feedback_lektions_struktur_aerial_hoop.md`.
 - [ ] **Aerial Hoop Spinning Praxis (M4-L01) verfeinern** — Tempo-Beispiele, Bremstechniken, spezielle Spin-Mounts, Atemtechnik ergänzen wenn Zeit ist
 - [ ] **Aerial Hoop Cueing-Karten** — als PDF-Downloads in Canva designen (A6, doppelseitig, Brand-Farben Magenta/Nude/Schwarz), eine pro Lektion
@@ -175,4 +178,4 @@
 
 ---
 
-_Zuletzt aktualisiert: 18.05.2026 (Aerial Hoop Lektions-Format final + M4-L01 Spinning Praxis + M5-L01/M5-L02 Hybrid-Struktur)_
+_Zuletzt aktualisiert: 21.05.2026 (Talking Head 1 live, Talking Head 2 + 3 strategisch geplant, YT Short Caption fertig)_
